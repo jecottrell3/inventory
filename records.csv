@@ -9,13 +9,13 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 65.0000,75,310,LP,BLUZ,1,Alec Seward,Creeping Blues,
 74.0000,77,375,LP,JAZZ,1,Alice Coltrane,Illuminations,
 75.0000,79,413,LP,JAZZ,1,Alice Coltrane,Eternity,
-44.4444,44,000,CD,ROCK,1,Allman Brothers,Decade of Hits 69-79,
-68.0000,72,125,NX,ROCK,1,Allman Brothers,Duane and Gregg,
-69.0000,72,108,CD,ROCK,1,Allman Brothers,Allman Brothers Band,
-70.0000,72,109,CD,ROCK,1,Allman Brothers,Idlewild South,
-71.0000,71,080,CD,ROCK,2,Allman Brothers,Fillmore East,
-72.0000,72,110,CD,ROCK,1,Allman Brothers,Eat a Peach,
-73.0000,73,192,XX,ROCK,1,Allman Brothers,Bothers and Sisters,
+68.0999,72,125,NX,ROCK,1,Allman Brothers,Duane and Gregg,31st of Feb Demo@
+69.1199,72,108,CD,ROCK,1,Allman Brothers,Allman Brothers Band,@
+70.0999,72,109,CD,ROCK,1,Allman Brothers,Idlewild South,@
+71.0706,71,080,CD,ROCK,2,Allman Brothers,Fillmore East,@
+72.0299,72,110,CD,ROCK,1,Allman Brothers,Eat a Peach,@
+73.0899,73,192,XX,ROCK,1,Allman Brothers,Bothers and Sisters,@
+91.1022,99,000,CD,ROCK,1,Allman Brothers,Decade of Hits 1969-1979,@
 33.0000,74,297,LP,BLUZ,1,Andrew Odom,Andrew Odom,
 33.0000,73,221,LP,BLUZ,1,BB King,Underground Gold,
 65.0000,74,265,LP,BLUZ,1,BB King,Live at the Regal,
@@ -33,27 +33,27 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 75.0000,76,353,VL,ROCK,1,Band,Northern Lights Southern Cross,
 33.0000,74,283,LP,BLUZ,1,Barry Goldberg,Two Jews Blues,
 33.0000,77,368,LP,BLUZ,1,Barry Goldberg,And Friend,
-44.4444,44,000,CC,JAZZ,1,Bela Fleck,Perpetual Motion,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Cosmic Hippo,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Cuckoos Nest,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Flecktones,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Flecktones,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Jingle All the Way,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Left of Cool,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Live at the Quick,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Music for Two,with Edgar Meyer
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Outbound,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Rocket Science,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Strength in Numbers,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Tabula Rasa,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,The Enchantment,With Chick Corea
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,The Hidden Land,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Throw Down Your Heart,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,UFO Tofu,
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,Uncommon Ritual,with Edgar Meyer
-44.4444,44,000,CD,JAZZ,1,Bela Fleck,With Marcus Roberts,
-44.4444,44,000,CD,JAZZ,2,Bela Fleck,Live Art,
-44.4444,44,000,CD,JAZZ,3,Bela Fleck,Little Worlds,
+00.9999,99,000,CD,JAZZ,1,Bela Fleck,Outbound,@
+01.1002,99,000,CC,JAZZ,1,Bela Fleck,Perpetual Motion,@
+02.9999,99,000,CD,JAZZ,1,Bela Fleck,Live at the Quick,@
+03.9999,99,000,CD,JAZZ,3,Bela Fleck,Little Worlds,@
+04.0524,99,000,CD,JAZZ,1,Bela Fleck,Music for Two,with Edgar Meyer@
+06.9999,99,000,CD,JAZZ,1,Bela Fleck,The Hidden Land,@
+07.0522,44,000,CD,JAZZ,1,Bela Fleck,The Enchantment,With Chick Corea@
+08.9999,99,000,CD,JAZZ,1,Bela Fleck,Jingle All the Way,@
+09.0303,99,000,CD,JAZZ,1,Bela Fleck,Throw Down Your Heart,@
+11.9999,99,000,CD,JAZZ,1,Bela Fleck,Rocket Science,@
+12.0705,99,000,CD,JAZZ,1,Bela Fleck,With Marcus Roberts,@
+83.9999,99,000,CD,JAZZ,1,Bela Fleck,Dreadful Snakes,Missing@
+89.9999,99,000,CD,JAZZ,1,Bela Fleck,Strength in Numbers,@
+90.9999,99,000,CD,JAZZ,1,Bela Fleck,Flecktones,@
+91.9999,99,000,CD,JAZZ,1,Bela Fleck,Cosmic Hippo,@
+92.9999,99,000,CD,JAZZ,1,Bela Fleck,UFO Tofu,@
+93.9999,99,000,CD,JAZZ,1,Bela Fleck,Cuckoos Nest,@
+96.0702,44,000,CD,JAZZ,1,Bela Fleck,Tabula Rasa,@
+96.9999,99,000,CD,JAZZ,2,Bela Fleck,Live Art,@
+97.0930,99,000,CD,JAZZ,1,Bela Fleck,Uncommon Ritual,with Edgar Meyer@
+98.9999,99,000,CD,JAZZ,1,Bela Fleck,Left of Cool,@
 33.0000,74,287,LP,BLUZ,1,Big Bill Broonzy,Feeling Lowdown,
 33.0000,74,289,LP,BLUZ,1,Big Joe Williams,Plums Look Mellow,
 33.0000,80,446,LP,BLUZ,1,Bill Broonzy,Do That Guitar Rag,
@@ -70,10 +70,10 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 74.0000,80,444,SL,ROCK,1,Bob Dylan,Planet Waves,
 75.0000,76,361,CD,ROCK,1,Bob Dylan,Blood on the Tracks,
 75.0000,76,361,SL,ROCK,1,Bob Dylan,Blood on the Tracks,
-72.0501,73,210,CD,DEAD,1,Bob Weir,Ace,
-76.0399,76,355,LP,DEAD,1,Bob Weir,Kingfish,
-78.0113,81,469,CD,DEAD,1,Bob Weir,Heaven Help The Fool,
-81.1021,81,470,LP,DEAD,1,Bob Weir,Bobby and the Midnights,
+72.0501,73,210,CD,DEAD,1,Bob Weir,Ace,@
+76.0399,76,355,LP,DEAD,1,Bob Weir,Kingfish,@
+78.0113,81,469,CD,DEAD,1,Bob Weir,Heaven Help The Fool,@
+81.1021,81,470,LP,DEAD,1,Bob Weir,Bobby and the Midnights,@
 72.0000,77,396,VL,ROCK,1,Bonnie Raitt,Give It Up,
 68.0000,72,157,KP,ROCK,1,Brewer and Shipley,Down in LA,
 69.0000,72,158,KP,ROCK,1,Brewer and Shipley,Weeds,
@@ -87,11 +87,11 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 66.0000,70,063,VL,ROCK,1,Buffalo Springfield,Buffalo Springfield,
 67.0000,70,064,VL,ROCK,1,Buffalo Springfield,Again,
 68.0000,70,065,VL,ROCK,1,Buffalo Springfield,Last Time Around,
-44.4444,44,000,CD,ROCK,1,Byrds,Byrds Play Dylan,
-44.4444,44,000,CD,ROCK,1,Byrds,Byrds,
-44.4444,44,000,CD,ROCK,1,Byrds,Live From Mars,Roger McGuinn
-67.0000,72,161,CC,ROCK,1,Byrds,Greatest Hits V1,
-70.0000,70,068,CD,ROCK,2,Byrds,Untitled,
+67.0807,72,161,CC,ROCK,1,Byrds,Greatest Hits V1,@
+70.0914,70,068,CD,ROCK,2,Byrds,Untitled,@
+73.0307.99,000,CD,ROCK,1,Byrds,Byrds,@
+79.1199,99,000,CD,ROCK,1,Byrds,Byrds Play Dylan,@
+96.9999,99,000,CD,ROCK,1,Byrds,Live From Mars,Roger McGuinn@
 69.0000,69,013,VL,ROCK,1,CSN,Crosby Stills and Nash,
 33.0000,69,037,XX,ROCK,2,CSNY,Live at Felt Forum,
 33.0000,73,173,VL,ROCK,1,CSNY,Crosby and Nash,
@@ -152,33 +152,33 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 44.4444,44,000,CD,DEAD,2,Dead,Postcards of the Hanging,
 44.4444,44,000,CD,DEAD,4,Dead,England 72,
 44.4444,44,000,CD,DEAD,4,Dead,Sunshine Daydream,
-67.0317,73,201,XX,DEAD,1,Dead,The Grateful Dead,
-68.0718,73,202,CC,DEAD,1,Dead,Anthem Extended,
-68.0718,73,202,CD,DEAD,1,Dead,Anthem of the Sun,
-69.0620,73,203,CD,DEAD,1,Dead,Aoxomoxoa,
-69.1110,73,196,CD,DEAD,2,Dead,Live Dead,
-70.0399,74,269,NX,DEAD,1,Dead,Zabriskie Point,
-70.0714,73,204,CD,DEAD,1,Dead,Workingmans Dead,
-70.1099,73,206,NX,DEAD,1,Dead,Vintage,
-70.1101,73,205,CD,DEAD,1,Dead,American Beauty,
-71.0699,73,207,NX,DEAD,1,Dead,Historic Dead,
-71.1024,73,194,XX,DEAD,2,Dead,Skull and Roses,
-72.1105,73,198,CD,DEAD,3,Dead,Europe 72,
-73.0713,73,208,XX,DEAD,1,Dead,Bears Choice,
-73.1015,73,209,CC,DEAD,1,Dead,Wake of the Flood,
-74.0627,74,271,CD,DEAD,1,Dead,Mars Hotel,
-75.0813,75,000,CD,DEAD,2,Dead,One from the Vault,
-75.0901,75,333,CC,DEAD,1,Dead,Blues For Allah,
-76.0626,76,356,XX,DEAD,2,Dead,Steal Your Face,
-77.0727,77,400,CD,DEAD,1,Dead,Terrapin Station,
-78.1115,78,401,XX,DEAD,1,Dead,Shakedown Street,
-80.0428,80,445,XX,DEAD,1,Dead,Go To Heaven,
-81.0401,81,451,CD,DEAD,2,Dead,Reckoning,
-81.0826,81,454,CD,DEAD,2,Dead,Dead Set,
-87.0706,87,520,XX,DEAD,1,Dead,In the Dark,
-89.1030,89,000,XX,DEAD,1,Dead,Dylan and the Dead,
-89.1031,89,000,CD,DEAD,1,Dead,Built to Last,
-90.0999,73,000,CD,DEAD,2,Dead,Without a Net,
+67.0317,73,201,XX,DEAD,1,Dead,The Grateful Dead,@
+68.0718,73,202,CC,DEAD,1,Dead,Anthem Extended,@
+68.0718,73,202,CD,DEAD,1,Dead,Anthem of the Sun,@
+69.0620,73,203,CD,DEAD,1,Dead,Aoxomoxoa,@
+69.1110,73,196,CD,DEAD,2,Dead,Live Dead,@
+70.0399,74,269,NX,DEAD,1,Dead,Zabriskie Point,@
+70.0714,73,204,CD,DEAD,1,Dead,Workingmans Dead,@
+70.1099,73,206,NX,DEAD,1,Dead,Vintage,@
+70.1101,73,205,CD,DEAD,1,Dead,American Beauty,@
+71.0699,73,207,NX,DEAD,1,Dead,Historic Dead,@
+71.1024,73,194,XX,DEAD,2,Dead,Skull and Roses,@
+72.1105,73,198,CD,DEAD,3,Dead,Europe 72,@
+73.0713,73,208,XX,DEAD,1,Dead,Bears Choice,@
+73.1015,73,209,CC,DEAD,1,Dead,Wake of the Flood,@
+74.0627,74,271,CD,DEAD,1,Dead,Mars Hotel,@
+75.0813,75,000,CD,DEAD,2,Dead,One from the Vault,@
+75.0901,75,333,CC,DEAD,1,Dead,Blues For Allah,@
+76.0626,76,356,XX,DEAD,2,Dead,Steal Your Face,@
+77.0727,77,400,CD,DEAD,1,Dead,Terrapin Station,@
+78.1115,78,401,XX,DEAD,1,Dead,Shakedown Street,@
+80.0428,80,445,XX,DEAD,1,Dead,Go To Heaven,@
+81.0401,81,451,CD,DEAD,2,Dead,Reckoning,@
+81.0826,81,454,CD,DEAD,2,Dead,Dead Set,@
+87.0706,87,520,XX,DEAD,1,Dead,In the Dark,@
+89.1030,89,000,XX,DEAD,1,Dead,Dylan and the Dead,@
+89.1031,89,000,CD,DEAD,1,Dead,Built to Last,@
+90.0999,73,000,CD,DEAD,2,Dead,Without a Net,@
 44.4444,44,000,CD,DEAD,1,Dead Grass,Dead Grass,With Vassar Clements
 33.0000,75,313,LP,ROCK,1,Dickey Betts,Highway Call,
 44.4444,44,000,CD,ROCK,1,Dire Straits,Making Movies,
@@ -222,17 +222,17 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 44.4444,44,000,CD,DEAD,1,Garcia,The Pizza Tapes,
 44.4444,44,000,CD,DEAD,1,Garcia,With Howard Wales,
 44.4444,44,000,CD,DEAD,1,Garcia,With Sanjay Mishra,
-71.0701,73,193,CD,DEAD,1,Garcia,Garcia,
-71.1101,73,212,LP,DEAD,1,Garcia,Hooteroll,
-72.0299,76,346,LP,DEAD,1,Garcia,Heavy Turbulence,
-73.0599,73,213,LP,DEAD,1,Garcia,Fire Up,
-73.0799,73,214,LP,DEAD,2,Garcia,Live at Keystone,
-74.0699,74,270,XX,DEAD,1,Garcia,Compliments Of,
-76.0215,76,345,XX,DEAD,1,Garcia,Reflections,
-78.0499,77,399,XX,DEAD,1,Garcia,Cats Down Under the Stars,
-82.0099,82,471,LP,DEAD,1,Garcia,Run For the Roses,
-88.0301,87,521,LP,DEAD,1,Garcia,Keystone Encores Vol 1,
-88.0301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,
+71.0701,73,193,CD,DEAD,1,Garcia,Garcia,@
+71.1101,73,212,LP,DEAD,1,Garcia,Hooteroll,@
+72.0299,76,346,LP,DEAD,1,Garcia,Heavy Turbulence,@
+73.0599,73,213,LP,DEAD,1,Garcia,Fire Up,@
+73.0799,73,214,LP,DEAD,2,Garcia,Live at Keystone,@
+74.0699,74,270,XX,DEAD,1,Garcia,Compliments Of,@
+76.0215,76,345,XX,DEAD,1,Garcia,Reflections,@
+78.0499,77,399,XX,DEAD,1,Garcia,Cats Down Under the Stars,@
+82.0099,82,471,LP,DEAD,1,Garcia,Run For the Roses,@
+88.0301,87,521,LP,DEAD,1,Garcia,Keystone Encores Vol 1,@
+88.0301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,@
 44.4444,44,000,CD,ROCK,1,Genesis,Lamb Lies Down,
 71.0000,82,479,LP,ROCK,1,Genesis,Nursery Cryme,
 72.0000,82,480,LP,ROCK,1,Genesis,Foxtrot,
@@ -380,7 +380,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 33.0000,72,146,XX,ROCK,1,Mountain,Climbing,
 33.0000,75,306,LP,BLUZ,2,Muddy Waters,Fathers and Sons,
 33.0000,80,432,LP,FOLK,1,Muleskinner,Muleskinner,
-71.0899,76,354,XX,DEAD,1,NRPS,New Riders of the Purple Sage,
+71.0899,76,354,XX,DEAD,1,NRPS,New Riders of the Purple Sage,@
 68.0000,70,039,KP,ROCK,1,NYRRE,NY Rock and Roll Ensemble,
 69.0000,69,017,KP,ROCK,1,NYRRE,Faithful Friends,
 70.0000,70,062,KP,ROCK,1,NYRRE,Reflections,
@@ -390,7 +390,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 69.0000,70,059,XX,ROCK,1,Neil Young,Crazy Horse,
 70.0000,70,060,XX,ROCK,1,Neil Young,After the Goldrush,
 72.0000,72,107,XX,ROCK,1,Neil Young,Harvest,
-75.0299,75,303,KP,DEAD,1,Old and In The Way,Old and In The Way,
+75.0299,75,303,KP,DEAD,1,Old and In The Way,Old and In The Way,@
 33.0000,72,154,LP,BLUZ,1,Otis Spann,Biggest Thing Since Colossus,
 33.0000,74,257,LP,BLUZ,1,Otis Spann,Otis Spann,
 33.0000,82,485,SL,FOLK,1,Pentangle,Pentangle,
@@ -419,8 +419,8 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 33.0000,79,423,KP,ROCK,2,Renaissance,Live at Carnegie Hall,
 33.0000,80,433,LP,FOLK,1,Richard Greene,Rambling,
 33.0000,81,467,VL,ROCK,1,Robbie Krieger,Butts Band,
-74.9999,76,360,LP,DEAD,1,Robert Hunter,Rum Runners,
-80.9999,81,453,KP,DEAD,1,Robert Hunter,Jack of Roses,
+74.9999,76,360,LP,DEAD,1,Robert Hunter,Rum Runners,@
+80.9999,81,453,KP,DEAD,1,Robert Hunter,Jack of Roses,@
 33.0000,71,085,XX,ROCK,1,Rod Stewart,Every Picture,
 33.0000,71,086,XX,ROCK,1,Rod Stewart,Rod Stewart,
 33.0000,71,092,XX,ROCK,1,Rod Stewart,Gasoline Alley,
