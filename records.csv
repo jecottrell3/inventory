@@ -9,7 +9,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 65.0000,75,310,LP,BLUZ,1,Alec Seward,Creeping Blues,
 74.0000,77,375,LP,JAZZ,1,Alice Coltrane,Illuminations,
 75.0000,79,413,LP,JAZZ,1,Alice Coltrane,Eternity,
-68.0999,72,125,NX,ROCK,1,Allman Brothers,Duane and Gregg,31st of Feb Demo@
+68.7205,72,125,NX,ROCK,1,Allman Brothers,Duane and Gregg,31st of Feb Demo@
 69.1199,72,108,CD,ROCK,1,Allman Brothers,Allman Brothers Band,@
 70.0999,72,109,CD,ROCK,1,Allman Brothers,Idlewild South,@
 71.0706,71,080,CD,ROCK,2,Allman Brothers,Fillmore East,@
@@ -39,7 +39,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 03.9999,99,000,CD,JAZZ,3,Bela Fleck,Little Worlds,@
 04.0524,99,000,CD,JAZZ,1,Bela Fleck,Music for Two,with Edgar Meyer@
 06.9999,99,000,CD,JAZZ,1,Bela Fleck,The Hidden Land,@
-07.0522,44,000,CD,JAZZ,1,Bela Fleck,The Enchantment,With Chick Corea@
+07.0522,99,000,CD,JAZZ,1,Bela Fleck,The Enchantment,With Chick Corea@
 08.9999,99,000,CD,JAZZ,1,Bela Fleck,Jingle All the Way,@
 09.0303,99,000,CD,JAZZ,1,Bela Fleck,Throw Down Your Heart,@
 11.9999,99,000,CD,JAZZ,1,Bela Fleck,Rocket Science,@
@@ -124,16 +124,17 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 69.0000,69,030,XX,ROCK,1,Cream,Goodbye,
 70.0000,70,053,XX,ROCK,1,Cream,Live Cream Vol 1,
 72.0000,72,114,XX,ROCK,1,Cream,Live Cream Vol 2,
-44.4444,44,000,CD,ROCK,1,Danny Gatton,New York Stories,
-44.4444,44,000,CD,ROCK,1,Danny Gatton,Portraits,
-44.4444,44,000,CD,ROCK,1,Danny Gatton,Redneck Jazz Explosion,
-44.4444,44,000,CD,ROCK,2,Danny Gatton,In Concert 9/9/94,
-44.4444,44,000,CD,ROCK,2,Danny Gatton,Live at Desperados,
-44.4444,44,000,CD,ROCK,2,Danny Gatton,Untouchable,
-44.4444,44,000,CD,ROCK,2,Danny Gatton,With Buddy Emmons Live,
-75.0000,76,362,CD,ROCK,1,Danny Gatton,American Music,
-78.0000,79,412,CD,ROCK,1,Danny Gatton,Redneck Jazz,
-87.0000,87,526,CD,ROCK,1,Danny Gatton,Unfinished Business,
+75.9999,76,362,CD,ROCK,1,Danny Gatton,American Music,@
+77.2001,99,000,CD,ROCK,2,Danny Gatton,Live at Desperados,@
+77.9999,99,000,CD,ROCK,2,Danny Gatton,With Buddy Emmons Live,@
+78.1231,79,412,CD,ROCK,1,Danny Gatton,Redneck Jazz,@
+87.9999,87,526,CD,ROCK,1,Danny Gatton,Unfinished Business,@
+91.0319,99,000,CD,ROCK,1,Danny Gatton,88 Elmira Street,@
+92.9999,99,000,CD,ROCK,1,Danny Gatton,New York Stories,@
+93.9999,99,000,CD,ROCK,1,Danny Gatton,Cruising Deuces,@
+95.9999,99,000,CD,ROCK,1,Danny Gatton,Redneck Jazz Explosion,@
+98.9999,99,000,CD,ROCK,1,Danny Gatton,Portraits,@
+98.9999,99,000,CD,ROCK,2,Danny Gatton,Untouchable,@
 33.0000,72,130,XX,ROCK,1,Dave Mason,Alone Together,
 33.0000,72,131,XX,ROCK,1,Dave Mason,Headkeeper,
 72.0000,77,366,LP,FOLK,1,David Bromberg,David Bromberg,
@@ -217,11 +218,9 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 71.0000,73,250,SL,BLUZ,1,Freddie King,Getting Ready,
 73.0000,73,251,SL,BLUZ,1,Freddie King,Woman Across the River,
 86.0000,87,528,SL,BLUZ,2,Freddie King,Just Picking,
-44.4444,44,000,CD,DEAD,1,Garcia,Grateful Dawg,
-44.4444,44,000,CD,DEAD,1,Garcia,So What,
-44.4444,44,000,CD,DEAD,1,Garcia,The Pizza Tapes,
-44.4444,44,000,CD,DEAD,1,Garcia,With Howard Wales,
-44.4444,44,000,CD,DEAD,1,Garcia,With Sanjay Mishra,
+00.0425,99,000,CD,DEAD,1,Garcia,The Pizza Tapes,@
+01.0911,99,000,CD,DEAD,1,Garcia,Grateful Dawg,WOW@
+70.9810,99,000,CD,DEAD,1,Garcia,With Howard Wales,@
 71.0701,73,193,CD,DEAD,1,Garcia,Garcia,@
 71.1101,73,212,LP,DEAD,1,Garcia,Hooteroll,@
 72.0299,76,346,LP,DEAD,1,Garcia,Heavy Turbulence,@
@@ -233,10 +232,12 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 82.0099,82,471,LP,DEAD,1,Garcia,Run For the Roses,@
 88.0301,87,521,LP,DEAD,1,Garcia,Keystone Encores Vol 1,@
 88.0301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,@
+95.0899,99,000,CD,DEAD,1,Garcia,Blue Incantation,on Sanjay Mishra@
+98.0899,99,000,CD,DEAD,1,Garcia,So What,@
 44.4444,44,000,CD,ROCK,1,Genesis,Lamb Lies Down,
-71.0000,82,479,LP,ROCK,1,Genesis,Nursery Cryme,
-72.0000,82,480,LP,ROCK,1,Genesis,Foxtrot,
-73.0000,76,365,LP,ROCK,1,Genesis,Selling England By the Pound,
+71.0000,82,479,NX,ROCK,1,Genesis,Nursery Cryme,
+72.0000,82,480,NX,ROCK,1,Genesis,Foxtrot,
+73.0000,76,365,NX,ROCK,1,Genesis,Selling England By the Pound,
 70.0000,72,147,XX,ROCK,3,George Harrison,All Things Must Pass,
 71.0000,73,168,LP,ROCK,3,George Harrison,Concert for Bangladesh,
 33.0000,80,450,LP,FOLK,1,Good Old Boys,Pistol Packing Mama,
@@ -246,23 +247,24 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 69.0000,69,008,LP,MISS,1,Guess Who,Canned Wheat,
 33.0000,80,443,LP,JAZZ,1,Happy The Man,Happy The Man,
 33.0000,73,247,SL,BLUZ,1,Harvey Mandel,Get Off in Chicago,
-33.0000,71,075,KP,ROCK,1,Hendrix,Cry of Love,
-33.0000,73,218,XX,ROCK,1,Hendrix,With Little Richard,
-44.4444,44,000,CD,ROCK,2,Hendrix,Live at Fillmore East,
-67.0000,69,016,XX,ROCK,1,Hendrix,Axis Bold as Love,
-67.0000,69,031,CD,ROCK,1,Hendrix,Are You Experienced,
-68.0000,69,033,CD,ROCK,2,Hendrix,Electric Ladyland,
-69.0000,69,012,XX,ROCK,1,Hendrix,Smash Hits,
-70.0000,70,054,XX,ROCK,1,Hendrix,Band of Gypsys,
-70.0000,87,523,XX,ROCK,1,Hendrix,Band of Gypsys 2,
-71.0000,72,112,XX,ROCK,1,Hendrix,Rainbow Bridge,
-82.0000,87,524,SL,ROCK,2,Hendrix,The Jimi Hendrix Concerts,
+67.0823,69,031,CD,ROCK,1,Hendrix,Are You Experienced,@
+67.1201,69,016,XX,ROCK,1,Hendrix,Axis Bold as Love,@
+68.1016,69,033,CD,ROCK,2,Hendrix,Electric Ladyland,@
+69.0730,69,012,XX,ROCK,1,Hendrix,Smash Hits,@
+70.0325,70,054,XX,ROCK,1,Hendrix,Band of Gypsys 1,@
+70.7110,72,112,XX,ROCK,1,Hendrix,Rainbow Bridge,@
+70.8208,87,524,SL,ROCK,2,Hendrix,The Jimi Hendrix Concerts,@
+70.8610,87,523,XX,ROCK,1,Hendrix,Band of Gypsys 2,@
+71.0305,71,075,KP,ROCK,1,Hendrix,Cry of Love,@
+71.9999,73,218,XX,ROCK,1,Hendrix,Friends from the Beginning,With Little Richard/BOGUS@
+99.0223,99,000,CD,ROCK,2,Hendrix,Live at Fillmore East,@
 44.4444,44,000,CD,JAZZ,1,Hiromi,Hiromi and Castaneda,
 44.4444,44,000,CD,DEAD,2,Holly Bowling,Better Left Unsung,
 33.0000,73,254,XX,ROCK,1,Hot Tuna,Hot Tuna,
 33.0000,75,338,XX,ROCK,1,Hot Tuna,Burgers,
 33.0000,72,132,LP,BLUZ,1,Howling Wolf,London Sessions,
 33.0000,73,241,LP,BLUZ,2,Howling Wolf,Chester Burnett AKA,
+94.0909.99,000,CD,ROCK,2,Danny Gatton,In Concert 9/9/94,
 68.0000,69,001,VT,ROCK,1,Iron Butterfly,Inna Gadda da Vida,
 68.0000,69,004,SL,ROCK,1,Iron Butterfly,Heavy,
 69.0000,69,005,SL,ROCK,1,Iron Butterfly,Ball,
