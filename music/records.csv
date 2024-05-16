@@ -44,7 +44,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 09.0303,99,000,CD,JAZZ,1,Bela Fleck,Throw Down Your Heart,@
 11.9999,99,000,CD,JAZZ,1,Bela Fleck,Rocket Science,@
 12.0705,99,000,CD,JAZZ,1,Bela Fleck,With Marcus Roberts,@
-83.9999,99,000,CD,JAZZ,1,Bela Fleck,Dreadful Snakes,Missing@
+83.9999,99,000,CD,JAZZ,1,Bela Fleck,Dreadful Snakes,
 89.9999,99,000,CD,JAZZ,1,Bela Fleck,Strength in Numbers,@
 90.9999,99,000,CD,JAZZ,1,Bela Fleck,Flecktones,@
 91.9999,99,000,CD,JAZZ,1,Bela Fleck,Cosmic Hippo,@
@@ -89,7 +89,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 68.0000,70,065,VL,ROCK,1,Buffalo Springfield,Last Time Around,
 67.0807,72,161,CC,ROCK,1,Byrds,Greatest Hits V1,@
 70.0914,70,068,CD,ROCK,2,Byrds,Untitled,@
-73.0307.99,000,CD,ROCK,1,Byrds,Byrds,@
+73.0307,99,000,CD,ROCK,1,Byrds,Byrds,@
 79.1199,99,000,CD,ROCK,1,Byrds,Byrds Play Dylan,@
 96.9999,99,000,CD,ROCK,1,Byrds,Live From Mars,Roger McGuinn@
 69.0000,69,013,VL,ROCK,1,CSN,Crosby Stills and Nash,
@@ -132,6 +132,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 91.0319,99,000,CD,ROCK,1,Danny Gatton,88 Elmira Street,@
 92.9999,99,000,CD,ROCK,1,Danny Gatton,New York Stories,@
 93.9999,99,000,CD,ROCK,1,Danny Gatton,Cruising Deuces,@
+94.0909,99,000,CD,ROCK,2,Danny Gatton,In Concert 9/9/94,
 95.9999,99,000,CD,ROCK,1,Danny Gatton,Redneck Jazz Explosion,@
 98.9999,99,000,CD,ROCK,1,Danny Gatton,Portraits,@
 98.9999,99,000,CD,ROCK,2,Danny Gatton,Untouchable,@
@@ -264,7 +265,6 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 33.0000,75,338,XX,ROCK,1,Hot Tuna,Burgers,
 33.0000,72,132,LP,BLUZ,1,Howling Wolf,London Sessions,
 33.0000,73,241,LP,BLUZ,2,Howling Wolf,Chester Burnett AKA,
-94.0909.99,000,CD,ROCK,2,Danny Gatton,In Concert 9/9/94,
 68.0000,69,001,VT,ROCK,1,Iron Butterfly,Inna Gadda da Vida,
 68.0000,69,004,SL,ROCK,1,Iron Butterfly,Heavy,
 69.0000,69,005,SL,ROCK,1,Iron Butterfly,Ball,
@@ -376,7 +376,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 33.0000,70,043,KP,ROCK,1,Moody Blues,Days of Future Passed,
 33.0000,70,055,KP,ROCK,1,Moody Blues,Question of Balance,
 33.0000,72,116,KP,ROCK,1,Moody Blues,EGBDF,
-44.4444,70,040,CD,ROCK,1,Moody Blues,Threshold of a Dream.
+44.4444,70,040,CD,ROCK,1,Moody Blues,Threshold of a Dream,
 44.4444,70,040,KP,ROCK,1,Moody Blues,Threshold of a Dream,
 33.0000,81,456,LP,JAZZ,2,Mose Allison,Mose Allison,
 33.0000,72,146,XX,ROCK,1,Mountain,Climbing,

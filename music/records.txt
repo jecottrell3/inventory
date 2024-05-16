@@ -1,0 +1,37 @@
+* DESCRIPTION *
+
+This is RECORDS.TXT, a Companion To and Description Of RECORDS.CSV. It
+originally started as my Handy Note Book listing my LPs. Each was
+Numbered, Labeled, Timed, and Entered into the Book. And some point,
+LPs stopped being sold and the book languished.
+
+Later, I traded a lot of Grateful Dead cassette tapes, made some of my
+own, and bought some. VCRs became common, and I taped a lot of Grateful
+Dead Hour broadcasts over Random Movies.
+
+* LEGEND *
+
+The RECORDS.CSV should be imported into a Spreadsheet. The Fields and
+their Meanings are as follows:
+
++ Release	Release Date
++ YA		Year Acquired
++ Num		Sequence Number
++ MT		Media Type
++ Type		Genre
++ N		Pieces
++ Group		Artist
++ Album		Title
++ Comments	Optional, Flags
+
+Where possible, the fields are Fixed Width.
+
++ In Dates, a 00 or 33 means Haven't Looked, and 99 means Can't Find.
++ Year Acquired is Roughly Marked in the Handy Note Book. Or Guessed. 
++ MT:
+NX=Next; CD=Bought; CC=Copied; KP=Keep; LP=Vinyl;
+SL=VL=Sell; TP=Cassette; XX=Gone;
+
+Future MTs may be Related, as in GP=Glenda
+
+* END *
