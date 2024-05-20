@@ -64,7 +64,6 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 330000,74,290,XX,ROCK,1,Bill Wyman,Monkey Grip,
 950000,00,000,CD,JAZZ,1,Billy Lester,Captivating Rhythm,
 690000,70,044,CD,ROCK,2,Blind Faith,Blind Faith,Deluxe Edition
-444444,44,000,CD,ROCK,1,Bob Dylan,Hard Rain,
 650000,72,150,CD,ROCK,1,Bob Dylan,Bring it All Back Home,
 650000,73,167,CD,ROCK,1,Bob Dylan,Highway 61,
 670000,70,067,CD,ROCK,1,Bob Dylan,Greatest Hits V1,
@@ -73,6 +72,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 740000,80,444,SL,ROCK,1,Bob Dylan,Planet Waves,
 750000,76,361,CD,ROCK,1,Bob Dylan,Blood on the Tracks,
 750000,76,361,SL,ROCK,1,Bob Dylan,Blood on the Tracks,
+760000,00,000,CD,ROCK,1,Bob Dylan,Hard Rain,
 720501,73,210,CD,DEAD,1,Bob Weir,Ace,@
 760399,76,355,LP,DEAD,1,Bob Weir,Kingfish,@
 780113,81,469,CD,DEAD,1,Bob Weir,Heaven Help The Fool,@
@@ -187,7 +187,12 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 900999,73,000,CD,DEAD,2,Dead,Without a Net,@
 089999,00,000,CD,DEAD,1,Dead Grass,Dead Grass,+Vassar Clements
 330000,75,313,LP,ROCK,1,Dickey Betts,Highway Call,
-444444,44,000,CD,ROCK,1,Dire Straits,Making Movies,
+780609,00,000,LP,ROCK,1,Dire Straits,Dire Straits,
+790615,00,000,LP,ROCK,1,Dire Straits,Communique,
+801017,00,000,CD,ROCK,1,Dire Straits,Making Movies,
+820920,00,000,LP,ROCK,1,Dire Straits,Love Over Gold,
+850513,00,000,LP,ROCK,1,Dire Straits,Brothers In Arms,
+910909,00,000,LP,ROCK,1,Dire Straits,On Every Street,
 330000,73,178,LP,ROCK,3,Dirt Band,Will the Circle Be Unbroken,
 330000,77,377,LP,JAZZ,1,Django Reinhart,Parisian Swing,
 330000,81,458,LP,JAZZ,2,Django Reinhart,The Indispensible,
@@ -241,10 +246,10 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 880301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,@
 950899,99,000,CD,DEAD,1,Garcia,Blue Incantation,on Sanjay Mishra@
 980899,99,000,CD,DEAD,1,Garcia,So What,@
-444444,44,000,CD,ROCK,1,Genesis,Lamb Lies Down,
 710000,82,479,NX,ROCK,1,Genesis,Nursery Cryme,
 720000,82,480,NX,ROCK,1,Genesis,Foxtrot,
 730000,76,365,NX,ROCK,1,Genesis,Selling England By the Pound,
+741122,00,000,CD,ROCK,1,Genesis,Lamb Lies Down,
 700000,72,147,XX,ROCK,3,George Harrison,All Things Must Pass,
 710000,73,168,LP,ROCK,3,George Harrison,Concert for Bangladesh,
 330000,80,450,LP,FOLK,1,Good Old Boys,Pistol Packing Mama,
@@ -275,9 +280,9 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 680000,69,001,VT,ROCK,1,Iron Butterfly,Inna Gadda da Vida,
 680000,69,004,SL,ROCK,1,Iron Butterfly,Heavy,
 690000,69,005,SL,ROCK,1,Iron Butterfly,Ball,
-444444,44,000,CD,ROCK,1,Jackson Browne,For Everyman,
-444444,44,000,CD,ROCK,1,Jackson Browne,Late For the Sky,
-444444,44,000,CD,ROCK,1,Jackson Browne,Lives in the Balance,
+731099,00,000,CD,ROCK,1,Jackson Browne,For Everyman,
+740913,00,000,CD,ROCK,1,Jackson Browne,Late For the Sky,
+860218,00,000,CD,ROCK,1,Jackson Browne,Lives in the Balance,
 000000,00,000,CD,JAZZ,1,Jaco Pastorius,Jaco Pastorius,
 760000,00,000,CD,ROCK,1,James Taylor,Greatest Hits,
 989999,00,000,CD,DEAD,1,Jazz is Dead,Blue Light Rain,
@@ -358,7 +363,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 330000,77,393,XX,ROCK,1,Little Feat,Last Record Album,
 330000,77,394,XX,ROCK,1,Little Feat,Sailing Shoes,
 330000,77,395,XX,ROCK,1,Little Feat,Feats Dont Fail Me Now,
-330000,79,414,CD,ROCK,2,Little Feat,Waiting For Columbus,
+330000,79,414,CD,ROCK,2,Little Feat,Waiting For Columbus,Expanded
 444444,44,000,CD,FOLK,1,Loreena McKennett,Mask and Mirror,
 444444,44,000,CD,FOLK,2,Loreena McKennett,Live in Paris and Toronto,
 330000,75,309,LP,BLUZ,1,Louisiana Red,Sings the Blues,
@@ -385,7 +390,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 330000,82,496,LP,FOLK,1,Mike Auldridge,Eight String Swing,
 590000,00,000,CD,JAZZ,1,Miles Davis,Kind of Blue,
 330000,74,259,LP,BLUZ,2,Mississippi John Hurt,Best Of,
-444444,44,000,CD,ROCK,5,Monkees,First Five Albums,
+660068,00,000,CD,ROCK,5,Monkees,First Five Albums,
 330000,70,041,KP,ROCK,1,Moody Blues,Lost Chord,
 330000,70,042,KP,ROCK,1,Moody Blues,Childrens Children,
 330000,70,043,KP,ROCK,1,Moody Blues,Days of Future Passed,
@@ -422,7 +427,7 @@ Release,YA,Num,MT,Type,N,Group,Album,Comments
 059999,44,000,CD,FOLK,1,Picking On,Paint It Blue,
 949999,44,000,CD,FOLK,1,Picking On,The Eagles,
 330000,75,335,LP,ROCK,2,Pink Floyd,A Nice Pair,
-444444,44,000,CD,ROCK,1,Pink Floyd,Divisin Bell,
+940328,00,000,CD,ROCK,1,Pink Floyd,Division Bell,
 690000,76,348,CD,ROCK,2,Pink Floyd,Umma Gumma,
 710000,75,334,CD,ROCK,1,Pink Floyd,Meddle,
 720000,76,358,CD,ROCK,1,Pink Floyd,Obscured By Clouds,
