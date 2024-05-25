@@ -10,10 +10,10 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 740000,77,375,LP,JAZZ,1,Alice Coltrane,Illuminations,
 750000,79,413,LP,JAZZ,1,Alice Coltrane,Eternity,
 687205,72,125,NX,ROCK,1,Allman Brothers,Duane and Gregg,31st of Feb Demo@
-691199,72,108,CD,ROCK,1,Allman Brothers,Allman Brothers Band,@
-700999,72,109,CD,ROCK,1,Allman Brothers,Idlewild South,@
+691104,72,108,CD,ROCK,1,Allman Brothers,Allman Brothers Band,@
+700923,72,109,CD,ROCK,1,Allman Brothers,Idlewild South,@
 710706,71,080,CD,ROCK,2,Allman Brothers,Fillmore East,@
-720299,72,110,CD,ROCK,1,Allman Brothers,Eat a Peach,@
+720212,72,110,CD,ROCK,1,Allman Brothers,Eat a Peach,@
 730899,73,192,XX,ROCK,1,Allman Brothers,Bothers and Sisters,@
 911022,99,000,CD,ROCK,1,Allman Brothers,Decade of Hits 1969-1979,@
 000000,00,000,CC,FOLK,1,Andreas Vollenweider,Magic Harp,
@@ -35,27 +35,27 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,74,283,LP,BLUZ,1,Barry Goldberg,Two Jews Blues,
 330000,77,368,LP,BLUZ,1,Barry Goldberg,And Friend,
 060000,00,000,CD,ROCK,1,Beatles,Love,
-009999,99,000,CD,JAZZ,1,Bela Fleck,Outbound,@
+000725,99,000,CD,JAZZ,1,Bela Fleck,Outbound,@
 011002,99,000,CC,JAZZ,1,Bela Fleck,Perpetual Motion,@
-029999,99,000,CD,JAZZ,1,Bela Fleck,Live at the Quick,@
-039999,99,000,CD,JAZZ,3,Bela Fleck,Little Worlds,@
+020226,99,000,CD,JAZZ,1,Bela Fleck,Live at the Quick,@
+030812,99,000,CD,JAZZ,3,Bela Fleck,Little Worlds,@
 040524,99,000,CD,JAZZ,1,Bela Fleck,Music for Two,+Edgar Meyer@
-069999,99,000,CD,JAZZ,1,Bela Fleck,The Hidden Land,@
+060214,99,000,CD,JAZZ,1,Bela Fleck,The Hidden Land,@
 070522,99,000,CD,JAZZ,1,Bela Fleck,The Enchantment,+Chick Corea@
-089999,99,000,CD,JAZZ,1,Bela Fleck,Jingle All the Way,@
+080930,99,000,CD,JAZZ,1,Bela Fleck,Jingle All the Way,@
 090303,99,000,CD,JAZZ,1,Bela Fleck,Throw Down Your Heart,@
-119999,99,000,CD,JAZZ,1,Bela Fleck,Rocket Science,@
+110517,99,000,CD,JAZZ,1,Bela Fleck,Rocket Science,@
 120705,99,000,CD,JAZZ,1,Bela Fleck,Imaginary Divide,+Marcus Roberts
-839999,99,000,CD,JAZZ,1,Bela Fleck,Dreadful Snakes,
-899999,99,000,CD,JAZZ,1,Bela Fleck,Strength in Numbers,@
-909999,99,000,CD,JAZZ,1,Bela Fleck,Flecktones,@
-919999,99,000,CD,JAZZ,1,Bela Fleck,Cosmic Hippo,@
-929999,99,000,CD,JAZZ,1,Bela Fleck,UFO Tofu,@
-939999,99,000,CD,JAZZ,1,Bela Fleck,Cuckoos Nest,@
+830000,99,000,CD,JAZZ,1,Bela Fleck,Dreadful Snakes,
+890000,99,000,CD,JAZZ,1,Bela Fleck,Strength in Numbers,@
+900306,99,000,CD,JAZZ,1,Bela Fleck,Flecktones,@
+910611,99,000,CD,JAZZ,1,Bela Fleck,Cosmic Hippo,@
+920000,99,000,CD,JAZZ,1,Bela Fleck,UFO Tofu,@
+930914,99,000,CD,JAZZ,1,Bela Fleck,Cuckoos Nest,@
 960702,00,000,CD,JAZZ,1,Bela Fleck,Tabula Rasa,@
-969999,99,000,CD,JAZZ,2,Bela Fleck,Live Art,@
+960910,99,000,CD,JAZZ,2,Bela Fleck,Live Art,@
 970930,99,000,CD,JAZZ,1,Bela Fleck,Uncommon Ritual,+Edgar Meyer@
-989999,99,000,CD,JAZZ,1,Bela Fleck,Left of Cool,@
+980609,99,000,CD,JAZZ,1,Bela Fleck,Left of Cool,@
 330000,74,287,LP,BLUZ,1,Big Bill Broonzy,Feeling Lowdown,
 330000,74,289,LP,BLUZ,1,Big Joe Williams,Plums Look Mellow,
 330000,80,446,LP,BLUZ,1,Bill Broonzy,Do That Guitar Rag,
@@ -63,7 +63,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,82,498,LP,FOLK,1,Bill Monroe,Greatest Hits,
 330000,74,290,XX,ROCK,1,Bill Wyman,Monkey Grip,
 950000,00,000,CD,JAZZ,1,Billy Lester,Captivating Rhythm,
-690000,70,044,CD,ROCK,2,Blind Faith,Blind Faith,Deluxe Edition
+690809,70,044,CD,ROCK,2,Blind Faith,Blind Faith,Deluxe Edition
 650000,72,150,CD,ROCK,1,Bob Dylan,Bring it All Back Home,
 650000,73,167,CD,ROCK,1,Bob Dylan,Highway 61,
 670000,70,067,CD,ROCK,1,Bob Dylan,Greatest Hits V1,
@@ -94,7 +94,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 700914,70,068,CD,ROCK,2,Byrds,Untitled,@
 730307,99,000,CD,ROCK,1,Byrds,Byrds,@
 791199,99,000,CD,ROCK,1,Byrds,Byrds Play Dylan,@
-969999,99,000,CD,ROCK,1,Byrds,Live From Mars,Roger McGuinn@
+960000,99,000,CD,ROCK,1,Byrds,Live From Mars,Roger McGuinn@
 690000,69,013,VL,ROCK,1,CSN,Crosby Stills and Nash,
 330000,69,037,XX,ROCK,2,CSNY,Live at Felt Forum,
 330000,73,173,VL,ROCK,1,CSNY,Crosby and Nash,
@@ -119,7 +119,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 740000,81,461,CC,ROCK,1,Clapton,461 Ocean Boulevard,
 830000,83,505,XX,ROCK,1,Clapton,Timepieces,
 330000,75,321,LP,BLUZ,1,Cleanhead Vinson,Cant Make Love Alone,
-444444,00,000,CD,FOLK,1,Country Gentleman,On the Road,
+630000,00,000,CD,FOLK,1,Country Gentleman,On the Road,
 880000,00,000,CD,JAZZ,1,Craig Fraedrich,First Flight,
 660000,69,026,CC,ROCK,1,Cream,Fresh Cream,
 670000,69,027,CC,ROCK,1,Cream,Disraeli Gears,
@@ -128,18 +128,18 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 690000,69,030,XX,ROCK,1,Cream,Goodbye,
 700000,70,053,XX,ROCK,1,Cream,Live Cream Vol 1,
 720000,72,114,XX,ROCK,1,Cream,Live Cream Vol 2,
-759999,76,362,CD,ROCK,1,Danny Gatton,American Music,@
+750000,76,362,CD,ROCK,1,Danny Gatton,American Music,@
+770000,99,000,CD,ROCK,2,Danny Gatton,+Buddy Emmons Live,@
 772001,99,000,CD,ROCK,2,Danny Gatton,Live at Desperados,@
-779999,99,000,CD,ROCK,2,Danny Gatton,+Buddy Emmons Live,@
 781231,79,412,CD,ROCK,1,Danny Gatton,Redneck Jazz,@
-879999,87,526,CD,ROCK,1,Danny Gatton,Unfinished Business,@
+870000,87,526,CD,ROCK,1,Danny Gatton,Unfinished Business,@
 910319,99,000,CD,ROCK,1,Danny Gatton,88 Elmira Street,Missing?
-929999,99,000,CD,ROCK,1,Danny Gatton,New York Stories,@
-939999,99,000,CD,ROCK,1,Danny Gatton,Cruising Deuces,@
+920000,99,000,CD,ROCK,1,Danny Gatton,New York Stories,@
+930000,99,000,CD,ROCK,1,Danny Gatton,Cruising Deuces,@
 940909,99,000,CD,ROCK,2,Danny Gatton,In Concert 9/9/94,
-959999,99,000,CD,ROCK,1,Danny Gatton,Redneck Jazz Explosion,@
-989999,99,000,CD,ROCK,1,Danny Gatton,Portraits,@
-989999,99,000,CD,ROCK,2,Danny Gatton,Untouchable,@
+950000,99,000,CD,ROCK,1,Danny Gatton,Redneck Jazz Explosion,@
+980000,99,000,CD,ROCK,1,Danny Gatton,Portraits,@
+980000,99,000,CD,ROCK,2,Danny Gatton,Untouchable,@
 330000,72,130,XX,ROCK,1,Dave Mason,Alone Together,
 330000,72,131,XX,ROCK,1,Dave Mason,Headkeeper,
 720000,77,366,LP,FOLK,1,David Bromberg,David Bromberg,
@@ -148,16 +148,19 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 750000,79,407,LP,FOLK,1,David Bromberg,Midnight on the Water,
 760000,77,385,LP,ROCK,2,David Bromberg,How Late You Play Til,
 710000,72,106,KP,ROCK,1,David Crosby,Remember My Name,
-444444,00,000,CD,ROCK,2,David Gilmour,First Two Albums,
+780526,00,000,CD,ROCK,1,David Gilmour,David Gilmour,
+840305,00,000,CD,ROCK,1,David Gilmour,About Face,
 330000,82,497,LP,JAZZ,1,David Grisman,Mandolin Abstractions,
 330000,82,478,XX,ROCK,1,David La Flamme,White Bird,
-444444,00,000,CD,DEAD,1,Dead,The Strange Remain,
-444444,00,000,CD,DEAD,1,Dead,Twilight Zone Soundtrack,
-444444,00,000,CD,DEAD,2,Dead,Europe 72 Vol 2,
-444444,00,000,CD,DEAD,2,Dead,Grayfolded,
-444444,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
-444444,00,000,CD,DEAD,4,Dead,England 72,
-444444,00,000,CD,DEAD,4,Dead,Sunshine Daydream,
+020709,81,454,CD,DEAD,4,Dead,Stepping Out,
+050315,00,000,CD,DEAD,5,Dead,Movie Soundtrack,@
+110920,00,000,CD,DEAD,2,Dead,Europe 72 Vol 2,
+130917,00,000,CD,DEAD,4,Dead,Sunshine Daydream,
+440000,00,000,CD,DEAD,1,Dead,The Strange Remain,
+440000,00,000,CD,DEAD,1,Dead,Twilight Zone Soundtrack,
+440000,00,000,CD,DEAD,2,Dead,Grayfolded,
+440000,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
+440000,00,000,CD,DEAD,4,Dead,England 72,
 670317,73,201,XX,DEAD,1,Dead,The Grateful Dead,@
 680718,73,202,CC,DEAD,1,Dead,Anthem Extended,@
 680718,73,202,CD,DEAD,1,Dead,Anthem of the Sun,@
@@ -169,7 +172,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 701101,73,205,CD,DEAD,1,Dead,American Beauty,@
 710699,73,207,NX,DEAD,1,Dead,Historic Dead,@
 711024,73,194,XX,DEAD,2,Dead,Skull and Roses,@
-721105,73,198,CD,DEAD,3,Dead,Europe 72,@
+721101,73,198,CD,DEAD,3,Dead,Europe 72,@
 730713,73,208,XX,DEAD,1,Dead,Bears Choice,@
 731015,73,209,CC,DEAD,1,Dead,Wake of the Flood,@
 740627,74,271,CD,DEAD,1,Dead,Mars Hotel,@
@@ -185,7 +188,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 891030,89,000,XX,DEAD,1,Dead,Dylan and the Dead,@
 891031,89,000,CD,DEAD,1,Dead,Built to Last,@
 900999,73,000,CD,DEAD,2,Dead,Without a Net,@
-089999,00,000,CD,DEAD,1,Dead Grass,Dead Grass,+Vassar Clements
+080000,00,000,CD,DEAD,1,Dead Grass,Dead Grass,+Vassar Clements
 330000,75,313,LP,ROCK,1,Dickey Betts,Highway Call,
 780609,00,000,LP,ROCK,1,Dire Straits,Dire Straits,
 790615,00,000,LP,ROCK,1,Dire Straits,Communique,
@@ -200,7 +203,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,73,228,LP,FOLK,2,Doc Watson,The Essential,
 330000,74,268,LP,FOLK,1,Doc Watson,Ballads from Deep Gap,
 330000,83,510,LP,FOLK,1,Doc Watson,Lonesome Road,
-959999,00,000,CD,FOLK,4,Doc Watson,The Vanguard Years,
+950000,00,000,CD,FOLK,4,Doc Watson,The Vanguard Years,
 330000,81,464,XX,ROCK,1,Donovan,Barabajagal,
 330000,81,465,XX,ROCK,1,Donovan,Hurdy Gurdy Man,
 330000,81,466,XX,ROCK,1,Donovan,Sunshine Superman,
@@ -214,14 +217,14 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 710000,71,072,CC,ROCK,1,Doors,LA Woman,
 780000,83,508,VL,ROCK,1,Doors,American Prayer,
 830000,83,509,VL,ROCK,1,Doors,Alive She Cried,
-444444,00,000,CD,DEAD,1,Dos Hermanos,Bright Shadows,+Tom Constanten
+440000,00,000,CD,DEAD,1,Dos Hermanos,Bright Shadows,+Tom Constanten
 000000,00,000,CD,JAZZ,1,Duke Ellington,Best Of,
 330000,82,500,VL,ROCK,1,Elvis,Greatest Hits,
-444444,00,000,CD,ROCK,1,Eva Cassidy,Live at Blues Alley,
-444444,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
-444444,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
-444444,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
-444444,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
+440000,00,000,CD,ROCK,1,Eva Cassidy,Live at Blues Alley,
+440000,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
+440000,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
+440000,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
+440000,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
 960514,00,000,CD,ROCK,1,Eva Cassidy,Live at Blues Alley,
 980519,00,000,CD,ROCK,1,Eva Cassidy,Songbird,
 690000,72,104,LP,BLUZ,2,Fleetwood Mac,In Chicago,
@@ -269,12 +272,12 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 707110,72,112,XX,ROCK,1,Hendrix,Rainbow Bridge,@
 708208,87,524,SL,ROCK,2,Hendrix,The Jimi Hendrix Concerts,@
 708610,87,523,XX,ROCK,1,Hendrix,Band of Gypsys 2,@
+710000,73,218,XX,ROCK,1,Hendrix,Friends Beginning,+Little Richard
 710305,71,075,KP,ROCK,1,Hendrix,Cry of Love,@
-719999,73,218,XX,ROCK,1,Hendrix,Friends Beginning,+Little Richard
 990223,99,000,CD,ROCK,2,Hendrix,Live at Fillmore East,@
 170000,00,000,CD,JAZZ,1,Hiromi,Hiromi + Castaneda,
 130000,00,000,CD,MISC,2,Hobbit Soundtrack,Desolation of Smaug,
-444444,00,000,CD,DEAD,2,Holly Bowling,Better Left Unsung,
+440000,00,000,CD,DEAD,2,Holly Bowling,Better Left Unsung,
 330000,73,254,XX,ROCK,1,Hot Tuna,Hot Tuna,
 330000,75,338,XX,ROCK,1,Hot Tuna,Burgers,
 330000,72,132,LP,BLUZ,1,Howling Wolf,London Sessions,
@@ -287,8 +290,8 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 860218,00,000,CD,ROCK,1,Jackson Browne,Lives in the Balance,
 000000,00,000,CD,JAZZ,1,Jaco Pastorius,Jaco Pastorius,
 760000,00,000,CD,ROCK,1,James Taylor,Greatest Hits,
-989999,00,000,CD,DEAD,1,Jazz is Dead,Blue Light Rain,
-999999,00,000,CD,DEAD,1,Jazz is Dead,Laughing Water,
+980000,00,000,CD,DEAD,1,Jazz is Dead,Blue Light Rain,
+990000,00,000,CD,DEAD,1,Jazz is Dead,Laughing Water,
 330000,77,397,XX,ROCK,1,Jeff Beck,Blow By Blow,
 330000,77,369,XX,ROCK,1,Jefferson Airplane,Volunteers,
 710000,71,079,CC,ROCK,1,Jethro Tull,Aqualung,
@@ -351,7 +354,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,74,299,LP,FOLK,1,Leo Kottke,Dreams and All That Stuff,
 330000,83,512,LP,FOLK,1,Leo Kottke,Mudlark,
 330000,83,513,LP,FOLK,1,Leo Kottke,Kottke Lang Fahey,
-444444,73,188,CD,ROCK,1,Leo Kottke,6 and 12 String Guitar,
+440000,73,188,CD,ROCK,1,Leo Kottke,6 and 12 String Guitar,
 691299,73,188,CD,ROCK,1,Leo Kottke,6 and 12 String Guitar,Also LP
 990629,00,000,CD,ROCK,1,Leo Kottke,One Guitar No Vocals,
 330000,79,410,LP,JAZZ,1,Les Paul,Chester and Lester,
@@ -366,8 +369,8 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,77,394,XX,ROCK,1,Little Feat,Sailing Shoes,
 330000,77,395,XX,ROCK,1,Little Feat,Feats Dont Fail Me Now,
 330000,79,414,CD,ROCK,2,Little Feat,Waiting For Columbus,Expanded
-444444,00,000,CD,FOLK,1,Loreena McKennett,Mask and Mirror,
-444444,00,000,CD,FOLK,2,Loreena McKennett,Live in Paris and Toronto,
+440000,00,000,CD,FOLK,1,Loreena McKennett,Mask and Mirror,
+440000,00,000,CD,FOLK,2,Loreena McKennett,Live in Paris and Toronto,
 940322,00,000,CD,FOLK,1,Loreena McKennitt,Mask and Mirror,
 980419,00,000,CD,FOLK,1,Loreena McKennitt,Live in Paris,
 330000,75,309,LP,BLUZ,1,Louisiana Red,Sings the Blues,
@@ -394,13 +397,14 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 590000,00,000,CD,JAZZ,1,Miles Davis,Kind of Blue,
 330000,74,259,LP,BLUZ,2,Mississippi John Hurt,Best Of,
 660068,00,000,CD,ROCK,5,Monkees,First Five Albums,
-330000,70,041,KP,ROCK,1,Moody Blues,Lost Chord,
-330000,70,042,KP,ROCK,1,Moody Blues,Childrens Children,
-330000,70,043,KP,ROCK,1,Moody Blues,Days of Future Passed,
-330000,70,055,KP,ROCK,1,Moody Blues,Question of Balance,
-330000,72,116,KP,ROCK,1,Moody Blues,EGBDF,
-444444,70,040,CD,ROCK,1,Moody Blues,Threshold of a Dream,
-444444,70,040,KP,ROCK,1,Moody Blues,Threshold of a Dream,
+671100,70,043,KP,ROCK,1,Moody Blues,Days of Future Passed,
+680726,70,041,KP,ROCK,1,Moody Blues,Lost Chord,
+690425,70,040,CD,ROCK,1,Moody Blues,Threshold of a Dream,
+690425,70,040,KP,ROCK,1,Moody Blues,Threshold of a Dream,
+691121,70,042,KP,ROCK,1,Moody Blues,Childrens Children,
+700807,70,055,KP,ROCK,1,Moody Blues,Question of Balance,
+710723,72,116,KP,ROCK,1,Moody Blues,EGBDF,
+721023,72,116,KP,ROCK,1,Moody Blues,Seventh Sojourn,
 330000,81,456,LP,JAZZ,2,Mose Allison,Mose Allison,
 330000,72,146,XX,ROCK,1,Mountain,Climbing,
 330000,75,306,LP,BLUZ,2,Muddy Waters,Fathers and Sons,
@@ -425,10 +429,10 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,80,447,SL,BLUZ,1,Peter Green,In The Skies,
 330000,82,481,XX,BLUZ,1,Peter Green,Little Dreamer,
 330000,76,344,LP,ROCK,1,Phil Lesh,Seastones,
-019999,00,000,CD,FOLK,1,Picking On,Eight Miles High,
-019999,00,000,CD,FOLK,1,Picking On,Tangled Up in Bluegrass,
-059999,00,000,CD,FOLK,1,Picking On,Paint It Blue,
-949999,00,000,CD,FOLK,1,Picking On,The Eagles,
+010000,00,000,CD,FOLK,1,Picking On,Eight Miles High,
+010000,00,000,CD,FOLK,1,Picking On,Tangled Up in Bluegrass,
+050000,00,000,CD,FOLK,1,Picking On,Paint It Blue,
+940000,00,000,CD,FOLK,1,Picking On,The Eagles,
 330000,75,335,LP,ROCK,2,Pink Floyd,A Nice Pair,
 690000,76,348,CD,ROCK,2,Pink Floyd,Umma Gumma,
 710000,75,334,CD,ROCK,1,Pink Floyd,Meddle,
@@ -447,8 +451,8 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 020000,00,000,CD,FOLK,1,Rex McGee,24 Creations Solo Banjo,
 330000,80,433,LP,FOLK,1,Richard Greene,Rambling,
 330000,81,467,VL,ROCK,1,Robbie Krieger,Butts Band,
-749999,76,360,LP,DEAD,1,Robert Hunter,Rum Runners,@
-809999,81,453,KP,DEAD,1,Robert Hunter,Jack of Roses,@
+740000,76,360,LP,DEAD,1,Robert Hunter,Rum Runners,@
+800000,81,453,KP,DEAD,1,Robert Hunter,Jack of Roses,@
 330000,71,085,XX,ROCK,1,Rod Stewart,Every Picture,
 330000,71,086,XX,ROCK,1,Rod Stewart,Rod Stewart,
 330000,71,092,XX,ROCK,1,Rod Stewart,Gasoline Alley,
@@ -457,7 +461,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,72,143,XX,ROCK,1,Rod Stewart,Nod as Good as Wink,
 330000,72,144,XX,ROCK,1,Rod Stewart,Never a Dull Moment,
 330000,72,098,XX,ROCK,1,Rolling Stones,Jamming With Edward,
-719999,72,117,CD,ROCK,1,Roy Buchanan,Snake Stretchers,
+710000,72,117,CD,ROCK,1,Roy Buchanan,Snake Stretchers,
 720899,73,176,XX,ROCK,1,Roy Buchanan,Roy Buchanan,
 330000,79,420,LP,ROCK,1,Ruppert Chapelle,Ozone Music,
 330000,72,145,VL,ROCK,1,Ry Cooder,Into the Purple Valley,
@@ -484,7 +488,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 000000,00,000,CD,FOLK,1,Savourna Stevenson,Celtic Harp,
 700000,83,506,LP,ROCK,1,Seatrain,Seatrain,
 710000,83,507,LP,ROCK,1,Seatrain,Marblehead Messenger,
-444444,00,000,CD,DEAD,1,Second Sight,Second Sight,
+440000,00,000,CD,DEAD,1,Second Sight,Second Sight,
 720000,82,491,LP,FOLK,1,Seldom Scene,Act 1,
 730000,82,492,LP,FOLK,1,Seldom Scene,Act 2,
 740000,77,388,LP,FOLK,1,Seldom Scene,Old Train,
@@ -496,7 +500,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 961001,00,000,CD,ROCK,1,Shawn Colvin,A Few Small Repairs,
 700000,75,320,LP,BLUZ,1,Shuggie Otis,Here Comes,
 710000,79,422,LP,BLUZ,1,Shuggie Otis,Freedom Flight,
-444444,00,000,CD,ROCK,5,Simon and Garfunkel,First Five Albums,
+440000,00,000,CD,ROCK,5,Simon and Garfunkel,First Five Albums,
 330000,75,319,LP,BLUZ,1,Slim Green,Stone Down Blues Guitar,
 690000,69,015,XX,ROCK,1,Sly Stone,Stand,
 330000,75,339,LP,BLUZ,1,Sonny Boy Williamson,Sonny Boy Williamson,
@@ -543,14 +547,14 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 750000,83,518,XX,ROCK,1,Stones,Metamorphosis,
 780000,83,517,XX,ROCK,1,Stones,Some Girls,
 000201,00,000,CD,DEAD,1,String Cheese Incident,Carnival 99,
-444444,00,000,CD,JAZZ,1,String Cheese Incident,A SCI,
-444444,00,000,CD,JAZZ,1,String Cheese Incident,Carnival 99,
+440000,00,000,CD,JAZZ,1,String Cheese Incident,A SCI,
+440000,00,000,CD,JAZZ,1,String Cheese Incident,Carnival 99,
 970600,00,000,CD,DEAD,1,String Cheese Incident,SCI,
 330000,83,519,XX,ROCK,1,Talking Heads,Remain In Light,
 330000,74,288,LP,BLUZ,1,Tbone Walker,Dirty Mistreater,
 330000,76,359,LP,ROCK,1,The Section,The Section,
 930000,00,000,CD,ROCK,1,Tom Petty,Greatest Hits,
-079999,18,000,CD,JAZZ,1,Tom Wright,Tailwind,from GRITS
+070000,18,000,CD,JAZZ,1,Tom Wright,Tailwind,from GRITS
 700000,72,153,LP,ROCK,1,Traffic,John Barleycorn,
 710000,73,183,VL,ROCK,1,Traffic,Low Spark,
 730000,73,182,VL,ROCK,1,Traffic,On The Road,
@@ -559,7 +563,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,77,392,XX,ROCK,1,Van Morrison,Tupelo Honey,
 000000,00,000,CC,FOLK,3,Various,People Take Warning,
 020000,00,000,CD,CLAS,1,Various,Magic of the Guitar,
-029999,00,000,CD,FOLK,1,Various,Treasury of Bluegrass,Time Life
+020000,00,000,CD,FOLK,1,Various,Treasury of Bluegrass,Time Life
 330000,73,171,LP,ROCK,2,Various,Woodstock 2,
 330000,73,230,LP,BLUZ,2,Various,Best of the Chicago Blues,
 330000,73,232,LP,BLUZ,2,Various,The Great Blues Men,
@@ -582,26 +586,25 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 650000,71,091,LP,BLUZ,1,Various,Whats Shaking,
 690000,69,014,XX,ROCK,1,Various,Easy Rider,
 960000,00,000,CD,JAZZ,1,Various,Jazz Cafe,Sampler
-444444,00,000,CD,DEAD,1,Wake the Dead,Wake the Dead,
-670000,70,045,CC,ROCK,1,Who,Sell Out,
-690000,69,022,CD,ROCK,2,Who,Tommy,
-700000,71,082,CD,ROCK,1,Who,Live at Leeds,
-710000,71,083,XX,ROCK,1,Who,Whos Next,
-444444,00,000,CD,ROCK,1,Wildon Phillips,Wildon Phillips,
+440000,00,000,CD,DEAD,1,Wake the Dead,Wake the Dead,
+671215,70,045,CC,ROCK,1,Who,Sell Out,
+690519,69,022,CD,ROCK,2,Who,Tommy,
+700511,71,082,CD,ROCK,1,Who,Live at Leeds,
+710802,71,083,XX,ROCK,1,Who,Whos Next,
 040525,00,000,CD,ROCK,1,Wilson Phillips,California,
 101012,00,000,CD,ROCK,1,Wilson Phillips,Xmas in Harmony,
 120403,00,000,CD,ROCK,1,Wilson Phillips,Dedicated,
 900508,00,000,CD,ROCK,1,Wilson Phillips,Wilson Phillips,
 920602,00,000,CD,ROCK,1,Wilson Phillips,Shadows and Light,
 670000,73,224,XX,ROCK,1,Yardbirds,Greatest Hits,
-710000,75,332,CD,ROCK,1,Yes,The Yes Album,
-710000,77,383,CD,ROCK,1,Yes,Fragile,
-720000,79,416,CD,ROCK,1,Yes,Close To The Edge,
-750000,77,384,VL,ROCK,1,Yes,Yesterdays,
-780000,80,448,VL,ROCK,1,Yes,Tormato,
+710219,75,332,CD,ROCK,1,Yes,The Yes Album,
+711112,77,383,CD,ROCK,1,Yes,Fragile,
+720908,79,416,CD,ROCK,1,Yes,Close To The Edge,
+750228,77,384,VL,ROCK,1,Yes,Yesterdays,
+780922,80,448,VL,ROCK,1,Yes,Tormato,
 690000,76,342,NX,ROCK,1,Youngbloods,Elephant Mountain,
 710000,74,274,XX,ROCK,1,Youngbloods,Good and Dusty,
 720000,81,462,XX,ROCK,2,Youngbloods,This Is The,
 730000,73,237,VL,ROCK,1,Youngbloods,Song for Juli,
 790000,79,409,XX,ROCK,1,Zappa,Sleep Dirt,
-879999,00,000,CD,DEAD,1,Zero,Here Goes Nothing,
+870000,00,000,CD,DEAD,1,Zero,Here Goes Nothing,
