@@ -152,14 +152,11 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 840305,00,000,CD,ROCK,1,David Gilmour,About Face,
 330000,82,497,LP,JAZZ,1,David Grisman,Mandolin Abstractions,
 330000,82,478,XX,ROCK,1,David La Flamme,White Bird,
+020399,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
 020709,81,454,CD,DEAD,4,Dead,Stepping Out,
 050315,00,000,CD,DEAD,5,Dead,Movie Soundtrack,@
 110920,00,000,CD,DEAD,2,Dead,Europe 72 Vol 2,
 130917,00,000,CD,DEAD,4,Dead,Sunshine Daydream,
-440000,00,000,CD,DEAD,1,Dead,The Strange Remain,
-440000,00,000,CD,DEAD,1,Dead,Twilight Zone Soundtrack,
-440000,00,000,CD,DEAD,2,Dead,Grayfolded,
-440000,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
 440000,00,000,CD,DEAD,4,Dead,England 72,
 670317,73,201,XX,DEAD,1,Dead,The Grateful Dead,@
 680718,73,202,CC,DEAD,1,Dead,Anthem Extended,@
@@ -188,6 +185,9 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 891030,89,000,XX,DEAD,1,Dead,Dylan and the Dead,@
 891031,89,000,CD,DEAD,1,Dead,Built to Last,@
 900999,73,000,CD,DEAD,2,Dead,Without a Net,@
+940095,00,000,CD,DEAD,2,Dead,Grayfolded,
+980999,00,000,CD,DEAD,1,Dead,Twilight Zone Soundtrack,
+990209,00,000,CD,DEAD,1,Dead,The Strange Remain,
 080000,00,000,CD,DEAD,1,Dead Grass,Dead Grass,+Vassar Clements
 330000,75,313,LP,ROCK,1,Dickey Betts,Highway Call,
 780609,00,000,LP,ROCK,1,Dire Straits,Dire Straits,
@@ -217,7 +217,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 710000,71,072,CC,ROCK,1,Doors,LA Woman,
 780000,83,508,VL,ROCK,1,Doors,American Prayer,
 830000,83,509,VL,ROCK,1,Doors,Alive She Cried,
-440000,00,000,CD,DEAD,1,Dos Hermanos,Bright Shadows,+Tom Constanten
+049999,00,000,CD,DEAD,1,Dose Hermanos,Bright Shadows,+Constanten+Bralove
 000000,00,000,CD,JAZZ,1,Duke Ellington,Best Of,
 330000,82,500,VL,ROCK,1,Elvis,Greatest Hits,
 440000,00,000,CD,ROCK,1,Eva Cassidy,Live at Blues Alley,
@@ -238,19 +238,20 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 000425,99,000,CD,DEAD,1,Garcia,The Pizza Tapes,@
 010911,99,000,CD,DEAD,1,Garcia,Grateful Dawg,WOW@
 709810,99,000,CD,DEAD,1,Garcia,+Howard Wales,@
-710701,73,193,CD,DEAD,1,Garcia,Garcia,@
-711101,73,212,LP,DEAD,1,Garcia,Hooteroll,@
+711101,73,212,LP,DEAD,1,Garcia,Hooteroll,+HowardWales
+720120,73,193,CD,DEAD,1,Garcia,Garcia,@
 720299,76,346,LP,DEAD,1,Garcia,Heavy Turbulence,@
 730599,73,213,LP,DEAD,1,Garcia,Fire Up,@
-730799,73,214,LP,DEAD,2,Garcia,Live at Keystone,@
+730710,73,214,LP,DEAD,2,Garcia,Live at Keystone,@
 740699,74,270,XX,DEAD,1,Garcia,Compliments Of,@
 760215,76,345,XX,DEAD,1,Garcia,Reflections,@
-780499,77,399,XX,DEAD,1,Garcia,Cats Down Under the Stars,@
-820099,82,471,LP,DEAD,1,Garcia,Run For the Roses,@
+780415,77,399,XX,DEAD,1,Garcia,Cats Down Under the Stars,@
+829999,82,471,LP,DEAD,1,Garcia,Run For the Roses,@
 880301,87,521,LP,DEAD,1,Garcia,Keystone Encores Vol 1,@
 880301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,@
 950899,99,000,CD,DEAD,1,Garcia,Blue Incantation,on Sanjay Mishra@
 980899,99,000,CD,DEAD,1,Garcia,So What,@
+981099,00,000,CD,DEAD,1,Garcia,Side Trips,+HowardWales
 710000,82,479,NX,ROCK,1,Genesis,Nursery Cryme,
 720000,82,480,NX,ROCK,1,Genesis,Foxtrot,
 730000,76,365,NX,ROCK,1,Genesis,Selling England By the Pound,
@@ -260,6 +261,9 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,80,450,LP,FOLK,1,Good Old Boys,Pistol Packing Mama,
 330000,72,115,VL,ROCK,1,Graham Nash,Songs for Beginners,
 330000,71,089,SL,ROCK,1,Grin,Grin,
+089999,00,000,CD,JAZZ,1,Grits,Rock and Roll Madness,LOCAL
+729999,00,000,CD,JAZZ,1,Grits,As the World Grits,LOCAL
+979999,00,000,CD,JAZZ,1,Grits,Rare Birds,LOCAL
 690000,69,007,LP,MISS,1,Guess Who,Wheatfield Soul,
 690000,69,008,LP,MISS,1,Guess Who,Canned Wheat,
 330000,80,443,LP,JAZZ,1,Happy The Man,Happy The Man,
@@ -277,7 +281,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 990223,99,000,CD,ROCK,2,Hendrix,Live at Fillmore East,@
 170000,00,000,CD,JAZZ,1,Hiromi,Hiromi + Castaneda,
 130000,00,000,CD,MISC,2,Hobbit Soundtrack,Desolation of Smaug,
-440000,00,000,CD,DEAD,2,Holly Bowling,Better Left Unsung,
+169999,00,000,CD,DEAD,2,Holly Bowling,Better Left Unsung,
 330000,73,254,XX,ROCK,1,Hot Tuna,Hot Tuna,
 330000,75,338,XX,ROCK,1,Hot Tuna,Burgers,
 330000,72,132,LP,BLUZ,1,Howling Wolf,London Sessions,
@@ -290,8 +294,8 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 860218,00,000,CD,ROCK,1,Jackson Browne,Lives in the Balance,
 000000,00,000,CD,JAZZ,1,Jaco Pastorius,Jaco Pastorius,
 760000,00,000,CD,ROCK,1,James Taylor,Greatest Hits,
-980000,00,000,CD,DEAD,1,Jazz is Dead,Blue Light Rain,
-990000,00,000,CD,DEAD,1,Jazz is Dead,Laughing Water,
+989999,00,000,CD,DEAD,1,Jazz is Dead,Blue Light Rain,
+999999,00,000,CD,DEAD,1,Jazz is Dead,Laughing Water,
 330000,77,397,XX,ROCK,1,Jeff Beck,Blow By Blow,
 330000,77,369,XX,ROCK,1,Jefferson Airplane,Volunteers,
 710000,71,079,CC,ROCK,1,Jethro Tull,Aqualung,
@@ -451,6 +455,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 020000,00,000,CD,FOLK,1,Rex McGee,24 Creations Solo Banjo,
 330000,80,433,LP,FOLK,1,Richard Greene,Rambling,
 330000,81,467,VL,ROCK,1,Robbie Krieger,Butts Band,
+330000,82,499,LP,FOLK,1,Robert Byrd,US Senator Robert Byrd,
 740000,76,360,LP,DEAD,1,Robert Hunter,Rum Runners,@
 800000,81,453,KP,DEAD,1,Robert Hunter,Jack of Roses,@
 330000,71,085,XX,ROCK,1,Rod Stewart,Every Picture,
@@ -488,7 +493,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 000000,00,000,CD,FOLK,1,Savourna Stevenson,Celtic Harp,
 700000,83,506,LP,ROCK,1,Seatrain,Seatrain,
 710000,83,507,LP,ROCK,1,Seatrain,Marblehead Messenger,
-440000,00,000,CD,DEAD,1,Second Sight,Second Sight,
+969999,00,000,CD,DEAD,1,Second Sight,Second Sight,
 720000,82,491,LP,FOLK,1,Seldom Scene,Act 1,
 730000,82,492,LP,FOLK,1,Seldom Scene,Act 2,
 740000,77,388,LP,FOLK,1,Seldom Scene,Old Train,
@@ -558,7 +563,6 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 700000,72,153,LP,ROCK,1,Traffic,John Barleycorn,
 710000,73,183,VL,ROCK,1,Traffic,Low Spark,
 730000,73,182,VL,ROCK,1,Traffic,On The Road,
-330000,82,499,LP,FOLK,1,US Senator Robert Byrd,US Senator Robert Byrd,
 330000,77,376,XX,ROCK,1,Van Morrison,Best Of,
 330000,77,392,XX,ROCK,1,Van Morrison,Tupelo Honey,
 000000,00,000,CC,FOLK,3,Various,People Take Warning,
@@ -586,7 +590,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 650000,71,091,LP,BLUZ,1,Various,Whats Shaking,
 690000,69,014,XX,ROCK,1,Various,Easy Rider,
 960000,00,000,CD,JAZZ,1,Various,Jazz Cafe,Sampler
-440000,00,000,CD,DEAD,1,Wake the Dead,Wake the Dead,
+009999,00,000,CD,DEAD,1,Wake the Dead,Wake the Dead,
 671215,70,045,CC,ROCK,1,Who,Sell Out,
 690519,69,022,CD,ROCK,2,Who,Tommy,
 700511,71,082,CD,ROCK,1,Who,Live at Leeds,
@@ -607,4 +611,4 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 720000,81,462,XX,ROCK,2,Youngbloods,This Is The,
 730000,73,237,VL,ROCK,1,Youngbloods,Song for Juli,
 790000,79,409,XX,ROCK,1,Zappa,Sleep Dirt,
-870000,00,000,CD,DEAD,1,Zero,Here Goes Nothing,
+879999,00,000,CD,DEAD,1,Zero,Here Goes Nothing,
