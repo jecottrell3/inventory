@@ -101,10 +101,18 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 700000,69,032,KP,ROCK,1,CSNY,Deja Vu,
 700000,72,101,XX,ROCK,1,CSNY,Wooden Nickel,
 710000,71,073,XX,ROCK,2,CSNY,Four Way Street,
+009999,00,000,CD,JAZZ,1,California Guitar Trio,Rocks the Weat,
+019999,00,000,CD,JAZZ,1,California Guitar Trio,Ten Xmas Songs,
+029999,00,000,CD,JAZZ,1,California Guitar Trio,CGT3+2,
+039999,00,000,CD,JAZZ,1,California Guitar Trio,First Decade,
+939999,00,000,CD,JAZZ,1,California Guitar Trio,Yamanashi Blues,
+959999,00,000,CD,JAZZ,1,California Guitar Trio,Invitation,
+989999,00,000,CD,JAZZ,1,California Guitar Trio,Pathways,
 330000,75,305,VL,ROCK,1,Charlie Daniels,Charlie Daniels,
 330000,74,293,LP,JAZZ,2,Chick Corea,Circle Paris Concert,
 760000,00,000,CD,JAZZ,1,Chick Corea,Corea+Hancock+Jarrett+Tyner
 870000,00,000,CD,JAZZ,1,Chick Corea,Mystic Bridge,
+039999,00,000,CD,DEAD,1,Chris Thile,Into the Cauldron,+Mike Marshall
 330000,73,219,XX,ROCK,1,Chuck Berry,Berrys Greatest Hits,
 330000,73,220,XX,ROCK,1,Chuck Berry,Sweet Little Rock and Roller,
 330000,74,261,XX,ROCK,2,Chuck Berry,StL to SFO to Memphis,
@@ -150,7 +158,10 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 710000,72,106,KP,ROCK,1,David Crosby,Remember My Name,
 780526,00,000,CD,ROCK,1,David Gilmour,David Gilmour,
 840305,00,000,CD,ROCK,1,David Gilmour,About Face,
-330000,82,497,LP,JAZZ,1,David Grisman,Mandolin Abstractions,
+010623,00,000,CD,JAZZ,1,David Grisman,New River,+Denny Zeitlin
+839999,83,497,LP,JAZZ,1,David Grisman,Mandolin Abstractions,
+970819,00,000,CD,JAZZ,1,David Grisman,Doc and Dawg,+Doc Watson
+999999,00,000,CD,JAZZ,1,David Grisman,Retrograss,+Hartford+Mike Seeger
 330000,82,478,XX,ROCK,1,David La Flamme,White Bird,
 020399,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
 020709,81,454,CD,DEAD,4,Dead,Stepping Out,
@@ -196,13 +207,15 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 820920,00,000,LP,ROCK,1,Dire Straits,Love Over Gold,
 850513,00,000,LP,ROCK,1,Dire Straits,Brothers In Arms,
 910909,00,000,LP,ROCK,1,Dire Straits,On Every Street,
-330000,73,178,LP,ROCK,3,Dirt Band,Will the Circle Be Unbroken,
+721199,73,178,CD,ROCK,3,Dirt Band,Will the Circle Be Unbroken,
+721199,73,178,LP,ROCK,3,Dirt Band,Will the Circle Be Unbroken,
 330000,77,377,LP,JAZZ,1,Django Reinhart,Parisian Swing,
 330000,81,458,LP,JAZZ,2,Django Reinhart,The Indispensible,
 330000,73,226,LP,FOLK,2,Doc Watson,On Stage,
 330000,73,228,LP,FOLK,2,Doc Watson,The Essential,
 330000,74,268,LP,FOLK,1,Doc Watson,Ballads from Deep Gap,
 330000,83,510,LP,FOLK,1,Doc Watson,Lonesome Road,
+809999,00,000,CD,FOLK,1,Doc Watson,Reflections,+Chet Atkins
 950000,00,000,CD,FOLK,4,Doc Watson,The Vanguard Years,
 330000,81,464,XX,ROCK,1,Donovan,Barabajagal,
 330000,81,465,XX,ROCK,1,Donovan,Hurdy Gurdy Man,
@@ -238,7 +251,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 000425,99,000,CD,DEAD,1,Garcia,The Pizza Tapes,@
 010911,99,000,CD,DEAD,1,Garcia,Grateful Dawg,WOW@
 709810,99,000,CD,DEAD,1,Garcia,+Howard Wales,@
-711101,73,212,LP,DEAD,1,Garcia,Hooteroll,+HowardWales
+711101,73,212,LP,DEAD,1,Garcia,Hooteroll,+Howard Wales
 720120,73,193,CD,DEAD,1,Garcia,Garcia,@
 720299,76,346,LP,DEAD,1,Garcia,Heavy Turbulence,@
 730599,73,213,LP,DEAD,1,Garcia,Fire Up,@
@@ -249,9 +262,9 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 829999,82,471,LP,DEAD,1,Garcia,Run For the Roses,@
 880301,87,521,LP,DEAD,1,Garcia,Keystone Encores Vol 1,@
 880301,87,522,LP,DEAD,1,Garcia,Keystone Encores Vol 2,@
-950899,99,000,CD,DEAD,1,Garcia,Blue Incantation,on Sanjay Mishra@
+950899,99,000,CD,DEAD,1,Garcia,Blue Incantation,+Sanjay Mishra@
 980899,99,000,CD,DEAD,1,Garcia,So What,@
-981099,00,000,CD,DEAD,1,Garcia,Side Trips,+HowardWales
+981099,00,000,CD,DEAD,1,Garcia,Side Trips,+Howard Wales
 710000,82,479,NX,ROCK,1,Genesis,Nursery Cryme,
 720000,82,480,NX,ROCK,1,Genesis,Foxtrot,
 730000,76,365,NX,ROCK,1,Genesis,Selling England By the Pound,
@@ -261,6 +274,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,80,450,LP,FOLK,1,Good Old Boys,Pistol Packing Mama,
 330000,72,115,VL,ROCK,1,Graham Nash,Songs for Beginners,
 330000,71,089,SL,ROCK,1,Grin,Grin,
+070000,18,000,CD,JAZZ,1,Grits,Tailwind,Tom Wright
 089999,00,000,CD,JAZZ,1,Grits,Rock and Roll Madness,LOCAL
 729999,00,000,CD,JAZZ,1,Grits,As the World Grits,LOCAL
 979999,00,000,CD,JAZZ,1,Grits,Rare Birds,LOCAL
@@ -268,6 +282,22 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 690000,69,008,LP,MISS,1,Guess Who,Canned Wheat,
 330000,80,443,LP,JAZZ,1,Happy The Man,Happy The Man,
 330000,73,247,SL,BLUZ,1,Harvey Mandel,Get Off in Chicago,
+009999,00,114,CD,FOLK,1,Harvey Reid,Guitar Voyages,
+019999,00,115,CD,FOLK,1,Harvey Reid,The Great Sad River,
+029999,00,116,CD,FOLK,1,Harvey Reid,Dreamer or Believer,
+039999,00,117,CD,FOLK,1,Harvey Reid,Autoharp Album,
+049999,00,118,CD,FOLK,1,Harvey Reid,Kindling the Fire,
+849999,00,111,CD,FOLK,1,Harvey Reid,Xmas Album,
+869999,00,103,CD,FOLK,1,Harvey Reid,Coming of Winter,
+889999,00,104,CD,FOLK,1,Harvey Reid,Of Wind and Water,
+899999,00,105,CD,FOLK,1,Harvey Reid,Solo Guitar Sketchbook,
+909999,00,106,CD,FOLK,1,Harvey Reid,Overview,
+929999,00,107,CD,FOLK,1,Harvey Reid,Steel Driving Man,
+939999,00,108,CD,FOLK,1,Harvey Reid,Circles,
+949999,00,109,CD,FOLK,1,Harvey Reid,Chestnuts,
+959999,00,110,CD,FOLK,1,Harvey Reid,Artistry of 6-String Banjo,
+979999,00,112,CD,FOLK,1,Harvey Reid,In Person,
+989999,00,113,CD,FOLK,1,Harvey Reid,Fruit on the Vine,
 670823,69,031,CD,ROCK,1,Hendrix,Are You Experienced,@
 671201,69,016,XX,ROCK,1,Hendrix,Axis Bold as Love,@
 681016,69,033,CD,ROCK,2,Hendrix,Electric Ladyland,@
@@ -494,14 +524,15 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 700000,83,506,LP,ROCK,1,Seatrain,Seatrain,
 710000,83,507,LP,ROCK,1,Seatrain,Marblehead Messenger,
 969999,00,000,CD,DEAD,1,Second Sight,Second Sight,
-720000,82,491,LP,FOLK,1,Seldom Scene,Act 1,
-730000,82,492,LP,FOLK,1,Seldom Scene,Act 2,
-740000,77,388,LP,FOLK,1,Seldom Scene,Old Train,
-740000,82,493,LP,FOLK,1,Seldom Scene,Act 3,
-750000,76,363,LP,FOLK,2,Seldom Scene,Live at the Cellar Door,
-790000,82,494,LP,FOLK,1,Seldom Scene,Act 4,
-810000,82,495,LP,FOLK,1,Seldom Scene,After Midnight,
-830000,83,511,LP,FOLK,1,Seldom Scene,At the Scene,
+729999,82,491,LP,FOLK,1,Seldom Scene,Act 1,
+739999,82,492,LP,FOLK,1,Seldom Scene,Act 2,
+749999,77,388,LP,FOLK,1,Seldom Scene,Old Train,
+749999,82,493,LP,FOLK,1,Seldom Scene,Act 3,
+759999,76,363,CD,FOLK,1,Seldom Scene,Live at the Cellar Door,
+759999,76,363,LP,FOLK,2,Seldom Scene,Live at the Cellar Door,
+799999,82,494,LP,FOLK,1,Seldom Scene,Act 4,
+819999,82,495,LP,FOLK,1,Seldom Scene,After Midnight,
+839999,83,511,LP,FOLK,1,Seldom Scene,At the Scene,
 961001,00,000,CD,ROCK,1,Shawn Colvin,A Few Small Repairs,
 700000,75,320,LP,BLUZ,1,Shuggie Otis,Here Comes,
 710000,79,422,LP,BLUZ,1,Shuggie Otis,Freedom Flight,
@@ -559,7 +590,6 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,74,288,LP,BLUZ,1,Tbone Walker,Dirty Mistreater,
 330000,76,359,LP,ROCK,1,The Section,The Section,
 930000,00,000,CD,ROCK,1,Tom Petty,Greatest Hits,
-070000,18,000,CD,JAZZ,1,Tom Wright,Tailwind,from GRITS
 700000,72,153,LP,ROCK,1,Traffic,John Barleycorn,
 710000,73,183,VL,ROCK,1,Traffic,Low Spark,
 730000,73,182,VL,ROCK,1,Traffic,On The Road,
