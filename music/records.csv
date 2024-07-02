@@ -163,42 +163,6 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 970819,00,000,CD,JAZZ,1,David Grisman,Doc and Dawg,+Doc Watson
 999999,00,000,CD,JAZZ,1,David Grisman,Retrograss,+Hartford+Mike Seeger
 330000,82,478,XX,ROCK,1,David La Flamme,White Bird,
-020399,00,000,CD,DEAD,2,Dead,Postcards of the Hanging,
-020709,81,454,CD,DEAD,4,Dead,Stepping Out,
-050315,00,000,CD,DEAD,5,Dead,Movie Soundtrack,@
-110920,00,000,CD,DEAD,2,Dead,Europe 72 Vol 2,
-130917,00,000,CD,DEAD,4,Dead,Sunshine Daydream,
-440000,00,000,CD,DEAD,4,Dead,England 72,
-670317,73,201,XX,DEAD,1,Dead,The Grateful Dead,@
-680718,73,202,CC,DEAD,1,Dead,Anthem Extended,@
-680718,73,202,CD,DEAD,1,Dead,Anthem of the Sun,@
-690620,73,203,CD,DEAD,1,Dead,Aoxomoxoa,@
-691110,73,196,CD,DEAD,2,Dead,Live Dead,@
-700399,74,269,NX,DEAD,1,Dead,Zabriskie Point,@
-700714,73,204,CD,DEAD,1,Dead,Workingmans Dead,@
-701099,73,206,NX,DEAD,1,Dead,Vintage,@
-701101,73,205,CD,DEAD,1,Dead,American Beauty,@
-710699,73,207,NX,DEAD,1,Dead,Historic Dead,@
-711024,73,194,XX,DEAD,2,Dead,Skull and Roses,@
-721101,73,198,CD,DEAD,3,Dead,Europe 72,@
-730713,73,208,XX,DEAD,1,Dead,Bears Choice,@
-731015,73,209,CC,DEAD,1,Dead,Wake of the Flood,@
-740627,74,271,CD,DEAD,1,Dead,Mars Hotel,@
-750813,75,000,CD,DEAD,2,Dead,One from the Vault,@
-750901,75,333,CC,DEAD,1,Dead,Blues For Allah,@
-760626,76,356,XX,DEAD,2,Dead,Steal Your Face,@
-770727,77,400,CD,DEAD,1,Dead,Terrapin Station,@
-781115,78,401,XX,DEAD,1,Dead,Shakedown Street,@
-800428,80,445,XX,DEAD,1,Dead,Go To Heaven,@
-810401,81,451,CD,DEAD,2,Dead,Reckoning,@
-810826,81,454,CD,DEAD,2,Dead,Dead Set,@
-870706,87,520,XX,DEAD,1,Dead,In the Dark,@
-891030,89,000,XX,DEAD,1,Dead,Dylan and the Dead,@
-891031,89,000,CD,DEAD,1,Dead,Built to Last,@
-900999,73,000,CD,DEAD,2,Dead,Without a Net,@
-940095,00,000,CD,DEAD,2,Dead,Grayfolded,
-980999,00,000,CD,DEAD,1,Dead,Twilight Zone Soundtrack,
-990209,00,000,CD,DEAD,1,Dead,The Strange Remain,
 080000,00,000,CD,DEAD,1,Dead Grass,Dead Grass,+Vassar Clements
 330000,75,313,LP,ROCK,1,Dickey Betts,Highway Call,
 780609,00,000,LP,ROCK,1,Dire Straits,Dire Straits,
@@ -273,6 +237,42 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 710000,73,168,LP,ROCK,3,George Harrison,Concert for Bangladesh,
 330000,80,450,LP,FOLK,1,Good Old Boys,Pistol Packing Mama,
 330000,72,115,VL,ROCK,1,Graham Nash,Songs for Beginners,
+020399,00,000,CD,DEAD,2,Grateful,Postcards of the Hanging,
+020709,81,454,CD,DEAD,4,Grateful,Stepping Out,
+050315,00,000,CD,DEAD,5,Grateful,Movie Soundtrack,@
+110920,00,000,CD,DEAD,2,Grateful,Europe 72 Vol 2,
+130917,00,000,CD,DEAD,4,Grateful,Sunshine Daydream,
+440000,00,000,CD,DEAD,4,Grateful,England 72,
+670317,73,201,XX,DEAD,1,Grateful,The Grateful Dead,@
+680718,73,202,CC,DEAD,1,Grateful,Anthem Extended,@
+680718,73,202,CD,DEAD,1,Grateful,Anthem of the Sun,@
+690620,73,203,CD,DEAD,1,Grateful,Aoxomoxoa,@
+691110,73,196,CD,DEAD,2,Grateful,Live Dead,@
+700399,74,269,NX,DEAD,1,Grateful,Zabriskie Point,@
+700714,73,204,CD,DEAD,1,Grateful,Workingmans Dead,@
+701099,73,206,NX,DEAD,1,Grateful,Vintage,@
+701101,73,205,CD,DEAD,1,Grateful,American Beauty,@
+710699,73,207,NX,DEAD,1,Grateful,Historic Dead,@
+711024,73,194,XX,DEAD,2,Grateful,Skull and Roses,@
+721101,73,198,CD,DEAD,3,Grateful,Europe 72,@
+730713,73,208,XX,DEAD,1,Grateful,Bears Choice,@
+731015,73,209,CC,DEAD,1,Grateful,Wake of the Flood,@
+740627,74,271,CD,DEAD,1,Grateful,Mars Hotel,@
+750813,75,000,CD,DEAD,2,Grateful,One from the Vault,@
+750901,75,333,CC,DEAD,1,Grateful,Blues For Allah,@
+760626,76,356,XX,DEAD,2,Grateful,Steal Your Face,@
+770727,77,400,CD,DEAD,1,Grateful,Terrapin Station,@
+781115,78,401,XX,DEAD,1,Grateful,Shakedown Street,@
+800428,80,445,XX,DEAD,1,Grateful,Go To Heaven,@
+810401,81,451,CD,DEAD,2,Grateful,Reckoning,@
+810826,81,454,CD,DEAD,2,Grateful,Dead Set,@
+870706,87,520,XX,DEAD,1,Grateful,In the Dark,@
+891030,89,000,XX,DEAD,1,Grateful,Dylan and the Dead,@
+891031,89,000,CD,DEAD,1,Grateful,Built to Last,@
+900999,73,000,CD,DEAD,2,Grateful,Without a Net,@
+940095,00,000,CD,DEAD,2,Grateful,Grayfolded,
+980999,00,000,CD,DEAD,1,Grateful,Twilight Zone Soundtrack,
+990209,00,000,CD,DEAD,1,Grateful,The Strange Remain,
 330000,71,089,SL,ROCK,1,Grin,Grin,
 070000,18,000,CD,JAZZ,1,Grits,Tailwind,Tom Wright
 089999,00,000,CD,JAZZ,1,Grits,Rock and Roll Madness,LOCAL
@@ -482,7 +482,7 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 330000,82,483,LP,FOLK,2,Ralph Stanley,Live at McClure VA,
 000000,00,000,CC,MISC,4,Ravi Shankar,In Celebration,
 330000,79,423,KP,ROCK,2,Renaissance,Live at Carnegie Hall,
-020000,00,000,CD,FOLK,1,Rex McGee,24 Creations Solo Banjo,
+020000,00,000,CD,FOLK,1,Rex McGee,24 Creations Solo Banjo,LOCAL
 330000,80,433,LP,FOLK,1,Richard Greene,Rambling,
 330000,81,467,VL,ROCK,1,Robbie Krieger,Butts Band,
 330000,82,499,LP,FOLK,1,Robert Byrd,US Senator Robert Byrd,
@@ -583,8 +583,6 @@ Issued,YA,Num,MT,Type,N,Artist,Album,Comments
 750000,83,518,XX,ROCK,1,Stones,Metamorphosis,
 780000,83,517,XX,ROCK,1,Stones,Some Girls,
 000201,00,000,CD,DEAD,1,String Cheese Incident,Carnival 99,
-440000,00,000,CD,JAZZ,1,String Cheese Incident,A SCI,
-440000,00,000,CD,JAZZ,1,String Cheese Incident,Carnival 99,
 970600,00,000,CD,DEAD,1,String Cheese Incident,SCI,
 330000,83,519,XX,ROCK,1,Talking Heads,Remain In Light,
 330000,74,288,LP,BLUZ,1,Tbone Walker,Dirty Mistreater,
