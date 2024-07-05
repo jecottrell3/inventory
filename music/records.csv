@@ -1,5 +1,6 @@
 :.,$!sort -t, -bk6,6 -k1n
 Issued,Num,MT,N,Type,Artist,Album,Comments
+000000,000,CD,1,ROCK,A Perfect Circle,Emotive,
 680000,246,NX,1,BLUZ,Al Kooper,Super Session,
 690000,243,NX,2,BLUZ,Al Kooper,Super Session Live,
 690000,245,NX,1,BLUZ,Al Kooper,Kooper Session,
@@ -9,6 +10,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 650000,310,LP,1,BLUZ,Alec Seward,Creeping Blues,
 740000,375,LP,1,JAZZ,Alice Coltrane,Illuminations,
 750000,413,LP,1,JAZZ,Alice Coltrane,Eternity,
+000000,000,CD,1,ROCK,Allman Brothers,The Epic Years,
 687205,125,NX,1,ROCK,Allman Brothers,Duane and Gregg,31st of Feb Demo@
 691104,108,CD,1,ROCK,Allman Brothers,Allman Brothers Band,@
 700923,109,CD,1,ROCK,Allman Brothers,Idlewild South,@
@@ -16,8 +18,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720212,110,CD,1,ROCK,Allman Brothers,Eat a Peach,@
 730899,192,XX,1,ROCK,Allman Brothers,Bothers and Sisters,@
 911022,000,CD,1,ROCK,Allman Brothers,Decade of Hits 1969-1979,@
+000000,000,CD,1,ROCK,America,Greatest Hits,
+000000,000,CD,1,ROCK,Amy Winehouse,Back to Black,
+000000,000,CD,1,ROCK,Amy Winehouse,Frank,
+000000,000,CD,1,ROCK,Amy Winehouse,Lioness,
 000000,000,CC,1,FOLK,Andreas Vollenweider,Magic Harp,
 330000,297,LP,1,BLUZ,Andrew Odom,Andrew Odom,
+000000,000,CD,1,ROCK,B52s,Time Capsule,
 330000,221,LP,1,BLUZ,BB King,Underground Gold,
 650000,265,LP,1,BLUZ,BB King,Live at the Regal,
 690000,322,LP,1,BLUZ,BB King,Live and Well,
@@ -34,6 +41,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750000,353,VL,1,ROCK,Band,Northern Lights Southern Cross,
 330000,283,LP,1,BLUZ,Barry Goldberg,Two Jews Blues,
 330000,368,LP,1,BLUZ,Barry Goldberg,And Friend,
+000000,000,CJ,1,ROCK,Beatles,Althea Beatle Mix,
 060000,000,CD,1,ROCK,Beatles,Love,
 000725,000,CD,1,JAZZ,Bela Fleck,Outbound,@
 011002,000,CC,1,JAZZ,Bela Fleck,Perpetual Motion,@
@@ -62,8 +70,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,434,LP,1,FOLK,Bill Monroe,+Flatt and Scruggs,
 330000,498,LP,1,FOLK,Bill Monroe,Greatest Hits,
 330000,290,XX,1,ROCK,Bill Wyman,Monkey Grip,
+000000,000,CD,1,ROCK,Billy Idol,Greatest Hits,
 950000,000,CD,1,JAZZ,Billy Lester,Captivating Rhythm,
 690809,044,CD,2,ROCK,Blind Faith,Blind Faith,Deluxe Edition
+000000,000,CD,1,ROCK,Blondie,Best Of,
 650000,150,CD,1,ROCK,Bob Dylan,Bring it All Back Home,
 650000,167,CD,1,ROCK,Bob Dylan,Highway 61,
 670000,067,CD,1,ROCK,Bob Dylan,Greatest Hits V1,
@@ -96,6 +106,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 791199,000,CD,1,ROCK,Byrds,Byrds Play Dylan,@
 960000,000,CD,1,ROCK,Byrds,Live From Mars,Roger McGuinn@
 690000,013,VL,1,ROCK,CSN,Crosby Stills and Nash,
+000000,000,CD,1,ROCK,CSNY,So Far,
 330000,037,XX,2,ROCK,CSNY,Live at Felt Forum,
 330000,173,VL,1,ROCK,CSNY,Crosby and Nash,
 700000,032,KP,1,ROCK,CSNY,Deja Vu,
@@ -108,11 +119,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 939999,000,CD,1,JAZZ,California Guitar Trio,Yamanashi Blues,
 959999,000,CD,1,JAZZ,California Guitar Trio,Invitation,
 989999,000,CD,1,JAZZ,California Guitar Trio,Pathways,
+000000,000,CD,1,JAZZ,Cecil Taylor,Unit Structures,Weird
 330000,305,VL,1,ROCK,Charlie Daniels,Charlie Daniels,
 330000,293,LP,2,JAZZ,Chick Corea,Circle Paris Concert,
 760000,000,CD,1,JAZZ,Chick Corea,Corea+Hancock+Jarrett+Tyner
 870000,000,CD,1,JAZZ,Chick Corea,Mystic Bridge,
-039999,000,CD,1,DEAD,Chris Thile,Into the Cauldron,+Mike Marshall
+039999,000,CD,1,FOLK,Chris Thile,Into the Cauldron,+Mike Marshall
 330000,219,XX,1,ROCK,Chuck Berry,Berrys Greatest Hits,
 330000,220,XX,1,ROCK,Chuck Berry,Sweet Little Rock and Roller,
 330000,261,XX,2,ROCK,Chuck Berry,StL to SFO to Memphis,
@@ -127,6 +139,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 740000,461,CC,1,ROCK,Clapton,461 Ocean Boulevard,
 830000,505,XX,1,ROCK,Clapton,Timepieces,
 330000,321,LP,1,BLUZ,Cleanhead Vinson,Cant Make Love Alone,
+000000,000,CD,1,ROCK,Coldplay,Mylo Xyloto,
+000000,000,CD,1,ROCK,Coldplay,Parachutes,
+000000,000,CD,1,ROCK,Coldplay,Rush of Blood,
+000000,000,CD,1,ROCK,Coldplay,Viva La Viva,
+000000,000,CD,1,ROCK,Coldplay,X+Y,
 630000,000,CD,1,FOLK,Country Gentleman,On the Road,
 880000,000,CD,1,JAZZ,Craig Fraedrich,First Flight,
 660000,026,CC,1,ROCK,Cream,Fresh Cream,
@@ -156,8 +173,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750000,407,LP,1,FOLK,David Bromberg,Midnight on the Water,
 760000,385,LP,2,ROCK,David Bromberg,How Late You Play Til,
 710000,106,KP,1,ROCK,David Crosby,Remember My Name,
+000000,000,CD,1,ROCK,David Gilmour,On an Island,
 780526,000,CD,1,ROCK,David Gilmour,David Gilmour,
 840305,000,CD,1,ROCK,David Gilmour,About Face,
+000000,000,CD,3,ROCK,David Gilomour,Live in Gdansk,
 010623,000,CD,1,JAZZ,David Grisman,New River,+Denny Zeitlin
 839999,497,LP,1,JAZZ,David Grisman,Mandolin Abstractions,
 970819,000,CD,1,JAZZ,David Grisman,Doc and Dawg,+Doc Watson
@@ -171,8 +190,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 820920,000,LP,1,ROCK,Dire Straits,Love Over Gold,
 850513,000,LP,1,ROCK,Dire Straits,Brothers In Arms,
 910909,000,LP,1,ROCK,Dire Straits,On Every Street,
-721199,178,CD,3,ROCK,Dirt Band,Will the Circle Be Unbroken,
-721199,178,LP,3,ROCK,Dirt Band,Will the Circle Be Unbroken,
+721199,178,CD,3,ROCK,Dirt Band,Will the Circle Be Unbroken,+LP
+721199,178,LP,3,ROCK,Dirt Band,Will the Circle Be Unbroken,+CD
+000000,000,CD,1,JAZZ,Django Reinhart,All Star Sessions,
 330000,377,LP,1,JAZZ,Django Reinhart,Parisian Swing,
 330000,458,LP,2,JAZZ,Django Reinhart,The Indispensible,
 330000,226,LP,2,FOLK,Doc Watson,On Stage,
@@ -184,6 +204,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,464,XX,1,ROCK,Donovan,Barabajagal,
 330000,465,XX,1,ROCK,Donovan,Hurdy Gurdy Man,
 330000,466,XX,1,ROCK,Donovan,Sunshine Superman,
+000000,000,CD,1,ROCK,Doors,Greatest Hits,
 670000,006,CC,1,ROCK,Doors,The Doors,
 670000,006,CD,1,ROCK,Doors,The Doors,
 670000,011,CD,1,ROCK,Doors,Strange Days,
@@ -196,6 +217,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 830000,509,VL,1,ROCK,Doors,Alive She Cried,
 049999,000,CD,1,DEAD,Dose Hermanos,Bright Shadows,+Constanten+Bralove
 000000,000,CD,1,JAZZ,Duke Ellington,Best Of,
+000000,000,CD,1,ROCK,Eagles,Greatest Hits,
+000000,000,CD,1,ROCK,Eagles,Hell Freezes Over,
+000000,000,CD,1,ROCK,Eagles,On the Border,
+000000,000,CD,1,ROCK,Eagles,Out of Eden,
 330000,500,VL,1,ROCK,Elvis,Greatest Hits,
 440000,000,CD,1,ROCK,Eva Cassidy,Live at Blues Alley,
 440000,000,CD,1,ROCK,Eva Cassidy,Songbird,
@@ -204,14 +229,17 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 440000,000,CD,1,ROCK,Eva Cassidy,Songbird,
 960514,000,CD,1,ROCK,Eva Cassidy,Live at Blues Alley,
 980519,000,CD,1,ROCK,Eva Cassidy,Songbird,
+000000,000,CD,1,ROCK,Fleetwood Mac,Greatest Hits,
 690000,104,LP,2,BLUZ,Fleetwood Mac,In Chicago,
 710000,099,LP,2,BLUZ,Fleetwood Mac,Black Magic Woman,
 710000,411,LP,1,BLUZ,Fleetwood Mac,Original Fleetwood Mac,
+000000,000,XX,1,CLAS,Forever Gold,Magic of the Guitar,hits
 970000,000,CD,2,JAZZ,Frank Sinatra,My Way Best Of,
 610000,527,SL,1,BLUZ,Freddie King,Sings,
 710000,250,SL,1,BLUZ,Freddie King,Getting Ready,
 730000,251,SL,1,BLUZ,Freddie King,Woman Across the River,
 860000,528,SL,2,BLUZ,Freddie King,Just Picking,
+000000,000,CJ,1,DEAD,Garcia,WHFS Interview with Cerphe 1975,
 000425,000,CD,1,DEAD,Garcia,The Pizza Tapes,@
 010911,000,CD,1,DEAD,Garcia,Grateful Dawg,WOW@
 709810,000,CD,1,DEAD,Garcia,+Howard Wales,@
@@ -235,8 +263,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 741122,000,CD,1,ROCK,Genesis,Lamb Lies Down,
 700000,147,XX,3,ROCK,George Harrison,All Things Must Pass,
 710000,168,LP,3,ROCK,George Harrison,Concert for Bangladesh,
+000000,000,CD,1,ODDS,Gipsy Kings,Best Of,
 330000,450,LP,1,FOLK,Good Old Boys,Pistol Packing Mama,
 330000,115,VL,1,ROCK,Graham Nash,Songs for Beginners,
+000000,000,CD,2,DEAD,Grateful,Egypt 1978,
+000000,000,DV,1,DEAD,Grateful,Egypt 1978,
 020399,000,CD,2,DEAD,Grateful,Postcards of the Hanging,
 020709,454,CD,4,DEAD,Grateful,Stepping Out,
 050315,000,CD,5,DEAD,Grateful,Movie Soundtrack,@
@@ -307,7 +338,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 708208,524,SL,2,ROCK,Hendrix,The Jimi Hendrix Concerts,@
 708610,523,XX,1,ROCK,Hendrix,Band of Gypsys 2,@
 710000,218,XX,1,ROCK,Hendrix,Friends Beginning,+Little Richard
-710305,075,KP,1,ROCK,Hendrix,Cry of Love,@
+710305,075,KP,1,ROCK,Hendrix,Cry of Love,RARE
 990223,000,CD,2,ROCK,Hendrix,Live at Fillmore East,@
 170000,000,CD,1,JAZZ,Hiromi,Hiromi + Castaneda,
 130000,000,CD,2,MISC,Hobbit Soundtrack,Desolation of Smaug,
@@ -322,11 +353,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 731099,000,CD,1,ROCK,Jackson Browne,For Everyman,
 740913,000,CD,1,ROCK,Jackson Browne,Late For the Sky,
 860218,000,CD,1,ROCK,Jackson Browne,Lives in the Balance,
+000000,000,CD,1,JAZZ,Jackson Pollock,Jazz,
 000000,000,CD,1,JAZZ,Jaco Pastorius,Jaco Pastorius,
 760000,000,CD,1,ROCK,James Taylor,Greatest Hits,
 989999,000,CD,1,DEAD,Jazz is Dead,Blue Light Rain,
 999999,000,CD,1,DEAD,Jazz is Dead,Laughing Water,
 330000,397,XX,1,ROCK,Jeff Beck,Blow By Blow,
+000000,000,CD,1,ROCK,Jeff Healey,See the Light,
 330000,369,XX,1,ROCK,Jefferson Airplane,Volunteers,
 710000,079,CC,1,ROCK,Jethro Tull,Aqualung,
 330000,468,LP,1,ROCK,Jimmy Cliff,The Harder They Come,
@@ -360,6 +393,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720000,277,LP,1,BLUZ,John Mayall,Jazz Blues Fusion,
 330000,328,LP,1,JAZZ,John McLaughlin,Birds of Fire,
 330000,488,LP,1,FOLK,John Starling,Long Time Gone,
+000000,000,CD,1,ROCK,Joni Mitchell,Both Sides Now,
+000000,000,CD,1,ROCK,Joni Mitchell,hits,
 680300,370,KP,1,ROCK,Joni Mitchell,Song to a Seagull,
 690500,371,KP,1,ROCK,Joni Mitchell,Clouds,
 700400,372,CD,1,ROCK,Joni Mitchell,Ladies of the Canyon,
@@ -373,8 +408,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 761100,000,CD,1,ROCK,Joni Mitchell,Hejira,
 761100,381,KP,1,ROCK,Joni Mitchell,Hejira,
 771200,403,KP,2,ROCK,Joni Mitchell,Don Juans Reckless Daughter,
+000000,000,CD,1,ROCK,KD Lang,Ingenue,
+000000,000,CD,1,ROCK,KD Lang,Invincible Summer,
+000000,000,CD,1,ROCK,KD Lang,Shadowland,
+000000,000,CD,1,ROCK,KD Lang,Watershed,
 850000,000,CD,1,CLAS,Kaleidoscope,Second Hearing,Various
 330000,304,LP,1,ROCK,Keith and Donna,Keith and Donna,
+000000,000,CD,1,ROCK,Kilimanjaro,Kilimanjaro II,
 820000,000,CX,1,JAZZ,Kilimanjaro,Kilimanjaro II,Lite Jazz
 330000,046,KP,1,ROCK,King Crimson,Crimson King,
 330000,057,KP,1,ROCK,King Crimson,Wake of Poseidon,
@@ -388,8 +428,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,299,LP,1,FOLK,Leo Kottke,Dreams and All That Stuff,
 330000,512,LP,1,FOLK,Leo Kottke,Mudlark,
 330000,513,LP,1,FOLK,Leo Kottke,Kottke Lang Fahey,
-440000,188,CD,1,ROCK,Leo Kottke,6 and 12 String Guitar,
-691299,188,CD,1,ROCK,Leo Kottke,6 and 12 String Guitar,Also LP
+691299,188,CD,1,ROCK,Leo Kottke,6 and 12 String Guitar,+LP
+691299,188,LP,1,ROCK,Leo Kottke,6 and 12 String Guitar,+CD
 990629,000,CD,1,ROCK,Leo Kottke,One Guitar No Vocals,
 330000,410,LP,1,JAZZ,Les Paul,Chester and Lester,
 850000,000,CD,1,JAZZ,Lew Tabackin,Angelica,
@@ -408,9 +448,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 940322,000,CD,1,FOLK,Loreena McKennitt,Mask and Mirror,
 980419,000,CD,1,FOLK,Loreena McKennitt,Live in Paris,
 330000,309,LP,1,BLUZ,Louisiana Red,Sings the Blues,
+000000,000,CD,1,ROCK,Madonna,Erotic,
 330000,515,LP,1,ROCK,Mark Knopfler,Cal,
 330000,516,LP,1,ROCK,Mark Knopfler,Local Hero,
 330000,421,XX,1,ROCK,Marshall Tucker,Greatest Hits,
+000000,000,CD,1,ROCK,Mary Chapin Carpenter,Party Doll,
 001024,000,CD,1,JAZZ,McCoy Tyner,Jazz Roots,
 020000,000,CD,1,JAZZ,McCoy Tyner,The Definitive,
 080923,000,CD,1,JAZZ,McCoy Tyner,Guitars,CD
@@ -423,11 +465,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,428,LP,1,FOLK,Merle Travis,Best Of,
 330000,429,LP,1,FOLK,Merle Travis,Guitar Player,
 330000,430,LP,2,FOLK,Merle Travis,Merle Travis Story,
+000000,000,CD,1,ROCK,Michael Jackson,Essential,
 330000,482,XX,1,ROCK,Michael Jackson,Thriller,
 330000,419,KP,1,ROCK,Mick Taylor,Mick Taylor,
+000000,000,CD,1,ROCK,Mickey Hart,Mystery Box,
 330000,211,NX,1,ROCK,Mickey Hart,Rolling Thunder,
 330000,378,LP,1,FOLK,Mike Auldridge,Blues and Blue Grass,
 330000,496,LP,1,FOLK,Mike Auldridge,Eight String Swing,
+000000,000,CD,1,JAZZ,Miles Davis,Super Hits,
 590000,000,CD,1,JAZZ,Miles Davis,Kind of Blue,
 330000,259,LP,2,BLUZ,Mississippi John Hurt,Best Of,
 660068,000,CD,5,ROCK,Monkees,First Five Albums,
@@ -448,7 +493,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690000,017,KP,1,ROCK,NYRRE,Faithful Friends,
 700000,062,KP,1,ROCK,NYRRE,Reflections,
 710000,061,KP,1,ROCK,NYRRE,Roll Over,
-330000,133,LP,2,ROCK,Neil Young,Bootleg,
+000000,000,CC,1,ROCK,Neil Young,Living with War,
+330000,133,XX,2,ROCK,Neil Young,Bootleg,
 690000,058,XX,1,ROCK,Neil Young,Neil Young,
 690000,059,XX,1,ROCK,Neil Young,Crazy Horse,
 700000,060,XX,1,ROCK,Neil Young,After the Goldrush,
@@ -456,6 +502,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750299,303,KP,1,DEAD,Old and In The Way,Old and In The Way,@
 330000,154,LP,1,BLUZ,Otis Spann,Biggest Thing Since Colossus,
 330000,257,LP,1,BLUZ,Otis Spann,Otis Spann,
+000000,000,CD,1,ROCK,Patrick Maggi,The Laughing Game,LOCAL
+000000,000,CD,1,ROCK,Paula Cole,This Fire,
 330000,485,SL,1,FOLK,Pentangle,Pentangle,
 330000,486,SL,1,FOLK,Pentangle,Cruel Sister,
 330000,487,SL,1,FOLK,Pentangle,History Book,
@@ -463,10 +511,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,447,SL,1,BLUZ,Peter Green,In The Skies,
 330000,481,XX,1,BLUZ,Peter Green,Little Dreamer,
 330000,344,LP,1,ROCK,Phil Lesh,Seastones,
+000000,000,CD,1,FOLK,Picking On,The Dead Vol2,
 010000,000,CD,1,FOLK,Picking On,Eight Miles High,
 010000,000,CD,1,FOLK,Picking On,Tangled Up in Bluegrass,
 050000,000,CD,1,FOLK,Picking On,Paint It Blue,
 940000,000,CD,1,FOLK,Picking On,The Eagles,
+940003,000,CD,1,FOLK,Picking On,The Dead Vol1,
 330000,335,LP,2,ROCK,Pink Floyd,A Nice Pair,
 690000,348,CD,2,ROCK,Pink Floyd,Umma Gumma,
 710000,334,CD,1,ROCK,Pink Floyd,Meddle,
@@ -476,6 +526,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 770000,380,CD,1,ROCK,Pink Floyd,Animals,
 790000,476,XX,2,ROCK,Pink Floyd,The Wall,
 940328,000,CD,1,ROCK,Pink Floyd,Division Bell,
+000000,000,CD,1,ROCK,Police,Synchronicity,
 030000,000,CD,1,ROCK,Primus,Animals Should Not,
 330000,281,XX,1,ROCK,Quicksilver,Happy Trails,
 330000,316,XX,1,ROCK,Quicksilver,Quicksilver,
@@ -500,7 +551,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720899,176,XX,1,ROCK,Roy Buchanan,Roy Buchanan,
 330000,420,LP,1,ROCK,Ruppert Chapelle,Ozone Music,
 330000,145,VL,1,ROCK,Ry Cooder,Into the Purple Valley,
+000000,000,CD,1,BLUZ,SRV,Greatest Hits,
+000000,000,CD,1,ROCK,Sade,Best Of,Duplicate
+000000,000,CD,1,ROCK,Sade,Soldier of Love,
 330000,389,LP,1,FOLK,Sam Bush,Blake Taylor Bush Vassar,
+000000,000,CD,1,ROCK,Santana,Best Of,
+000000,000,CD,1,ROCK,Santana,Supernatural,+Clive Davis
 330000,329,NX,1,ROCK,Santana,Love Devotion Surrender,
 690000,374,NX,1,ROCK,Santana,Santana,
 700000,330,NX,1,ROCK,Santana,Abraxas,
@@ -557,8 +613,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 700000,066,VL,1,ROCK,Steve Stills,Steve Stills,
 710000,113,VL,1,ROCK,Steve Stills,Steve Stills Two,
 720000,174,VL,2,ROCK,Steve Stills,Manassas,
-720000,102,LP,2,ROCK,Steve Winwood,Winwood,
+720000,102,LP,2,ROCK,Steve Winwood,Winwood,RARE
+000000,000,CD,1,ROCK,Sting,Brand New Day,
+000000,000,CD,1,ROCK,Sting,Nothing Like the Sun,
+000000,000,CD,1,ROCK,Sting,Sacred Love,
 940000,000,CD,1,ROCK,Sting,Best Of,
+000000,000,CD,1,ROCK,Stones,No Security,
 640000,135,XX,1,ROCK,Stones,The Rolling Stones,
 640000,136,XX,1,ROCK,Stones,12x5,
 650000,137,CC,1,ROCK,Stones,Now,
@@ -593,10 +653,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 730000,182,VL,1,ROCK,Traffic,On The Road,
 330000,376,XX,1,ROCK,Van Morrison,Best Of,
 330000,392,XX,1,ROCK,Van Morrison,Tupelo Honey,
+000000,000,CC,2,FOLK,Various,Hand Picked,
 000000,000,CC,3,FOLK,Various,People Take Warning,
+000000,000,CD,1,DEAD,Various,Gifts from the Dead,
 020000,000,CD,1,CLAS,Various,Magic of the Guitar,
 020000,000,CD,1,FOLK,Various,Treasury of Bluegrass,Time Life
-330000,171,LP,2,ROCK,Various,Woodstock 2,
+330000,171,LP,2,ROCK,Various,Woodstock 2,+Hendrix
 330000,230,LP,2,BLUZ,Various,Best of the Chicago Blues,
 330000,232,LP,2,BLUZ,Various,The Great Blues Men,
 330000,258,LP,1,BLUZ,Various,The Blues,
@@ -623,6 +685,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690519,022,CD,2,ROCK,Who,Tommy,
 700511,082,CD,1,ROCK,Who,Live at Leeds,
 710802,083,XX,1,ROCK,Who,Whos Next,
+000000,000,CD,1,ROCK,Willie Nelson,Super Hits,
 040525,000,CD,1,ROCK,Wilson Phillips,California,
 101012,000,CD,1,ROCK,Wilson Phillips,Xmas in Harmony,
 120403,000,CD,1,ROCK,Wilson Phillips,Dedicated,
