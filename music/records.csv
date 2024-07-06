@@ -11,13 +11,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 740000,375,LP,1,JAZZ,Alice Coltrane,Illuminations,
 750000,413,LP,1,JAZZ,Alice Coltrane,Eternity,
 000000,000,CD,1,ROCK,Allman Brothers,The Epic Years,
-687205,125,NX,1,ROCK,Allman Brothers,Duane and Gregg,31st of Feb Demo@
-691104,108,CD,1,ROCK,Allman Brothers,Allman Brothers Band,@
-700923,109,CD,1,ROCK,Allman Brothers,Idlewild South,@
-710706,080,CD,2,ROCK,Allman Brothers,Fillmore East,@
-720212,110,CD,1,ROCK,Allman Brothers,Eat a Peach,@
-730899,192,XX,1,ROCK,Allman Brothers,Bothers and Sisters,@
-911022,000,CD,1,ROCK,Allman Brothers,Decade of Hits 1969-1979,@
+687205,125,NX,1,ROCK,Allman Brothers,Duane and Gregg,31st of Feb Demo
+691104,108,CD,1,ROCK,Allman Brothers,Allman Brothers Band,
+700923,109,CD,1,ROCK,Allman Brothers,Idlewild South,
+710706,080,CD,2,ROCK,Allman Brothers,Fillmore East,
+720212,110,CD,1,ROCK,Allman Brothers,Eat a Peach,
+730899,192,XX,1,ROCK,Allman Brothers,Bothers and Sisters,
+911022,000,CD,1,ROCK,Allman Brothers,Decade of Hits 1969-1979,
 000000,000,CD,1,ROCK,America,Greatest Hits,
 000000,000,CD,1,ROCK,Amy Winehouse,Back to Black,
 000000,000,CD,1,ROCK,Amy Winehouse,Frank,
@@ -43,27 +43,27 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,368,LP,1,BLUZ,Barry Goldberg,And Friend,
 000000,000,CJ,1,ROCK,Beatles,Althea Beatle Mix,
 060000,000,CD,1,ROCK,Beatles,Love,
-000725,000,CD,1,JAZZ,Bela Fleck,Outbound,@
-011002,000,CC,1,JAZZ,Bela Fleck,Perpetual Motion,@
-020226,000,CD,1,JAZZ,Bela Fleck,Live at the Quick,@
-030812,000,CD,3,JAZZ,Bela Fleck,Little Worlds,@
-040524,000,CD,1,JAZZ,Bela Fleck,Music for Two,+Edgar Meyer@
-060214,000,CD,1,JAZZ,Bela Fleck,The Hidden Land,@
-070522,000,CD,1,JAZZ,Bela Fleck,The Enchantment,+Chick Corea@
-080930,000,CD,1,JAZZ,Bela Fleck,Jingle All the Way,@
-090303,000,CD,1,JAZZ,Bela Fleck,Throw Down Your Heart,@
-110517,000,CD,1,JAZZ,Bela Fleck,Rocket Science,@
+000725,000,CD,1,JAZZ,Bela Fleck,Outbound,
+011002,000,CC,1,JAZZ,Bela Fleck,Perpetual Motion,
+020226,000,CD,1,JAZZ,Bela Fleck,Live at the Quick,
+030812,000,CD,3,JAZZ,Bela Fleck,Little Worlds,
+040524,000,CD,1,JAZZ,Bela Fleck,Music for Two,+Edgar Meyer
+060214,000,CD,1,JAZZ,Bela Fleck,The Hidden Land,
+070522,000,CD,1,JAZZ,Bela Fleck,The Enchantment,+Chick Corea
+080930,000,CD,1,JAZZ,Bela Fleck,Jingle All the Way,
+090303,000,CD,1,JAZZ,Bela Fleck,Throw Down Your Heart,
+110517,000,CD,1,JAZZ,Bela Fleck,Rocket Science,
 120705,000,CD,1,JAZZ,Bela Fleck,Imaginary Divide,+Marcus Roberts
 830000,000,CD,1,JAZZ,Bela Fleck,Dreadful Snakes,
-890000,000,CD,1,JAZZ,Bela Fleck,Strength in Numbers,@
-900306,000,CD,1,JAZZ,Bela Fleck,Flecktones,@
-910611,000,CD,1,JAZZ,Bela Fleck,Cosmic Hippo,@
-920000,000,CD,1,JAZZ,Bela Fleck,UFO Tofu,@
-930914,000,CD,1,JAZZ,Bela Fleck,Cuckoos Nest,@
-960702,000,CD,1,JAZZ,Bela Fleck,Tabula Rasa,@
-960910,000,CD,2,JAZZ,Bela Fleck,Live Art,@
-970930,000,CD,1,JAZZ,Bela Fleck,Uncommon Ritual,+Edgar Meyer@
-980609,000,CD,1,JAZZ,Bela Fleck,Left of Cool,@
+890000,000,CD,1,JAZZ,Bela Fleck,Strength in Numbers,
+900306,000,CD,1,JAZZ,Bela Fleck,Flecktones,
+910611,000,CD,1,JAZZ,Bela Fleck,Cosmic Hippo,
+920000,000,CD,1,JAZZ,Bela Fleck,UFO Tofu,
+930914,000,CD,1,JAZZ,Bela Fleck,Cuckoos Nest,
+960702,000,CD,1,JAZZ,Bela Fleck,Tabula Rasa,
+960910,000,CD,2,JAZZ,Bela Fleck,Live Art,
+970930,000,CD,1,JAZZ,Bela Fleck,Uncommon Ritual,+Edgar Meyer
+980609,000,CD,1,JAZZ,Bela Fleck,Left of Cool,
 330000,287,LP,1,BLUZ,Big Bill Broonzy,Feeling Lowdown,
 330000,289,LP,1,BLUZ,Big Joe Williams,Plums Look Mellow,
 330000,446,LP,1,BLUZ,Bill Broonzy,Do That Guitar Rag,
@@ -83,10 +83,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750000,361,CD,1,ROCK,Bob Dylan,Blood on the Tracks,
 750000,361,SL,1,ROCK,Bob Dylan,Blood on the Tracks,
 760000,000,CD,1,ROCK,Bob Dylan,Hard Rain,
-720501,210,CD,1,DEAD,Bob Weir,Ace,@
-760399,355,LP,1,DEAD,Bob Weir,Kingfish,@
-780113,469,CD,1,DEAD,Bob Weir,Heaven Help The Fool,@
-811021,470,LP,1,DEAD,Bob Weir,Bobby and the Midnights,@
+720501,210,CD,1,DEAD,Bob Weir,Ace,
+760399,355,LP,1,DEAD,Bob Weir,Kingfish,
+780113,469,CD,1,DEAD,Bob Weir,Heaven Help The Fool,
+811021,470,LP,1,DEAD,Bob Weir,Bobby and the Midnights,
 720000,396,VL,1,ROCK,Bonnie Raitt,Give It Up,
 680000,157,KP,1,ROCK,Brewer and Shipley,Down in LA,
 690000,158,KP,1,ROCK,Brewer and Shipley,Weeds,
@@ -100,11 +100,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 660000,063,VL,1,ROCK,Buffalo Springfield,Buffalo Springfield,
 670000,064,VL,1,ROCK,Buffalo Springfield,Again,
 680000,065,VL,1,ROCK,Buffalo Springfield,Last Time Around,
-670807,161,CC,1,ROCK,Byrds,Greatest Hits V1,@
-700914,068,CD,2,ROCK,Byrds,Untitled,@
-730307,000,CD,1,ROCK,Byrds,Byrds,@
-791199,000,CD,1,ROCK,Byrds,Byrds Play Dylan,@
-960000,000,CD,1,ROCK,Byrds,Live From Mars,Roger McGuinn@
+670807,161,CC,1,ROCK,Byrds,Greatest Hits V1,
+700914,068,CD,2,ROCK,Byrds,Untitled,
+730307,000,CD,1,ROCK,Byrds,Byrds,
+791199,000,CD,1,ROCK,Byrds,Byrds Play Dylan,
+960000,000,CD,1,ROCK,Byrds,Live From Mars,Roger McGuinn
 690000,013,VL,1,ROCK,CSN,Crosby Stills and Nash,
 000000,000,CD,1,ROCK,CSNY,So Far,
 330000,037,XX,2,ROCK,CSNY,Live at Felt Forum,
@@ -153,18 +153,18 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690000,030,XX,1,ROCK,Cream,Goodbye,
 700000,053,XX,1,ROCK,Cream,Live Cream Vol 1,
 720000,114,XX,1,ROCK,Cream,Live Cream Vol 2,
-750000,362,CD,1,ROCK,Danny Gatton,American Music,@
-770000,000,CD,2,ROCK,Danny Gatton,+Buddy Emmons Live,@
-772001,000,CD,2,ROCK,Danny Gatton,Live at Desperados,@
-781231,412,CD,1,ROCK,Danny Gatton,Redneck Jazz,@
-870000,526,CD,1,ROCK,Danny Gatton,Unfinished Business,@
+750000,362,CD,1,ROCK,Danny Gatton,American Music,
+770000,000,CD,2,ROCK,Danny Gatton,+Buddy Emmons Live,
+772001,000,CD,2,ROCK,Danny Gatton,Live at Desperados,
+781231,412,CD,1,ROCK,Danny Gatton,Redneck Jazz,
+870000,526,CD,1,ROCK,Danny Gatton,Unfinished Business,
 910319,000,CD,1,ROCK,Danny Gatton,88 Elmira Street,Missing?
-920000,000,CD,1,ROCK,Danny Gatton,New York Stories,@
-930000,000,CD,1,ROCK,Danny Gatton,Cruising Deuces,@
+920000,000,CD,1,ROCK,Danny Gatton,New York Stories,
+930000,000,CD,1,ROCK,Danny Gatton,Cruising Deuces,
 940909,000,CD,2,ROCK,Danny Gatton,In Concert 9/9/94,
-950000,000,CD,1,ROCK,Danny Gatton,Redneck Jazz Explosion,@
-980000,000,CD,1,ROCK,Danny Gatton,Portraits,@
-980000,000,CD,2,ROCK,Danny Gatton,Untouchable,@
+950000,000,CD,1,ROCK,Danny Gatton,Redneck Jazz Explosion,
+980000,000,CD,1,ROCK,Danny Gatton,Portraits,
+980000,000,CD,2,ROCK,Danny Gatton,Untouchable,
 330000,130,XX,1,ROCK,Dave Mason,Alone Together,
 330000,131,XX,1,ROCK,Dave Mason,Headkeeper,
 720000,366,LP,1,FOLK,David Bromberg,David Bromberg,
@@ -240,22 +240,22 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 730000,251,SL,1,BLUZ,Freddie King,Woman Across the River,
 860000,528,SL,2,BLUZ,Freddie King,Just Picking,
 000000,000,CJ,1,DEAD,Garcia,WHFS Interview with Cerphe 1975,
-000425,000,CD,1,DEAD,Garcia,The Pizza Tapes,@
-010911,000,CD,1,DEAD,Garcia,Grateful Dawg,WOW@
-709810,000,CD,1,DEAD,Garcia,+Howard Wales,@
+000425,000,CD,1,DEAD,Garcia,The Pizza Tapes,
+010911,000,CD,1,DEAD,Garcia,Grateful Dawg,WOW
+709810,000,CD,1,DEAD,Garcia,+Howard Wales,
 711101,212,LP,1,DEAD,Garcia,Hooteroll,+Howard Wales
-720120,193,CD,1,DEAD,Garcia,Garcia,@
-720299,346,LP,1,DEAD,Garcia,Heavy Turbulence,@
-730599,213,LP,1,DEAD,Garcia,Fire Up,@
-730710,214,LP,2,DEAD,Garcia,Live at Keystone,@
-740699,270,XX,1,DEAD,Garcia,Compliments Of,@
-760215,345,XX,1,DEAD,Garcia,Reflections,@
-780415,399,XX,1,DEAD,Garcia,Cats Down Under the Stars,@
-829999,471,LP,1,DEAD,Garcia,Run For the Roses,@
-880301,521,LP,1,DEAD,Garcia,Keystone Encores Vol 1,@
-880301,522,LP,1,DEAD,Garcia,Keystone Encores Vol 2,@
-950899,000,CD,1,DEAD,Garcia,Blue Incantation,+Sanjay Mishra@
-980899,000,CD,1,DEAD,Garcia,So What,@
+720120,193,CD,1,DEAD,Garcia,Garcia,
+720299,346,LP,1,DEAD,Garcia,Heavy Turbulence,
+730599,213,LP,1,DEAD,Garcia,Fire Up,
+730710,214,LP,2,DEAD,Garcia,Live at Keystone,
+740699,270,XX,1,DEAD,Garcia,Compliments Of,
+760215,345,XX,1,DEAD,Garcia,Reflections,
+780415,399,XX,1,DEAD,Garcia,Cats Down Under the Stars,
+829999,471,LP,1,DEAD,Garcia,Run For the Roses,
+880301,521,LP,1,DEAD,Garcia,Keystone Encores Vol 1,
+880301,522,LP,1,DEAD,Garcia,Keystone Encores Vol 2,
+950899,000,CD,1,DEAD,Garcia,Blue Incantation,+Sanjay Mishra
+980899,000,CD,1,DEAD,Garcia,So What,
 981099,000,CD,1,DEAD,Garcia,Side Trips,+Howard Wales
 710000,479,NX,1,ROCK,Genesis,Nursery Cryme,
 720000,480,NX,1,ROCK,Genesis,Foxtrot,
@@ -270,37 +270,37 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,DV,1,DEAD,Grateful,Egypt 1978,
 020399,000,CD,2,DEAD,Grateful,Postcards of the Hanging,
 020709,454,CD,4,DEAD,Grateful,Stepping Out,
-050315,000,CD,5,DEAD,Grateful,Movie Soundtrack,@
+050315,000,CD,5,DEAD,Grateful,Movie Soundtrack,
 110920,000,CD,2,DEAD,Grateful,Europe 72 Vol 2,
 130917,000,CD,4,DEAD,Grateful,Sunshine Daydream,
 440000,000,CD,4,DEAD,Grateful,England 72,
-670317,201,XX,1,DEAD,Grateful,The Grateful Dead,@
-680718,202,CC,1,DEAD,Grateful,Anthem Extended,@
-680718,202,CD,1,DEAD,Grateful,Anthem of the Sun,@
-690620,203,CD,1,DEAD,Grateful,Aoxomoxoa,@
-691110,196,CD,2,DEAD,Grateful,Live Dead,@
-700399,269,NX,1,DEAD,Grateful,Zabriskie Point,@
-700714,204,CD,1,DEAD,Grateful,Workingmans Dead,@
-701099,206,NX,1,DEAD,Grateful,Vintage,@
-701101,205,CD,1,DEAD,Grateful,American Beauty,@
-710699,207,NX,1,DEAD,Grateful,Historic Dead,@
-711024,194,XX,2,DEAD,Grateful,Skull and Roses,@
-721101,198,CD,3,DEAD,Grateful,Europe 72,@
-730713,208,XX,1,DEAD,Grateful,Bears Choice,@
-731015,209,CC,1,DEAD,Grateful,Wake of the Flood,@
-740627,271,CD,1,DEAD,Grateful,Mars Hotel,@
-750813,000,CD,2,DEAD,Grateful,One from the Vault,@
-750901,333,CC,1,DEAD,Grateful,Blues For Allah,@
-760626,356,XX,2,DEAD,Grateful,Steal Your Face,@
-770727,400,CD,1,DEAD,Grateful,Terrapin Station,@
-781115,401,XX,1,DEAD,Grateful,Shakedown Street,@
-800428,445,XX,1,DEAD,Grateful,Go To Heaven,@
-810401,451,CD,2,DEAD,Grateful,Reckoning,@
-810826,454,CD,2,DEAD,Grateful,Dead Set,@
-870706,520,XX,1,DEAD,Grateful,In the Dark,@
-891030,000,XX,1,DEAD,Grateful,Dylan and the Dead,@
-891031,000,CD,1,DEAD,Grateful,Built to Last,@
-900999,000,CD,2,DEAD,Grateful,Without a Net,@
+670317,201,XX,1,DEAD,Grateful,The Grateful Dead,
+680718,202,CC,1,DEAD,Grateful,Anthem Extended,
+680718,202,CD,1,DEAD,Grateful,Anthem of the Sun,
+690620,203,CD,1,DEAD,Grateful,Aoxomoxoa,
+691110,196,CD,2,DEAD,Grateful,Live Dead,
+700399,269,NX,1,DEAD,Grateful,Zabriskie Point,
+700714,204,CD,1,DEAD,Grateful,Workingmans Dead,
+701099,206,NX,1,DEAD,Grateful,Vintage,
+701101,205,CD,1,DEAD,Grateful,American Beauty,
+710699,207,NX,1,DEAD,Grateful,Historic Dead,
+711024,194,XX,2,DEAD,Grateful,Skull and Roses,
+721101,198,CD,3,DEAD,Grateful,Europe 72,
+730713,208,XX,1,DEAD,Grateful,Bears Choice,
+731015,209,CC,1,DEAD,Grateful,Wake of the Flood,
+740627,271,CD,1,DEAD,Grateful,Mars Hotel,
+750813,000,CD,2,DEAD,Grateful,One from the Vault,
+750901,333,CC,1,DEAD,Grateful,Blues For Allah,
+760626,356,XX,2,DEAD,Grateful,Steal Your Face,
+770727,400,CD,1,DEAD,Grateful,Terrapin Station,
+781115,401,XX,1,DEAD,Grateful,Shakedown Street,
+800428,445,XX,1,DEAD,Grateful,Go To Heaven,
+810401,451,CD,2,DEAD,Grateful,Reckoning,
+810826,454,CD,2,DEAD,Grateful,Dead Set,
+870706,520,XX,1,DEAD,Grateful,In the Dark,
+891030,000,XX,1,DEAD,Grateful,Dylan and the Dead,
+891031,000,CD,1,DEAD,Grateful,Built to Last,
+900999,000,CD,2,DEAD,Grateful,Without a Net,
 940095,000,CD,2,DEAD,Grateful,Grayfolded,
 980999,000,CD,1,DEAD,Grateful,Twilight Zone Soundtrack,
 990209,000,CD,1,DEAD,Grateful,The Strange Remain,
@@ -329,17 +329,17 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 959999,110,CD,1,FOLK,Harvey Reid,Artistry of 6-String Banjo,
 979999,112,CD,1,FOLK,Harvey Reid,In Person,
 989999,113,CD,1,FOLK,Harvey Reid,Fruit on the Vine,
-670823,031,CD,1,ROCK,Hendrix,Are You Experienced,@
-671201,016,XX,1,ROCK,Hendrix,Axis Bold as Love,@
-681016,033,CD,2,ROCK,Hendrix,Electric Ladyland,@
-690730,012,XX,1,ROCK,Hendrix,Smash Hits,@
-700325,054,XX,1,ROCK,Hendrix,Band of Gypsys 1,@
-707110,112,XX,1,ROCK,Hendrix,Rainbow Bridge,@
-708208,524,SL,2,ROCK,Hendrix,The Jimi Hendrix Concerts,@
-708610,523,XX,1,ROCK,Hendrix,Band of Gypsys 2,@
+670823,031,CD,1,ROCK,Hendrix,Are You Experienced,
+671201,016,XX,1,ROCK,Hendrix,Axis Bold as Love,
+681016,033,CD,2,ROCK,Hendrix,Electric Ladyland,
+690730,012,XX,1,ROCK,Hendrix,Smash Hits,
+700325,054,XX,1,ROCK,Hendrix,Band of Gypsys 1,
+707110,112,XX,1,ROCK,Hendrix,Rainbow Bridge,
+708208,524,SL,2,ROCK,Hendrix,The Jimi Hendrix Concerts,
+708610,523,XX,1,ROCK,Hendrix,Band of Gypsys 2,
 710000,218,XX,1,ROCK,Hendrix,Friends Beginning,+Little Richard
 710305,075,KP,1,ROCK,Hendrix,Cry of Love,RARE
-990223,000,CD,2,ROCK,Hendrix,Live at Fillmore East,@
+990223,000,CD,2,ROCK,Hendrix,Live at Fillmore East,
 170000,000,CD,1,JAZZ,Hiromi,Hiromi + Castaneda,
 130000,000,CD,2,MISC,Hobbit Soundtrack,Desolation of Smaug,
 169999,000,CD,2,DEAD,Holly Bowling,Better Left Unsung,
@@ -488,7 +488,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,146,XX,1,ROCK,Mountain,Climbing,
 330000,306,LP,2,BLUZ,Muddy Waters,Fathers and Sons,
 330000,432,LP,1,FOLK,Muleskinner,Muleskinner,
-710899,354,XX,1,DEAD,NRPS,New Riders of the Purple Sage,@
+710899,354,XX,1,DEAD,NRPS,New Riders of the Purple Sage,
 680000,039,KP,1,ROCK,NYRRE,NY Rock and Roll Ensemble,
 690000,017,KP,1,ROCK,NYRRE,Faithful Friends,
 700000,062,KP,1,ROCK,NYRRE,Reflections,
@@ -499,7 +499,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690000,059,XX,1,ROCK,Neil Young,Crazy Horse,
 700000,060,XX,1,ROCK,Neil Young,After the Goldrush,
 720000,107,XX,1,ROCK,Neil Young,Harvest,
-750299,303,KP,1,DEAD,Old and In The Way,Old and In The Way,@
+750299,303,KP,1,DEAD,Old and In The Way,Old and In The Way,
 330000,154,LP,1,BLUZ,Otis Spann,Biggest Thing Since Colossus,
 330000,257,LP,1,BLUZ,Otis Spann,Otis Spann,
 000000,000,CD,1,ROCK,Patrick Maggi,The Laughing Game,LOCAL
@@ -537,8 +537,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 330000,433,LP,1,FOLK,Richard Greene,Rambling,
 330000,467,VL,1,ROCK,Robbie Krieger,Butts Band,
 330000,499,LP,1,FOLK,Robert Byrd,US Senator Robert Byrd,
-740000,360,LP,1,DEAD,Robert Hunter,Rum Runners,@
-800000,453,KP,1,DEAD,Robert Hunter,Jack of Roses,@
+740000,360,LP,1,DEAD,Robert Hunter,Rum Runners,
+800000,453,KP,1,DEAD,Robert Hunter,Jack of Roses,
 330000,085,XX,1,ROCK,Rod Stewart,Every Picture,
 330000,086,XX,1,ROCK,Rod Stewart,Rod Stewart,
 330000,092,XX,1,ROCK,Rod Stewart,Gasoline Alley,
@@ -703,3 +703,270 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 730000,237,VL,1,ROCK,Youngbloods,Song for Juli,
 790000,409,XX,1,ROCK,Zappa,Sleep Dirt,
 879999,000,CD,1,DEAD,Zero,Here Goes Nothing,
+000000,000,TP,1,JAZZ,Ahmad Jamal,At His Best,
+000000,000,TP,1,JAZZ,Al DiMeola,The Essence Of,
+000000,000,TP,1,JAZZ,Art Blakey,Blakeys Best,
+000000,000,TP,1,JAZZ,Art Blakey,New York Scene,
+000000,000,TP,1,JAZZ,Art Blakey,Theory of Art,
+000000,000,TP,1,JAZZ,Art Davis,Life,
+000000,000,TP,1,JAZZ,Art Farmer,Central Avenue Reunion,
+000000,000,TP,1,JAZZ,Art Farmer,Live at the Half Note,+Jim Hall
+000000,000,TP,1,JAZZ,Art Tatum,Piano Starts Here,
+000000,000,TP,1,JAZZ,Artie Shaw,The Complete,
+000000,000,TP,1,JAZZ,Aurora,Aurora,
+000000,000,TP,1,JAZZ,Barney Kessel,Red Hot and Blues,
+000000,000,TP,1,JAZZ,Barney Kessel,Spontaneous Combustion,+Monty Alexander
+000000,000,TP,1,JAZZ,Ben Sidran,Bop City,
+000000,000,TP,1,JAZZ,Ben Sidran,Cool Paradise,
+000000,000,TP,1,JAZZ,Benny Goodman,Jazz Collector Addition,
+000000,000,TP,1,JAZZ,Bill Evans,Autumn Leaves,
+000000,000,TP,1,JAZZ,Bill Evans,Blue in Green,
+000000,000,TP,1,JAZZ,Bill Frisell,Before We Were Born,
+000000,000,TP,1,JAZZ,Bill Frisell,Is That You,
+000000,000,TP,1,JAZZ,Bill Frisell,Works,
+000000,000,TP,1,JAZZ,Bobby Enriquez,Wild Piano,
+000000,000,TP,1,JAZZ,Bobby Hutcherson,Color Schemes,
+000000,000,TP,1,JAZZ,Bobby Hutcherson,Natural Illusions,
+000000,000,TP,1,JAZZ,Bobby McFerrin,Dont Worry Be Happy,
+000000,000,TP,1,JAZZ,Bobby McFerrin,Hush,+Yoyo Ma
+000000,000,TP,1,JAZZ,Bobby McFerrin,Rhinocerous + Camel,+Jack Nicholson
+000000,000,TP,1,JAZZ,Bobby McFerrin,Simple Pleasures,
+000000,000,TP,1,JAZZ,Bobby Timmons Trio,In Person,
+000000,000,TP,1,JAZZ,Branford Marsalis,Scenes in the City,
+000000,000,TP,1,JAZZ,Buck Hill,Capital Hill,
+000000,000,TP,1,JAZZ,Buck Hill,Swing Song,
+000000,000,TP,1,JAZZ,Bud Powell,Best Of,
+000000,000,TP,1,JAZZ,Bud Powell,The Amazing,
+000000,000,TP,1,JAZZ,Bud Shank,Serious Swingers,
+000000,000,TP,1,JAZZ,Bud Shank,Tomorrows Rainbow,
+000000,000,TP,1,JAZZ,Carlos Montoya,The Art of the Flemenco,
+000000,000,TP,1,JAZZ,Cedar Walton,Piano Solos,
+000000,000,TP,1,JAZZ,Cedar Walton,Plays Cedar Walton,
+000000,000,TP,1,JAZZ,Cedar Walton,Trio, Quartet, Quintet.
+000000,000,TP,1,JAZZ,Charles Mingus,Mingus Au Um,
+000000,000,TP,1,JAZZ,Charles Mingus,Mingus x 5,
+000000,000,TP,1,JAZZ,Charlie Parker,Gold Collection,
+000000,000,TP,1,JAZZ,Chet Atkins,Best Of,
+000000,000,TP,1,JAZZ,Chet Atkins,Down Home,
+000000,000,TP,1,JAZZ,Chick Corea,Light Years,
+000000,000,TP,1,JAZZ,Chick Corea,Where Have I Known You Before,
+000000,000,TP,2,JAZZ,Chick Corea,GRP Super Live,
+000000,000,TP,1,JAZZ,Chu Berry,Giants of the Tenor Sax,
+000000,000,TP,1,JAZZ,Collin Walcott,Works,
+000000,000,TP,1,JAZZ,Courtney Pine,Journey to the Urge Within,
+000000,000,TP,1,JAZZ,Courtney Pine,The Visions Tale,
+000000,000,TP,1,JAZZ,Cyrus Chestnut,Earth Stories,
+000000,000,TP,1,JAZZ,Dave Brubeck,1975 the Duets,+Paul Desmond
+000000,000,TP,1,JAZZ,Dave Brubeck,Jazz Goes to College,
+000000,000,TP,1,JAZZ,Dave Brubeck,Time Out,
+000000,000,TP,1,JAZZ,Dave Liebman,Homage to John Coltrane,
+000000,000,TP,1,JAZZ,David Benoit,Urban Daydreams,
+000000,000,TP,1,JAZZ,David Murray Quartet,
+000000,000,TP,1,JAZZ,David Murray Quartet,
+000000,000,TP,1,JAZZ,Dino Saluzzi,Andina,
+000000,000,TP,1,JAZZ,Dino Saluzzi,Mojotoro,
+000000,000,TP,1,JAZZ,Dixie Peppers,Hot and Sweet,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Dizzys Big 4,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Greatest Hits,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Groovin High,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Hot House,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Show Time,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Symphony Sessions,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,To Bird with Love,
+000000,000,TP,1,JAZZ,Dizzy Gillespie,Trumpet Kings at Montreux,
+000000,000,TP,1,JAZZ,Django Reinhardt,I Got Rhythm,
+000000,000,TP,1,JAZZ,Don Shirley,In Concert,DAD
+000000,000,TP,1,JAZZ,Don Shirley,Water Boy,DAD
+000000,000,TP,1,JAZZ,Duke Ellington,Billy Strayhorn Duets,
+000000,000,TP,1,JAZZ,Duke Ellington,Greatest Hits,
+000000,000,TP,1,JAZZ,Duke Ellington,Harlem,
+000000,000,TP,1,JAZZ,Duke Ellington,Solos Duets and Trios,
+000000,000,TP,1,JAZZ,Duke Ellington,The Ellington Suites,
+000000,000,TP,1,JAZZ,Earl Hines,Honor Thy Fatha,
+000000,000,TP,1,JAZZ,Earl Hines,Jazz is My Old Lady,
+000000,000,TP,1,JAZZ,Earl Klugh,Guitar Magic,
+000000,000,TP,1,JAZZ,Earl Klugh,Solo Guitar,
+000000,000,TP,1,JAZZ,Earl Klugh,Trio Vol 1,
+000000,000,TP,1,JAZZ,Eberhard Weber,Works,
+000000,000,TP,1,JAZZ,Egberto Gismonti,Infancia,
+000000,000,TP,1,JAZZ,Egberto Gismonti,Works,
+000000,000,TP,1,JAZZ,Eric Gale,Blue Horizon,
+000000,000,TP,1,JAZZ,Eric Gale,In a Jazz Tradition,
+000000,000,TP,1,JAZZ,Eric Gale,Lets Stay Together,
+000000,000,TP,1,JAZZ,Erroll Garner,Concert By the Sea,
+000000,000,TP,1,JAZZ,Erroll Garner,Erroll Garner,
+000000,000,TP,1,JAZZ,Erroll Garner,Night at the Movies,
+000000,000,TP,1,JAZZ,Erroll Garner,Other Voices,
+000000,000,TP,1,JAZZ,Erroll Garner,Plays Gershwin + Kern,
+000000,000,TP,1,JAZZ,Erroll Garner,Thats My Kick,
+000000,000,TP,1,JAZZ,Fats Navarro,The Fabulous Vol 1,
+000000,000,TP,1,JAZZ,Fats Waller,Have a Little Dream On,
+000000,000,TP,1,JAZZ,Freddie Hubbard,Double Take,
+000000,000,TP,1,JAZZ,Freddie Hubbard,LRC Jazz Classics,
+000000,000,TP,1,JAZZ,Fripp and Eno,Evening Star,DOUBLE
+000000,000,TP,1,JAZZ,Fripp and Eno,No Pussyfooting,DOUBLE
+000000,000,TP,1,JAZZ,Gene Krupa,Giants of the Big Band Era,
+000000,000,TP,1,JAZZ,George Shearing,Ill Take Romance,
+000000,000,TP,1,JAZZ,Gheorghe Zamfir,Spotlite,
+000000,000,TP,1,JAZZ,Gil Evans,Laurent Cugny,
+000000,000,TP,1,JAZZ,Gil Evans,Plays Jimi Hendrix,
+000000,000,TP,2,JAZZ,Gil Evans,Live at Sweet Basil,
+000000,000,TP,1,JAZZ,Hank Jones,Bop Redux,
+000000,000,TP,1,JAZZ,Hank Jones,The Music of Fats Waller,
+000000,000,TP,1,JAZZ,Hank Jones,The Oracle,
+000000,000,TP,1,JAZZ,Harvie Swartz,Arrival,
+000000,000,TP,1,JAZZ,Herbie Hancock,Best Of,
+000000,000,TP,1,JAZZ,Herbie Hancock,Head Hunters,
+000000,000,TP,1,JAZZ,Herbie Hancock,Jammin With Herbie,
+000000,000,TP,1,JAZZ,Herbie Hancock,Monster,
+000000,000,TP,1,JAZZ,Herbie Hancock,The New Standard,
+000000,000,TP,1,JAZZ,Herbie Hancock,The Prisoner,
+000000,000,TP,1,JAZZ,Hubert Laws,My Time Will Come,
+000000,000,TP,1,JAZZ,Hubert Laws,New Earth Sonata,
+000000,000,TP,1,JAZZ,Hubert Laws,The Rite of Spring,
+000000,000,TP,1,JAZZ,Jaco Pastorius,Jaco Pastorius,
+000000,000,TP,1,JAZZ,James Williams,Magical Trio 2,
+000000,000,TP,1,JAZZ,Jan Gerbarek,Magico,+Egberto Gismonti
+000000,000,TP,1,JAZZ,Jan Gerbarek,Ragas + Sagas,
+000000,000,TP,1,JAZZ,Jazztet,Realtime,
+000000,000,TP,1,JAZZ,Jean-Luc Ponty,Cosmic Messenger,
+000000,000,TP,1,JAZZ,Jean-Luc Ponty,Violin Summit,+Grapelli
+000000,000,TP,1,JAZZ,Jess Stacy,Solo and Friends,
+000000,000,TP,1,JAZZ,Jim Beard,Song of the Sun,
+000000,000,TP,1,JAZZ,Jim Hall,And Friends Vol 2,
+000000,000,TP,1,JAZZ,Joe Pass,At Montreuz 1975,
+000000,000,TP,1,JAZZ,John Campbell,Turning Point,
+000000,000,TP,1,JAZZ,John Coltrane,Body and Soul,
+000000,000,TP,1,JAZZ,John Coltrane,Man Made Miles,
+000000,000,TP,1,JAZZ,John Coltrane,My Favorite Things,
+000000,000,TP,1,JAZZ,John Coltrane,Summit Meeting,+Thad Jones
+000000,000,TP,1,JAZZ,John Lewis,European Encounter,+Sven Amussen
+000000,000,TP,1,JAZZ,John Lewis,Midnight in Paris,DUP
+000000,000,TP,1,JAZZ,John Lewis,The Bridge Game,DUP
+000000,000,TP,1,JAZZ,John McLaughlin,Shakti,
+000000,000,TP,1,JAZZ,John Scofield,Shinola,
+000000,000,TP,1,JAZZ,John Scofield,Still Warm,
+000000,000,TP,1,JAZZ,Jon Hassel Power Spot,
+000000,000,TP,1,JAZZ,Joshua Breakstone,Self Portrait in Swing,
+000000,000,TP,1,JAZZ,Keith Jarrett,Arbour Zena,
+000000,000,TP,1,JAZZ,Kenny Barron,People Time,+Stan Getz
+000000,000,TP,1,JAZZ,Kenny Barron,Quickstep,
+000000,000,TP,1,JAZZ,Kenny Barron,Sunset to Dawn,
+000000,000,TP,1,JAZZ,Kenny Burrell,All Night Long,
+000000,000,TP,1,JAZZ,Kenny Burrell,Recapitulation,
+000000,000,TP,1,JAZZ,Kevin Eubanks,Opening Night,
+000000,000,TP,1,JAZZ,Kevin Eubanks,Shadow Prophets,
+000000,000,TP,1,JAZZ,Kevin Eubanks,The Heat of Heat,
+000000,000,TP,1,JAZZ,Klaus Schulze,Trancefer,
+000000,000,TP,1,JAZZ,Kuhn,From Time to Time Free,
+000000,000,TP,1,JAZZ,Larry Carlton,Alone But Never Alone,
+000000,000,TP,1,JAZZ,Larry Carlton,Larry Carlton,
+000000,000,TP,1,JAZZ,Larry Coryell,Tributaries,
+000000,000,TP,1,JAZZ,Lee Morgan,Delightfulee,
+000000,000,TP,1,JAZZ,Lenny Dee,Laura,
+000000,000,TP,1,JAZZ,Les McCann,Les is More,
+000000,000,TP,1,JAZZ,Les Paul,Greatest Hits,
+000000,000,TP,1,JAZZ,Les Paul,Trio,
+000000,000,TP,1,JAZZ,Lester Bowie,Works,
+000000,000,TP,1,JAZZ,Mal Waldron,Hot House,+Steve Lacy
+000000,000,TP,1,JAZZ,Mal Waldron,Moods,
+000000,000,TP,1,JAZZ,Marc Johnson,Second Sight,
+000000,000,TP,1,JAZZ,Marcus Roberts,As Serenity Approaches,
+000000,000,TP,1,JAZZ,Marcus Roberts,Prayer For Peace,
+000000,000,TP,1,JAZZ,Marcus Roberts,Truth is Spoken Here,
+000000,000,TP,1,JAZZ,Mark Egan,Beyond Words,
+000000,000,TP,1,JAZZ,Mark Egan,Elements,
+000000,000,TP,1,JAZZ,Mark Whitfield,The Marksman,
+000000,000,TP,1,JAZZ,Markus Stockhausen,Aparis,DUP
+000000,000,TP,1,JAZZ,Markus Stockhausen,Cosi Lontano Quasi Dentro,
+000000,000,TP,1,JAZZ,Maynard Ferguson,A Message from Newport,
+000000,000,TP,1,JAZZ,Maynard Ferguson,MF Horn,
+000000,000,TP,1,JAZZ,Maynard Ferguson,The Essence Of,
+000000,000,TP,1,JAZZ,Michael Formanek,Wide Open Spaces,
+000000,000,TP,1,JAZZ,Michel Petrucciani,MUSIC,
+000000,000,TP,1,JAZZ,Michel Petrucciani,Pianism,
+000000,000,TP,1,JAZZ,Michel Petrucciani,Playground,
+000000,000,TP,1,JAZZ,Michel Petrucciani,Power of Three,
+000000,000,TP,1,JAZZ,Milestone Jazz Stars,In Concert,
+000000,000,TP,1,JAZZ,Milt Jackson,Mostly Duke,
+000000,000,TP,1,JAZZ,Milt Jackson,Reverance and Compassion,
+000000,000,TP,1,JAZZ,Miroslav Vitous,Emergence,
+000000,000,TP,1,JAZZ,Mitch Watkins,Curves,
+000000,000,TP,1,JAZZ,Mitch Watkins,Underneath It All,
+000000,000,TP,1,JAZZ,Modern Jazz Quartet,Fontessa,
+000000,000,TP,1,JAZZ,Mordy Ferber,All the Way to Sendai,
+000000,000,TP,1,JAZZ,Mose Allison,Local Color,
+000000,000,TP,1,JAZZ,OTB.Live at Mt Fuji,
+000000,000,TP,1,JAZZ,Ornette Coleman,Art of the Improvisers,
+000000,000,TP,1,JAZZ,Ornette Coleman,Free Jazz,
+000000,000,TP,1,JAZZ,Ornette Coleman,Ornette,
+000000,000,TP,1,JAZZ,Ornette Coleman,Virgin Beauty,
+000000,000,TP,1,JAZZ,Oscar Peterson,Live,
+000000,000,TP,1,JAZZ,Our Boys Orchestra,Pan Progress,
+000000,000,TP,1,JAZZ,Paul Desmond,Late Lament,
+000000,000,TP,1,JAZZ,Paul Desmond,Pure Desmond,
+000000,000,TP,1,JAZZ,Paul Desmond,Take Ten,+Jim Hall
+000000,000,TP,1,JAZZ,Phil Upchurch,All I Want,
+000000,000,TP,1,JAZZ,Philip Glass,Glassworks,
+000000,000,TP,1,JAZZ,Philip Glass,The Photographer,
+000000,000,TP,1,JAZZ,Phineas Newborn Jr,Piano Artistry of,
+000000,000,TP,1,JAZZ,Pierre Bensusan,Solalai
+000000,000,TP,1,JAZZ,Pierre Bensusan,Spices,
+000000,000,TP,1,JAZZ,Ralph Towner,Open Letter,
+000000,000,TP,1,JAZZ,Ramsey Lewis,We Meet Again,+Billy Taylor
+000000,000,TP,1,JAZZ,Ravi Shankar,The Genius Of,
+000000,000,TP,1,JAZZ,Red Garland,Crossings,
+000000,000,TP,1,JAZZ,Red Garland,Dig It,+Coltrane
+000000,000,TP,1,JAZZ,Red Garland,Manteca,
+000000,000,TP,1,JAZZ,Red Garland,Trio,
+000000,000,TP,1,JAZZ,Red Mitchell,Im Glad There is You,
+000000,000,TP,1,JAZZ,Richard Silveira,Small World,
+000000,000,TP,1,JAZZ,Roland Hanna,Duke Ellington Piano Solos,
+000000,000,TP,1,JAZZ,Ron Carter,Peg Leg,
+000000,000,TP,1,JAZZ,Ron Carter,Piccolo,
+000000,000,TP,1,JAZZ,Shankar,MRCS,
+000000,000,TP,1,JAZZ,Sphere,Flight Path,
+000000,000,TP,1,JAZZ,Stan Kenton,Giants of the Big Band Era,
+000000,000,TP,1,JAZZ,Stan Kenton,God Rest Ye Merry Gentlemen,
+000000,000,TP,1,JAZZ,Stan Kenton,The Comprehensive Kenton,
+000000,000,TP,1,JAZZ,Stanley Clarke,East River Drive,
+000000,000,TP,1,JAZZ,Stanley Clarke,Live at the Greek,
+000000,000,TP,1,JAZZ,Stanley Jordon,Bolero,
+000000,000,TP,1,JAZZ,Stanley Jordon,Cornucopia,
+000000,000,TP,1,JAZZ,Stanley Jordon,Flying Home,
+000000,000,TP,1,JAZZ,Stanley Jordon,Magic Touch,
+000000,000,TP,1,JAZZ,Stanley Jordon,Standards Vol 1,
+000000,000,TP,1,JAZZ,Stanley Jordon,Stolen Moments,
+000000,000,TP,1,JAZZ,Stephan Micus,Implosions,
+000000,000,TP,1,JAZZ,Stephane Grapelli,Django,
+000000,000,TP,1,JAZZ,Stephane Grapelli,LRC Jazz Classics,
+000000,000,TP,1,JAZZ,Stephane Grapelli,My Other Love,
+000000,000,TP,1,JAZZ,Steve Reich,Music For 18 Musicians,
+000000,000,TP,1,JAZZ,Sun Ra,At the Village Vanguard,
+000000,000,TP,1,JAZZ,Sun Ra,Out There a Minute,
+000000,000,TP,1,JAZZ,Terje Rypdal,Works,
+000000,000,TP,1,JAZZ,Terry Gibbs,Main Stem,
+000000,000,TP,1,JAZZ,Terry Gibbs,The Latin Connection,
+000000,000,TP,1,JAZZ,Timeless All Stars,Time For The,
+000000,000,TP,1,JAZZ,Tommy Smith,Step By Step,
+000000,000,TP,1,JAZZ,Toninho Horta,Once I Loved,
+000000,000,TP,1,JAZZ,Tony Scott,Meditation,+Jan Akkerman
+000000,000,TP,1,JAZZ,Various,Best of the Jazz Pianos,
+000000,000,TP,1,JAZZ,Various,Classic Jazz Piano,
+000000,000,TP,1,JAZZ,Various,Great Jazz Pianists,
+000000,000,TP,1,JAZZ,Various,Greats of Bop,
+000000,000,TP,1,JAZZ,Various,Jazz Essentials,
+000000,000,TP,1,JAZZ,Various,Late Night Jazz,
+000000,000,TP,1,JAZZ,Various,Legends of Guitar,
+000000,000,TP,1,JAZZ,Various,On The Edge,
+000000,000,TP,1,JAZZ,Various,Rhapsody in Blue,+Ragtime
+000000,000,TP,1,JAZZ,Various,Shades of Jazz,
+000000,000,TP,1,JAZZ,Various,Stride Piano Summit,
+000000,000,TP,1,JAZZ,Various,Swonderful,
+000000,000,TP,1,JAZZ,Various,The Great Jazz Soloists,
+000000,000,TP,1,DEAD,Vassar Clements,Clements Hartford Holland.
+000000,000,TP,1,JAZZ,Victor Feldman,Merry Olde Soul,
+000000,000,TP,1,JAZZ,Wayne Krantz,Meditation,+Jan Akkerman
+000000,000,TP,1,JAZZ,Wes Montgomery,Best Of,
+000000,000,TP,1,JAZZ,William Bolcolm,Heliotrope Bouquet,
+000000,000,TP,1,JAZZ,Zoot Sims,Send In the Clowns,
