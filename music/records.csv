@@ -16,11 +16,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,Allman Brothers,The Epic Years
 000000,000,TP,1,ROCK,Allman Brothers,Best of Sea Level
 000000,000,TP,1,ROCK,Allman Brothers,Legendary Hits
-000000,000,TP,1,ROCK,Allman Brothers,Ludlow Garage 1970
 000000,000,TP,1,ROCK,Allman Brothers,Seven Turns
 000000,000,TP,1,ROCK,Allman Brothers,Shades of Two Worlds
 687205,125,NX,1,ROCK,Allman Brothers,Duane and Gregg,31st of Feb Demo
 691104,108,CD,1,ROCK,Allman Brothers,Allman Brothers Band
+700000,000,TP,1,ROCK,Allman Brothers,Ludlow Garage 1970
 700923,109,CD,1,ROCK,Allman Brothers,Idlewild South
 710706,080,CD,2,ROCK,Allman Brothers,Fillmore East
 720212,110,CD,1,ROCK,Allman Brothers,Eat a Peach
@@ -32,6 +32,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,Amy Winehouse,Frank
 000000,000,CD,1,ROCK,Amy Winehouse,Lioness
 000000,000,CC,1,HARP,Andreas Vollenweider,Magic Harp
+000000,000,TP,1,HARP,Andreas Vollenweider,Down to the Moon
+000000,000,TP,1,HARP,Andreas Vollenweider,Pace Verde
+000000,000,TP,1,HARP,Erik Berglund,Angelic Harp Music
+000000,000,TP,1,HARP,John Kovac,For the Young at Harp
+000000,000,TP,1,HARP,Susan Mazer,Summit
 000000,297,LP,1,BLUZ,Andrew Odom,Andrew Odom
 000000,000,TP,1,ROCK,Andy Summers,Charming Snakes
 000000,000,TP,1,ROCK,Andy Summers,The Golden Wire
@@ -70,6 +75,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,368,LP,1,BLUZ,Barry Goldberg,And Friend
 000000,000,CJ,1,ROCK,Beatles,Althea Beatle Mix
 060000,000,CD,1,ROCK,Beatles,Love
+060000,000,CD,1,JAZZ,Various,Jazz Goes to the Beatles
+060000,000,CD,1,JAZZ,Various,Celebration of the Beatles
+060000,000,CD,1,JAZZ,Mike Westbrook,Off Abbey Road
+060000,000,CD,1,FOLK,Picking on the Beatles
 000000,000,TP,0,CLAS,Beethoven,Fidelio Overture
 000000,000,TP,0,CLAS,Beethoven,Fifth Symphony
 000000,000,TP,1,CLAS,Beethoven,Sonatas 17 18 26
@@ -119,10 +128,10 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,Blondie,Best Of
 000000,000,TP,1,FOLK,Blue Sky Boys,Blue Sky Boys
 000000,000,TP,1,ROCK,Bob Dylan,Blonde on Blonde
-000000,000,TP,1,ROCK,Bob Dylan,Highway 61
 000000,000,TP,1,ROCK,Bob Dylan,Time Out of Mind
-000000,067,TP,1,ROCK,Bob Dylan,Bringing It  All Back Home
-650000,150,CD,1,ROCK,Bob Dylan,Bringiing It All Back Home
+650000,000,TP,1,ROCK,Bob Dylan,Highway 61
+650000,150,CD,1,ROCK,Bob Dylan,Bringing It All Back Home
+650000,150,TP,1,ROCK,Bob Dylan,Bringing It All Back Home
 650000,167,CD,1,ROCK,Bob Dylan,Highway 61
 670000,067,CD,1,ROCK,Bob Dylan,Greatest Hits V1
 670000,067,TP,0,ROCK,Bob Dylan,Greatest Hits V1
@@ -247,6 +256,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 730000,184,XX,1,ROCK,Clapton,Rainbow Concert
 730000,186,XX,2,ROCK,Clapton,In Concert
 740000,461,CC,1,ROCK,Clapton,461 Ocean Boulevard
+740000,461,TP,0,ROCK,Clapton,461 Ocean Boulevard
+740000,461,TP,0,ROCK,Alan Parsons,Unknown
 830000,505,XX,1,ROCK,Clapton,Timepieces
 000000,000,TP,1,ROCK,Claude Jones,Claude Jones,LOCAL
 000000,321,LP,1,BLUZ,Cleanhead Vinson,Cant Make Love Alone
@@ -302,6 +313,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,David Gilmour,On an Island
 780526,000,CD,1,ROCK,David Gilmour,David Gilmour
 780526,000,TP,0,ROCK,David Gilmour,David Gilmour
+000000,000,TP,0,ROCK,REM,Reckoning
 840305,000,CD,1,ROCK,David Gilmour,About Face
 840305,000,TP,0,ROCK,David Gilmour,About Face
 000000,000,CD,3,ROCK,David Gilomour,Live in Gdansk
@@ -318,14 +330,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,313,LP,1,ROCK,Dickey Betts,Highway Call
 000000,000,TP,1,JAZZ,Dino Saluzzi,Andina
 000000,000,TP,1,JAZZ,Dino Saluzzi,Mojotoro
-000000,000,TP,1,ROCK,Dire Straits,Alchemy
-000000,000,TP,1,ROCK,Dire Straits,Brothers In Arms
+000000,000,TP,1,ROCK,Dire Straits,Alchemy,DUP
 000000,000,TP,1,ROCK,Dire Straits,On Every Street
 780609,000,LP,1,ROCK,Dire Straits,Dire Straits
 790615,000,LP,1,ROCK,Dire Straits,Communique
 801017,000,CD,1,ROCK,Dire Straits,Making Movies
 820920,000,LP,1,ROCK,Dire Straits,Love Over Gold
 850513,000,LP,1,ROCK,Dire Straits,Brothers In Arms
+850513,000,TP,1,ROCK,Dire Straits,Brothers In Arms
 860000,000,TP,1,ROCK,Dire Straits,Live in England,WGRX
 910909,000,LP,1,ROCK,Dire Straits,On Every Street
 000000,000,TP,1,FOLK,Dirt Band,Nitty Gritty Dirt Band
@@ -459,9 +471,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,1,JAZZ,Gene Krupa,Giants of the Big Band Era
 000000,000,TP,0,ROCK,Genesis,Selling England
 710000,479,NX,1,ROCK,Genesis,Nursery Cryme
-710000,479,TP,0,ROCK,Genesis,Nursery Cryme
+710000,479,TP,0,ROCK,Genesis,Nursery Cryme,DUP
 720000,480,NX,1,ROCK,Genesis,Foxtrot
-720000,480,TP,0,ROCK,Genesis,Foxtrot
+720000,480,TP,0,ROCK,Genesis,Foxtrot,DUP
 730000,365,NX,1,ROCK,Genesis,Selling England By the Pound
 741122,000,CD,1,ROCK,Genesis,Lamb Lies Down
 741122,000,CD,1,ROCK,Genesis,Lamb Lies Down
@@ -561,7 +573,6 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 989999,113,CD,1,FOLK,Harvey Reid,Fruit on the Vine
 000000,000,TP,1,JAZZ,Harvie Swartz,Arrival
 000000,000,TP,1,ROCK,Heart,Little Queen
-000000,000,TP,1,ROCK,Heart,Little Queen
 000000,000,TP,1,ROCK,Hendrix,In From the Storm
 000000,000,TP,1,ROCK,Hendrix,Live in New York
 000000,000,TP,1,ROCK,Hendrix,Stages 67 Stockholm
@@ -609,7 +620,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,1,ROCK,Jack Bruce,Willpower
 000000,000,TP,0,ROCK,Jackson Browne,Running on Empty
 000000,000,TP,1,ROCK,Jackson Browne,Hold Out
-000000,000,TP,1,ROCK,Jackson Browne,Im Alive
+000000,000,TP,1,ROCK,Jackson Browne,Im Alive,DUP
 000000,000,TP,1,ROCK,Jackson Browne,Lives in the Balance
 731099,000,CD,1,ROCK,Jackson Browne,For Everyman
 731099,000,TP,0,ROCK,Jackson Browne,For Everyman
@@ -648,7 +659,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,468,LP,1,ROCK,Jimmy Cliff,The Harder They Come
 000000,308,LP,1,BLUZ,Jimmy Reed,Soul Greats
 000000,341,LP,1,BLUZ,Jimmy Witherspoon,Best Of
-000000,000,TP,1,ROCK,Joan Armatrading,Down to Zero,+Phoebe Snow
+000000,000,TP,0,ROCK,Joan Armatrading,Down to Zero,+Phoebe Snow
+000000,000,TP,1,ROCK,Joan Armatrading,Track Record
+000000,000,TP,0,ROCK,Phoebe Snow,Phoebe Snow
 000000,449,LP,1,ROCK,Joan Armatrading,Show Some Emotion
 000000,000,TP,1,FOLK,Joan Baez,Country Music Album
 000000,047,LP,1,FOLK,Joan Baez,One Day at a Time,Missing
@@ -815,6 +828,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,Madonna,Erotic
 000000,000,TP,1,JAZZ,Mal Waldron,Hot House,+Steve Lacy
 000000,000,TP,1,JAZZ,Mal Waldron,Moods
+000000,000,TP,1,ROCK,Mahavishnu Orchestra,Visions of Emerald Beyond
+000000,000,TP,1,ROCK,Kinky Friedman,Old Testaments New Revelations
+000000,000,TP,1,ROCK,Mamas + Papas,Best Of
 000000,000,TP,1,JAZZ,Manhattan Transfer,Offbeat of Avenues
 000000,000,TP,1,JAZZ,Manhattan Transfer,Swing
 000000,000,TP,1,JAZZ,Marc Johnson,Second Sight
@@ -934,7 +950,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,485,SL,1,FOLK,Pentangle,Pentangle
 000000,486,SL,1,FOLK,Pentangle,Cruel Sister
 000000,487,SL,1,FOLK,Pentangle,History Book
-000000,314,XX,1,BLUZ,Peter Green,End of the Game
+000000,314,TP,0,BLUZ,Peter Green,End of the Game
+000000,447,TP,0,BLUZ,Peter Green,In The Skies
 000000,447,SL,1,BLUZ,Peter Green,In The Skies
 000000,481,XX,1,BLUZ,Peter Green,Little Dreamer
 000000,000,TP,1,FOLK,Peter Paul Mary,Best Of
@@ -1028,7 +1045,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,1,ROCK,Roy Buchanan,Guitar on Fire
 710000,117,CD,1,ROCK,Roy Buchanan,Snake Stretchers
 720899,176,XX,1,ROCK,Roy Buchanan,Roy Buchanan
-000000,420,LP,1,ROCK,Ruppert Chapelle,Ozone Music
+000000,420,LP,1,ROCK,Ruppert Chapelle,Ozone Music,LOCAL
 000000,000,TP,2,ROCK,Ry Cooder,Music By
 000000,145,VL,1,ROCK,Ry Cooder,Into the Purple Valley
 000000,000,CD,1,BLUZ,SRV,Greatest Hits
@@ -1099,7 +1116,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,0,CLAS,Sibelius,Finlandia
 000000,000,TP,0,CLAS,Sibelius,Second Symphony
 000000,000,CD,5,ROCK,Simon and Garfunkel,First Five Albums
-000000,000,TP,1,ROCK,Simon and Garfunkel,Greatest Hits
+01777777777777777777777,000,TP,1,ROCK,Simon and Garfunkel,Greatest Hits
 000000,319,LP,1,BLUZ,Slim Green,Stone Down Blues Guitar
 690000,015,XX,1,ROCK,Sly Stone,Stand
 000000,339,LP,1,BLUZ,Sonny Boy Williamson,Sonny Boy Williamson
@@ -1155,11 +1172,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,1,FOLK,Steve Hancoff,Steel String Guitar,LOCAL
 000000,427,VL,1,ROCK,Steve Howe,Beginnings
 000000,000,TP,1,JAZZ,Steve Reich,Music For 18 Musicians
-700000,066,VL,1,ROCK,Steve Stills,Steve Stills
-710000,113,VL,1,ROCK,Steve Stills,Steve Stills Two
-720000,174,VL,2,ROCK,Steve Stills,Manassas
-750000,000,TP,0,ROCK,Steve Stills,Live
-720000,102,LP,2,ROCK,Steve Winwood,Winwood,RARE
+700000,066,VL,1,ROCK,Stephen Stills,Steve Stills
+710000,113,VL,1,ROCK,Stephen Stills,Steve Stills Two
+720000,174,VL,2,ROCK,Stephen Stills,Manassas
+750000,000,TP,0,ROCK,Stephen Stills,Live
+720000,102,LP,2,ROCK,Stephen Winwood,Winwood,RARE
 000000,000,CD,1,ROCK,Sting,Brand New Day
 000000,000,CD,1,ROCK,Sting,Nothing Like the Sun
 000000,000,CD,1,ROCK,Sting,Sacred Love
