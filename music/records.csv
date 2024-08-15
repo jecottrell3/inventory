@@ -133,23 +133,6 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690809,044,CD,2,ROCK,Blind Faith,Blind Faith,Deluxe Edition
 000000,000,CD,1,ROCK,Blondie,Best Of
 000000,000,TP,1,FOLK,Blue Sky Boys,Blue Sky Boys
-000000,000,TP,1,ROCK,Bob Dylan,Blonde on Blonde
-000000,000,TP,1,ROCK,Bob Dylan,Time Out of Mind
-650000,000,TP,1,ROCK,Bob Dylan,Highway 61
-650000,150,CD,1,ROCK,Bob Dylan,Bringing It All Back Home
-650000,150,TP,1,ROCK,Bob Dylan,Bringing It All Back Home
-650000,167,CD,1,ROCK,Bob Dylan,Highway 61
-670000,067,CD,1,ROCK,Bob Dylan,Greatest Hits V1
-670000,067,TP,0,ROCK,Bob Dylan,Greatest Hits V1
-690000,390,VL,1,ROCK,Bob Dylan,Nashville Skyline
-710000,151,CD,2,ROCK,Bob Dylan,Greatest Hits V2
-740000,444,SL,1,ROCK,Bob Dylan,Planet Waves
-740000,444,TP,0,ROCK,Bob Dylan,Planet Waves
-750000,361,CD,1,ROCK,Bob Dylan,Blood on the Tracks
-750000,361,SL,1,ROCK,Bob Dylan,Blood on the Tracks
-750000,361,TP,0,ROCK,Bob Dylan,Blood on the Tracks
-750000,361,TP,1,ROCK,Bob Dylan,Blood on the Tracks
-760000,000,CD,1,ROCK,Bob Dylan,Hard Rain
 000000,000,TP,1,BLUZ,Bob Margolin,Down in the Alley
 720501,210,CD,1,DEAD,Bob Weir,Ace
 760399,355,LP,1,DEAD,Bob Weir,Kingfish
@@ -406,6 +389,23 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,1,JAZZ,Duke Ellington,Harlem
 000000,000,TP,1,JAZZ,Duke Ellington,Solos Duets and Trios
 000000,000,TP,1,JAZZ,Duke Ellington,The Ellington Suites
+000000,000,TP,1,ROCK,Dylan,Blonde on Blonde
+000000,000,TP,1,ROCK,Dylan,Time Out of Mind
+650000,000,TP,1,ROCK,Dylan,Highway 61
+650000,150,CD,1,ROCK,Dylan,Bringing It All Back Home
+650000,150,TP,1,ROCK,Dylan,Bringing It All Back Home
+650000,167,CD,1,ROCK,Dylan,Highway 61
+670000,067,CD,1,ROCK,Dylan,Greatest Hits V1
+670000,067,TP,0,ROCK,Dylan,Greatest Hits V1
+690000,390,VL,1,ROCK,Dylan,Nashville Skyline
+710000,151,CD,2,ROCK,Dylan,Greatest Hits V2
+740000,444,SL,1,ROCK,Dylan,Planet Waves
+740000,444,TP,0,ROCK,Dylan,Planet Waves
+750000,361,CD,1,ROCK,Dylan,Blood on the Tracks
+750000,361,SL,1,ROCK,Dylan,Blood on the Tracks
+750000,361,TP,0,ROCK,Dylan,Blood on the Tracks
+750000,361,TP,1,ROCK,Dylan,Blood on the Tracks
+760000,000,CD,1,ROCK,Dylan,Hard Rain
 000000,000,CD,1,ROCK,Eagles,Greatest Hits
 000000,000,CD,1,ROCK,Eagles,Hell Freezes Over
 000000,000,CD,1,ROCK,Eagles,On the Border
@@ -1184,7 +1184,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,TP,0,CLAS,Sibelius,Finlandia
 000000,000,TP,0,CLAS,Sibelius,Second Symphony
 000000,000,CD,5,ROCK,Simon and Garfunkel,First Five Albums
-01777777777777777777777,000,TP,1,ROCK,Simon and Garfunkel,Greatest Hits
+000000,000,TP,1,ROCK,Simon and Garfunkel,Greatest Hits
 000000,319,LP,1,BLUZ,Slim Green,Stone Down Blues Guitar
 690000,015,XX,1,ROCK,Sly Stone,Stand
 000000,339,LP,1,BLUZ,Sonny Boy Williamson,Sonny Boy Williamson

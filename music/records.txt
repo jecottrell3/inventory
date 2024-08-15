@@ -9,28 +9,34 @@ Later, I traded a lot of Grateful Dead cassette tapes, made some of my
 own, and bought some. VCRs became common, and I taped a lot of Grateful
 Dead Hour broadcasts over Random Movies.
 
+Finally came CDs, and then Writable CDs.
+
 * LEGEND *
 
-The RECORDS.CSV should be imported into a Spreadsheet. The Fields and
-their Meanings are as follows:
+The RECORDS.CSV should be imported into a Spreadsheet.
+Periodically, I do this, but the CSV file I Edit Directly,
+which is why the Initial Fields are Fixed Width.
 
-+ Release	Release Date
-+ YA		Year Acquired
+The Fields and their Meanings are as follows:
+
+Issued,Num,MT,N,Type,Artist,Album,Comments
+
++ Issued	Release Date
 + Num		Sequence Number
 + MT		Media Type
-+ Type		Genre
 + N		Pieces
++ Type		Genre
 + Group		Artist
 + Album		Title
 + Comments	Optional, Flags
 
 Where possible, the fields are Fixed Width.
 
-+ In Dates, a 00 or 33 means Haven't Looked, and 99 means Can't Find.
-+ Year Acquired is Roughly Marked in the Handy Note Book. Or Guessed. 
++ In Dates, a 00 means Haven't Looked, and 99 means Can't Find.
+
 + MT:
 NX=Next; CD=Bought; CC=Copied; KP=Keep; LP=Vinyl;
-SL=VL=Sell; TP=Cassette; XX=Gone;
+SL=VL=Sell; TP=Cassette; TC=Tape Copy; TH=Tape Half; XX=Gone;
 
 Future MTs may be Related, as in GP=Glenda
 
