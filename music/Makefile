@@ -18,7 +18,7 @@ $A:	$C
 	sort -t, -$@ -o $@ $C
 
 $W:	$C Makefile
-	./wn -u < $C | grep -vwif ignore.txt > $@
+	cw -f < $C | grep -vwif ignore.txt > $@
 
 # fgrep -vif $I > $@
 
