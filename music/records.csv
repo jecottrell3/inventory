@@ -1,5 +1,4 @@
 :.,$!sort -t, -bk6,6 -k1,2n -bk7,7
-Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,A Perfect Circle,Emotive
 000000,000.MC,1,FOLK,Ralph Stanley,A_Mothers_Prayer
 000000,000,MP,1,JAZZ,Ahmad Jamal,Ahmads_Blues
@@ -46,7 +45,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720212,110,MD,1,ROCK,Allman Brothers,Eat a Peach
 730326,000,MC,2,ROCK,Allman Brothers,Beacon Theatre
 730899,192,XX,1,ROCK,Allman Brothers,Brothers and Sisters
-730899,192,CC,1,ROCK,Allman Brothers,Brothers and Sisters + Revolver
+730899,192,MC,1,ROCK,Allman Brothers,Brothers and Sisters + Revolver
 911022,000,MD,1,ROCK,Allman Brothers,Decade of Hits 1969-1979
 000000,000,MD,1,ROCK,America,Greatest Hits
 000000,000,CD,1,ROCK,Amy Winehouse,Back to Black
@@ -62,14 +61,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,MISC,Anoushka Shankar,Live_at_Carnegie_Hall
 000000,000,MC,1,MISC,Anoushka Shankar,Traces_of_You
 000000,000,MP,1,CLAS,Arditti-Quartet,Spiral-Of-Light
-000000,000,CC,1,JAZZ,Art Blakey,Mission Eternal V2,+Cedar Walton
-000000,000,CC,1,JAZZ,Art Farmer,Real Time
+000000,000,MC,1,JAZZ,Art Blakey,Mission Eternal V2,+Cedar Walton
+000000,000,MC,1,JAZZ,Art Farmer,Real Time,Jazztet
 000000,000,MC,2,JAZZ,Art Tatum,20th Century Genius
 000000,000,MC,1,JAZZ,Art Tatum,Best Of
 000000,000,MC,1,JAZZ,Art Tatum,I Got Rhythm
-000000,000,CC,1,ROCK,Ashley Monroe,Like a Rose
+Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,WOMN,Ashley_Monroe,Like_a_Rose
-000000,000,CC,1,FOLK,Asleep at the Wheel,Arizona Charlies
+000000,000,MC,1,FOLK,Asleep at the Wheel,Arizona Charlies
 000000,000,MC,1,FOLK,Asleep at the Wheel,Keeps on Rolling
 000000,000,MC,1,FOLK,Asleep at the Wheel,Ride with Bob
 000000,000,MC,1,FOLK,Asleep at the Wheel,Western Standard Time
@@ -82,7 +81,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,2,CLAS,Bach,Toccatas and Inventions
 000000,000,MP,1,CLAS,Bach,Yo-Yo Ma Plays Bach
 000000,000,MC,1,CLAS,Bad Plus,The Rite of Spring
-000000,000,MC,1,XMAS,Baltimore Consort,Bright Day Star
+@00000,000,MC,1,XMAS,Baltimore Consort,Bright Day Star
 000000,000,MC,3,ROCK,Band,Across the Great Divide
 000000,000,MC,2,ROCK,Band,Last Waltz
 000000,000,MP,2,ROCK,Band,Live_at_the_Academy_of_Music_1971
@@ -102,14 +101,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,2,BEAT,Beatles,Anthology 2
 000000,000,MC,2,BEAT,Beatles,Anthology 3
 000000,000,MP,1,BEAT,Beatles,For Sale
-000000,000,CC,1,BEAT,Beatles,Hard Days Night + Help,DUP
+000000,000,MC,1,BEAT,Beatles,Hard Days Night + Help,DUP
 000000,000,MP,1,BEAT,Beatles,Help
 000000,000,MC,1,BEAT,Beatles,Let It Be
 000000,000,MC,1,BEAT,Beatles,Magical Mystery Tour
 000000,000,MC,1,BEAT,Beatles,Past Masters 1+2
 000000,000,MP,1,BEAT,Beatles,Please Please Me
 000000,000,MP,1,BEAT,Beatles,Revolver
-000000,000,CC,1,BEAT,Beatles,Revolver + LIB Naked
+000000,000,MC,1,BEAT,Beatles,Revolver + LIB Naked
 000000,000,MC,1,BEAT,Beatles,Rubber Soul
 000000,000,MC,1,BEAT,Beatles,Sgt Peppers
 000000,000,MC,2,BEAT,Beatles,White Album
@@ -120,6 +119,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 670070,000,MC,2,BEAT,Beatles,Blue Album,1967-1970
 000000,000,MC,2,CLAS,Beethoven,Easy Listening Piano Classics
 000000,000,MP,1,CLAS,Beethoven,For Book Lovers
+000000,000,MC,1,CLAS,Beethoven,Ligeti+Beethoven,=Jeremy Denk
 000000,000,MC,1,CLAS,Beethoven,Moonlight_Serenade_Sonatas
 000000,000,MP,5,CLAS,Beethoven,Nine Symphonies
 000000,000,MP,1,CLAS,Beethoven,Opus_18_String_Quartets
@@ -164,8 +164,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 370000,000,CC,1,JAZZ,Benny Goodman,Trio + Quartet Live 1937
 380000,000,MC,2,JAZZ,Benny Goodman,Live at Carnegie Hall 1938
 780000,000,MC,2,JAZZ,Benny Goodman,Live at Carnegie Hall 40th
-000000,000,CC,1,BLUZ,Bernard Alison,In the Mix
-000000,000,MC,1,BLUZ,Bernard Allison,In_the_Mix
+000000,000,MC,1,BLUZ,Bernard Allison,In the Mix
 000000,446,LP,1,BLUZ,Big Bill Broonzy,Do That Guitar Rag
 000000,287,LP,1,BLUZ,Big Bill Broonzy,Feeling Lowdown
 000000,000,MP,1,BLUZ,Big Bill Broonzy,Young_Big_Bill_Broonzy
@@ -209,15 +208,15 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,Billy Taylor,Dr T.
 000000,000,MC,1,JAZZ,Billy Taylor,Solo
 000000,000,MP,1,FOLK,Billy_Bragg,Recordings_From_The_Railroad
+000000,000,MC,1,JAZZ,Billy_Hart_Quartet,One_Is_the_Other
 000000,000,MP,1,FOLK,Billy_Strings,Me+Dad
 000000,000,MP,1,FOLK,Billy_Strings,Renewal
-000000,000,CC,1,JAZZ,Bix Beiderbecke,At the Jazz Band Ball
-000000,000,CC,1,JAZZ,Bix Beiderbecke,In A Mist
-000000,000,CC,1,JAZZ,Bix Beiderbecke,Mississippi Mud
-000000,000,CC,2,JAZZ,Bix Beiderbecke,Singing the Blues
+000000,000,MC,1,JAZZ,Bix Beiderbecke,At the Jazz Band Ball V2
+000000,000,MC,1,JAZZ,Bix Beiderbecke,In A Mist
+000000,000,MC,1,JAZZ,Bix Beiderbecke,Mississippi Mud
+000000,000,MC,2,JAZZ,Bix Beiderbecke,Singing the Blues
 000000,000,CC,1,ROCK,Black Keys,Turn Blue
-690809,044,CD,2,ROCK,Blind Faith,Blind Faith,Deluxe Edition
-690809,044,MP,2,ROCK,Blind Faith,Blind Faith,Deluxe Edition
+690809,044,MD,2,ROCK,Blind Faith,Blind Faith,Deluxe Edition
 000000,000,CD,1,WOMN,Blondie,Best Of
 000000,000,MC,1,WOMN,Blondie,Greatest Hits
 000000,000,MC,1,FOLK,Blue Highway,Its a Long Road
@@ -226,12 +225,11 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720501,210,MD,1,DEAD,Bob Weir,Ace
 760399,355,LP,1,DEAD,Bob Weir,Kingfish
 760399,355,MC,1,DEAD,Bob Weir,Kingfish
-760399,355,MP,1,DEAD,Bob Weir,Kingfish
 780113,469,MD,1,DEAD,Bob Weir,Heaven Help The Fool
 811021,470,LP,1,DEAD,Bob Weir,Bobby and the Midnights
 890905,000,MP,2,DEAD,Bob Weir,Long Island Sound
-000000,000,CC,1,JAZZ,Bobby Hutcherson,For Sentimental Reasons
-000000,000,CC,1,JAZZ,Bobby Hutcherson,Mirage
+000000,000,MC,1,JAZZ,Bobby Hutcherson,For Sentimental Reasons
+000000,000,MC,1,JAZZ,Bobby Hutcherson,Mirage
 000000,000,MC,1,WOMN,Bonnie Raitt,Collection
 000000,000,MC,1,WOMN,Bonnie Raitt,Silver Lining
 000000,000,MC,1,WOMN,Bonnie Raitt,Slipstream
@@ -290,7 +288,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,ROCK,Byrds,Younger Than Yesterday
 670807,161,MC,1,ROCK,Byrds,Greatest Hits V1 + V2
 700914,068,MD,2,ROCK,Byrds,Untitled
-730307,000,CD,1,ROCK,Byrds,Byrds
+730307,000,MD,1,ROCK,Byrds,Byrds
 791199,000,MD,1,ROCK,Byrds,Byrds Play Dylan
 000000,000,MP,1,ROCK,CSNY,CSNY 1974
 000000,173,VL,1,ROCK,CSNY,Crosby and Nash
@@ -311,15 +309,16 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 939999,000,MD,1,JAZZ,California Guitar Trio,Yamanashi Blues
 959999,000,MD,1,JAZZ,California Guitar Trio,Invitation
 989999,000,MD,1,JAZZ,California Guitar Trio,Pathways
-000000,000,CC,1,JAZZ,Canadian Brass,The Dixieland Album
+000000,000,MC,1,CLAS,Canadian Brass,English_Renaissance_Music
+000000,000,MC,1,CLAS,Canadian Brass,The Dixieland Album
 000000,000,MP,1,JAZZ,Cannonball Adderley,Something Else
-000000,000,MP,1,XMAS,Caribbean Steel Drum Ensemble,Christmas in Caribbean
+@00000,000,MC,1,XMAS,Caribbean Steel Drum Ensemble,Christmas in Caribbean
 000000,000,MP,1,XMAS,Carlos-Nakai,Winter-Dreams
 000000,000,MC,1,FOLK,Carter Family,Press On,=June
 000000,000,MC,1,FOLK,Carter Family,The Unbroken Circle,Tribute
 000000,000,MC,1,CLAS,Catalina_Vicens,Parthenia
 000000,000,CD,1,JAZZ,Cecil Taylor,Unit Structures,Weird
-000000,000,CC,1,JAZZ,Charles Lloyd,Hagars Song
+000000,000,MC,1,JAZZ,Charles Lloyd,Hagars Song,+Jason_Moran
 000000,000,CC,1,JAZZ,Charlie Byrd,At the Village Gate
 000000,000,MC,1,JAZZ,Charlie Christian,Genius of Electric Guitar
 000000,305,VL,1,ROCK,Charlie Daniels,Charlie Daniels
@@ -353,6 +352,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,Chick Corea,Vigil
 760000,000,MD,1,JAZZ,Chick Corea,Corea+Hancock+Jarrett+Tyner
 870000,000,CD,1,JAZZ,Chick Corea,Mystic Bridge
+000000,000,MP,1,HARP,Chieftans,Celtic Harp
 000000,000,MP,2,FOLK,Chieftans,Chronicles
 000000,000,MP,2,FOLK,Chieftans,Essential
 000000,000,MP,1,CLAS,Chopin,24_Preludes
@@ -405,8 +405,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000.MC,1,FOLK,Ralph Stanley,Complete_Columbia_Recordings
 000000,000,MC,1,JAZZ,Count Basie,All About That Basie
 000000,000,MP,1,JAZZ,Count Basie,Basie_Swings_The_Blues
-000000,000,CC,1,JAZZ,Count Basie,Count Plays Duke
-000000,000,CC,1,JAZZ,Count Basie,One Oclock Jump
+000000,000,MC,1,JAZZ,Count Basie,Count Plays Duke
+000000,000,MC,1,JAZZ,Count Basie,One Oclock Jump
 000000,000,MC,1,FOLK,Country Gentlemen,Country Songs Old and New
 000000,000,MC,1,FOLK,Country Gentlemen,Folk Songs and Bluegrass
 000000,000,MC,1,FOLK,Country Gentlemen,Sugar Hill Collection
@@ -417,7 +417,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Craig Duncan,Bluegrass_Mountain_Memories
 000000,000,MC,1,FOLK,Craig Duncan,Sunday_Morning_Bluegrass
 880000,000,CD,1,JAZZ,Craig Fraedrich,First Flight
-000000,000,CC,1,JAZZ,Craig Taborn,Chants
+000000,000,MC,1,JAZZ,Craig Taborn,Chants
 661209,026,MC,1,ROCK,Cream,Fresh Cream
 671100,027,MC,1,ROCK,Cream,Disraeli Gears
 680809,028,MC,1,ROCK,Cream,Wheels of Fire
@@ -442,13 +442,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CC,1,ROCK,Dar Williams,Mortal City
 000000,000,MC,1,JAZZ,Dave Brubeck,Night Shift
 000000,000,MC,1,JAZZ,Dave Brubeck,Young Lions and Old Tigers
-000000,000,CC,2,JAZZ,Dave Holland,Live at Birdland
-000000,000,CC,1,JAZZ,Dave Holland,Prime Directive
-000000,000,CC,1,JAZZ,Dave Holland,Prism,+Kevin Eubanks
+000000,000,MC,2,JAZZ,Dave Holland,Live at Birdland
+000000,000,MC,1,JAZZ,Dave Holland,Prime Directive
+000000,000,MC,1,JAZZ,Dave Holland,Prism,+Kevin Eubanks
 000000,130,XX,1,ROCK,Dave Mason,Alone Together
 000000,131,XX,1,ROCK,Dave Mason,Headkeeper
 000000,000,MP,1,ROCK,Dave_Alvin,Common_Ground
-000000,000,MP,1,XMAS,David Arkenstone,Enchantment
+000000,000,MC,1,XMAS,David Arkenstone,Enchantment
 720000,366,LP,1,FOLK,David Bromberg,David Bromberg
 720000,367,LP,1,FOLK,David Bromberg,Demon in Disguise
 740000,272,LP,1,FOLK,David Bromberg,Wanted Dead or Alive
@@ -459,8 +459,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 710000,106,KP,1,ROCK,David Crosby,Remember My Name
 000000,000,MD,1,JAZZ,David Gilmore,Transitions
 000000,000,MP,2,PROG,David Gilmour,Live at Pompeii
-000000,000,CD,3,PROG,David Gilmour,Live in Gdansk
-000000,000,MP,2,PROG,David Gilmour,Live in Gdansk,+DVD
+000000,000,MD,2,PROG,David Gilmour,Live in Gdansk,+DVD
 000000,000,MD,1,PROG,David Gilmour,On an Island
 780526,000,MD,1,PROG,David Gilmour,David Gilmour
 840305,000,MD,1,PROG,David Gilmour,About Face
@@ -510,28 +509,25 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,ROCK,Dire Straits,Encores
 000000,000,MP,1,ROCK,Dire Straits,Live at the BBC
 000000,000,MP,2,ROCK,Dire Straits,Live at the Rainbow
-000000,000,MP,1,ROCK,Dire Straits,On Every Street
 000000,000,MP,2,ROCK,Dire Straits,On the Night
-780609,000,CC,1,ROCK,Dire Straits,Dire Straits
 780609,000,LP,1,ROCK,Dire Straits,Dire Straits
-780609,000,MP,1,ROCK,Dire Straits,Dire Straits
+780609,000,MC,1,ROCK,Dire Straits,Dire Straits
 790615,000,LP,1,ROCK,Dire Straits,Communique
 801017,000,MD,1,ROCK,Dire Straits,Making Movies
 820920,000,LP,1,ROCK,Dire Straits,Love Over Gold
 850513,000,LP,1,ROCK,Dire Straits,Brothers In Arms
-910909,000,CC,1,ROCK,Dire Straits,On Every Street
 910909,000,LP,1,ROCK,Dire Straits,On Every Street
+910909,000,MC,1,ROCK,Dire Straits,On Every Street
 000000,000,MP,1,FOLK,Dirt Band,Circling Back
 000000,000,MP,1,FOLK,Dirt Band,Speed of Life
 000000,000,MP,1,ROCK,Dirt Band,Will the Circle Be Unbroken-V2,
 000000,000,MP,2,ROCK,Dirt Band,Will the Circle Be Unbroken-V3,
-721199,178,CD,3,ROCK,Dirt Band,Will the Circle Be Unbroken-V1,
 721199,178,LP,3,ROCK,Dirt Band,Will the Circle Be Unbroken-V1,
-721199,178,MP,3,ROCK,Dirt Band,Will the Circle Be Unbroken-V1,
-000000,000,CC,1,JAZZ,Dizzy Gillespie,Copenhagen Concert
-000000,000,CC,1,JAZZ,Dizzy Gillespie,Diz + Getz
-000000,000,CC,1,JAZZ,Dizzy Gillespie,New Faces
-000000,000,CC,1,JAZZ,Dizzy Gillespie,To Diz with Love
+721199,178,MD,3,ROCK,Dirt Band,Will the Circle Be Unbroken-V1,
+000000,000,MC,1,JAZZ,Dizzy Gillespie,Copenhagen Concert
+000000,000,MC,1,JAZZ,Dizzy Gillespie,Diz + Getz
+000000,000,MC,1,JAZZ,Dizzy Gillespie,New Faces
+000000,000,MC,1,JAZZ,Dizzy Gillespie,To Diz with Love
 000000,000,MD,1,JAZZ,Django Reinhart,All Star Sessions
 000000,000,MP,1,JAZZ,Django Reinhart,Essential
 000000,458,LP,2,JAZZ,Django Reinhart,Indispensible
@@ -560,7 +556,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,464,XX,1,ROCK,Donovan,Barabajagal
 000000,465,XX,1,ROCK,Donovan,Hurdy Gurdy Man
 000000,466,XX,1,ROCK,Donovan,Sunshine Superman
-000000,000,CD,1,ROCK,Doors,Greatest Hits
+000000,000,MD,1,ROCK,Doors,Greatest Hits
 001114,000,CC,1,ROCK,Doors,Stoned Immaculate,Tribute
 670104,006,CC,1,ROCK,Doors,The Doors
 670104,006,MD,1,ROCK,Doors,The Doors
@@ -583,8 +579,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Doyle_Lawson,Never_Walk_Away
 000000,000,MC,1,FOLK,Doyle_Lawson,Winding_Through_Life
 000000,000,MC,1,FOLK,Dry Branch Fire Squad,Echoes of the Mountain
-000000,000,CC,1,JAZZ,Duke Ellington,Duke Meets Count
-000000,000,CC,1,JAZZ,Duke Ellington,In Grand Company
+000000,000,MC,1,JAZZ,Duke Ellington,Duke Meets Count
+000000,000,MC,1,JAZZ,Duke Ellington,In Grand Company
 000000,000,MC,1,JAZZ,Duke Ellington,Ken_Burns_Jazz
 000000,000,MC,1,JAZZ,Duke Ellington,The_Okeh_Ellington
 000000,000,MD,1,JAZZ,Duke Ellington,Very Best Of
@@ -613,14 +609,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,ROCK,Eagles,Hotel California Live
 000000,000,MD,1,ROCK,Eagles,On the Border
 000000,000,CD,1,ROCK,Eagles,Out of Eden
-000000,000,CC,1,JAZZ,Earl Hines,Piano Man
+000000,000,MC,1,JAZZ,Earl Hines,Piano Man
 000000,000,MC,1,JAZZ,Earl Klugh,Hand Picked
 000000,000,MC,2,FOLK,Earl Scruggs,Best Of
 000000,000,MC,2,FOLK,Earl Scruggs,Essential
 000000,000,MC,1,FOLK,Earl Scruggs,Ultimate_Collection
-000000,000,CC,1,JAZZ,Eberhard Weber,Fluid Rustle
-000000,000,CC,1,JAZZ,Eberhard Weber,Pendulum
-000000,000,CC,1,JAZZ,Eddie Palmieri,Listen Here
+000000,000,MC,1,JAZZ,Eberhard Weber,Fluid Rustle
+000000,000,MC,1,JAZZ,Eberhard Weber,Pendulum
+000000,000,MC,1,JAZZ,Eddie Palmieri,Listen Here
 000000,000,MC,1,FOLK,Eddie and Martha Adcock,Spirited
 000000,000,MC,1,ROCK,Edie Brickell,Shooting Rubberbands
 000000,000,MC,1,PROG,Electric Light Orchestra,Zoom
@@ -633,7 +629,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Emmylou Harris,Red Dirt Girl
 000000,000,MC,1,XMAS,Empire Brass,Joy_To_The_World
 000000,000,MP,1,XMAS,Eric Byrd,Charlie Brown Christmas
-000000,000,CC,1,JAZZ,Eric Reed,Groovewise
+000000,000,MC,1,JAZZ,Eric Reed,Groovewise
 000000,000,MC,1,JAZZ,Erroll Garner,Concert By the Sea
 000000,000,MC,1,JAZZ,Erroll Garner,Essence Of
 000000,000,MC,1,JAZZ,Erroll Garner,Solitaire
@@ -644,7 +640,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,WOMN,Eva Cassidy,Time_After_Time
 960514,000,MD,1,WOMN,Eva Cassidy,Live at Blues Alley
 980519,000,MD,1,WOMN,Eva Cassidy,Songbird
-000000,000,CC,1,JAZZ,Fats Waller,Greatest Hits
+000000,000,MC,1,JAZZ,Fats Waller,Greatest Hits
 000000,000,MP,1,CLAS,Ferdinand Ries,Piano Trios + Sextets
 000000,000,MP,3,BLUZ,Fleetwood Mac,Before the Beginning
 000000,000,MP,1,BLUZ,Fleetwood Mac,Boston
@@ -661,7 +657,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690000,104,MC,2,BLUZ,Fleetwood Mac,In Chicago
 710000,099,LP,2,BLUZ,Fleetwood Mac,Black Magic Woman
 710000,411,LP,1,BLUZ,Fleetwood Mac,Original Fleetwood Mac
-000000,000,CC,1,JAZZ,Fletcher Henderson,Story V2
+000000,000,MC,1,JAZZ,Fletcher Henderson,Story V2
 000000,000,MP,1,ROCK,Flying Burrito Brothers,Burrito Deluxe
 000000,000,MP,1,ROCK,Flying Burrito Brothers,Gilded Palace of Sin
 000000,000,XX,1,CLAS,Forever Gold,Magic of the Guitar,hits
@@ -694,7 +690,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 950899,000,MD,1,DEAD,Garcia,Blue Incantation,+Sanjay Mishra
 980899,000,MD,1,DEAD,Garcia,So What
 981099,000,MD,1,DEAD,Garcia,Side Trips,+Howard Wales
-000000,000,CC,1,JAZZ,Gary Burton,Passengers
+000000,000,MC,1,JAZZ,Gary Burton,Passengers
 000000,000,MP,1,PROG,Genesis,Please-Dont-Touch,=Steve Hackett
 710000,479,NX,1,PROG,Genesis,Nursery Cryme
 720915,480,MC,1,PROG,Genesis,Foxtrot
@@ -713,9 +709,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,450,LP,1,FOLK,Good Old Boys,Pistol Packing Mama
 000000,115,VL,1,ROCK,Graham Nash,Songs for Beginners
 000000,000,MC,1,ROCK,Gram Parsons,Grievous_Angel
-000000,000,MC,1,ROCK,Gram Parsons,Sacred_Hearts+Fallen_Angels
-000000,000,CC,1,JAZZ,Grant Green,Born to be Blue
-000000,000,CC,1,JAZZ,Grant Green,Idle Moments
+000000,000,MC,2,ROCK,Gram Parsons,Sacred_Hearts+Fallen_Angels
+000000,000,MC,1,JAZZ,Grant Green,Born to be Blue
+000000,000,MC,1,JAZZ,Grant Green,Idle Moments
 000000,000,MC,1,FOLK,Grascals,Long_List_of_Heartaches
 000000,000,MC,1,FOLK,Grascals,The_Grascals
 000000,000,CC,1,FOLK,Grasscals,Long List of Heartaches
@@ -731,7 +727,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690620,203,MD,1,DEAD,Grateful,Aoxomoxoa
 691110,196,MD,2,DEAD,Grateful,Live Dead
 700399,269,NX,1,DEAD,Grateful,Zabriskie Point
-700506,000,CD,1,DEAD,Grateful,MIT Concert
+700506,000,CI,1,DEAD,Grateful,MIT_050670,ISO of .WAVs
+700506,000,MC,1,DEAD,Grateful,MIT_050670
 700714,204,MD,1,DEAD,Grateful,Workingmans Dead
 701099,206,NX,1,DEAD,Grateful,Vintage
 701101,205,MD,1,DEAD,Grateful,American Beauty
@@ -751,13 +748,14 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750901,333,MC,1,DEAD,Grateful,Blues For Allah
 760626,356,XX,2,DEAD,Grateful,Steal Your Face
 770727,400,MD,1,DEAD,Grateful,Terrapin Station
-770727,400,CC,1,DEAD,Grateful,Terrapin Station Extended
+770727,400,MC,1,DEAD,Grateful,Terrapin Station Extended
 780000,000,DV,1,DEAD,Grateful,Egypt 1978
 780000,000,MD,2,DEAD,Grateful,Egypt 1978
 781115,401,XX,1,DEAD,Grateful,Shakedown Street
 810401,451,MD,2,DEAD,Grateful,Reckoning
 810826,454,MD,2,DEAD,Grateful,Dead Set
 870706,520,MP,1,DEAD,Grateful,In the Dark
+890707,000,MP,3,DEAD,Grateful,Crimson_White+Indigo
 891030,000,MD,1,DEAD,Grateful,Dylan and the Dead
 891031,000,MD,1,DEAD,Grateful,Built to Last
 900000,000,MP,2,DEAD,Grateful,So Glad You Made It,Spring 1990
@@ -822,8 +820,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,Herbie Hancock,The Imagine Project
 000000,000,MC,1,FOLK,Hillmen,The Hillmen
 000000,000,MP,1,JAZZ,Hiromi,Move
-170000,000,CD,1,JAZZ,Hiromi,Live in Montreal
-170000,000,MP,1,JAZZ,Hiromi,Live in Montreal
+170000,000,MD,1,JAZZ,Hiromi,Live in Montreal
 169999,000,MD,2,DEAD,Holly Bowling,Better Left Unsung
 000000,000,MC,1,CLAS,Holst,The Planets
 000000,000,MC,1,BLUZ,Homemade Jamz Band,Homemade Jamz Band,kids
@@ -851,7 +848,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,BLUZ,JJ Cale,Paradise Studios
 000000,000,MP,1,BLUZ,JJ Cale,Road-to-Escondido,=Clapton
 000000,000,MP,1,BLUZ,JJ Cale,The-Breeze,=Clapton
-000000,000,CC,2,JAZZ,Jack Teagarden,Indispensible
+000000,000,MC,2,JAZZ,Jack Teagarden,Indispensible
 000000,000,MP,1,ROCK,Jackson Browne,Downhill_From_Everywhere
 000000,000,MP,2,ROCK,Jackson Browne,Looking_Into_You
 000000,000,MP,1,ROCK,Jackson Browne,Saturate Before Using
@@ -860,7 +857,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 740913,000,MD,1,ROCK,Jackson Browne,Late For the Sky
 860218,000,MD,1,ROCK,Jackson Browne,Lives in the Balance
 000000,000,CD,1,JAZZ,Jackson Pollock,Jazz
-000000,000,CD,1,JAZZ,Jaco Pastorius,Jaco Pastorius
+000000,000,MD,1,JAZZ,Jaco Pastorius,Jaco Pastorius
 000000,000,MC,1,CLAS,Jade_Bridge,Ambush_On_All_Sides
 000000,000,MP,2,JAZZ,Jake Shimabukuro,Live in Japan
 000000,000,MC,1,BLUZ,James Cotton,Deep In the Blues
@@ -868,8 +865,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 760000,000,MD,1,ROCK,James Taylor,Greatest Hits
 989999,000,MD,1,DEAD,Jazz is Dead,Blue Light Rain
 999999,000,MD,1,DEAD,Jazz is Dead,Laughing Water
-000000,397,MP,1,ROCK,Jeff Beck,Blow By Blow
-000000,397,CC,1,ROCK,Jeff Beck,Blow By Blow + Wired
+000000,397,MC,1,ROCK,Jeff Beck,Blow By Blow + Wired
 000000,000,MC,1,ROCK,Jeff Beck,Emotion and Commotion
 000000,000,MC,1,ROCK,Jeff Beck,Jeff
 000000,000,MP,2,ROCK,Jeff Beck,Live at Hollywood Bowl
@@ -880,7 +876,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 720629,000,CC,1,ROCK,Jeff Beck,Paris Theatre London
 000000,000,CC,1,ROCK,Jeff Golub,Train Keeps Trolling
 000000,000,CD,1,ROCK,Jeff Healey,See the Light
-000000,000,CC,1,JAZZ,Jeff Lorber,Hacienda
+000000,000,MC,1,JAZZ,Jeff Lorber,Hacienda
 000000,000,MP,1,ROCK,Jefferson Airplane,Fillmore_East_1969
 000000,369,XX,1,ROCK,Jefferson Airplane,Volunteers
 000000,000,MC,1,CLAS,Jeffrey Biegel,Grand Romance
@@ -898,7 +894,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Jim_Lauderdale,I_Feel_Like_Singing_Today,+Ralph_Stanley
 000000,000,MC,1,FOLK,Jim_Lauderdale,Lost_in_the_Lonesome_Pines,+Ralph_Stanley
 000000,468,LP,1,ROCK,Jimmy Cliff,The Harder They Come
-000000,000,CC,1,JAZZ,Jimmy Noone,Apex Blues
+000000,000,MC,1,JAZZ,Jimmy Noone,Apex Blues
 000000,308,LP,1,BLUZ,Jimmy Reed,Soul Greats
 000000,341,LP,1,BLUZ,Jimmy Witherspoon,Best Of
 000000,000,MC,1,BLUZ,Jimmy Witherspoon,Live at the Mint,+Robben Ford
@@ -909,21 +905,22 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,047,LP,1,WOMN,Joan Baez,One Day at a Time,Missing
 000000,000,MP,3,WOMN,Joan Baez,Rare Live Classic
 000000,000,MP,1,WOMN,Joan Baez,Ring Them Bells
+000000,000,MC,1,HARP,Joan_Sparks,Reflections
 820000,000,CD,1,CLAS,Joe Cunliffe,Dreams of Suchitlan
 000000,000,MC,1,BLUZ,Joe Louis Walker,Great Guitars
 000000,000,MC,1,ROCK,Joe Walsh,Analog Man
 000000,000,MC,1,JAZZ,John Abercrombie,Speak of the Devil
 000000,000,MC,1,JAZZ,John Abercrombie,Timeless
 000000,000,MC,1,JAZZ,John Coltrane,A Love Supreme,+Born to Run
-000000,000,CC,1,JAZZ,John Coltrane,Bags + Trane
+000000,000,MC,1,JAZZ,John Coltrane,Bags + Trane
 000000,000,MC,1,JAZZ,John Coltrane,Both_Directions_at_Once
-000000,000,CC,1,JAZZ,John Coltrane,Giant Steps
+000000,000,MC,1,JAZZ,John Coltrane,Giant Steps
 000000,000,MC,1,JAZZ,John Coltrane,My_Favorite_Things
 000000,000,MC,1,JAZZ,John Coltrane,The_Prestige_Era
-000000,000,CC,1,JAZZ,John Coltrane,Very Best Of
+000000,000,MC,1,JAZZ,John Coltrane,Very Best Of
 000000,337,LP,1,FOLK,John Fahey,After the Ball
 000000,408,LP,1,FOLK,John Fahey,America
-000000,000,CC,1,XMAS,John Fahey,Christmas Albums 1 + 2
+000000,000,MC,1,XMAS,John Fahey,Christmas Albums 1 + 2
 000000,301,LP,2,FOLK,John Fahey,Essential
 000000,514,CC,1,FOLK,John Fahey,Live in Tasmania
 000000,514,LP,1,FOLK,John Fahey,Live in Tasmania
@@ -958,8 +955,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,328,LP,1,JAZZ,John McLaughlin,Birds of Fire
 000000,000,MC,1,JAZZ,John McLaughlin,Guitar Trio Passion Grace Fire
 000000,000,MC,1,JAZZ,John McLaughlin,To The One
-000000,000,CC,1,JAZZ,John Medeski,A Different Time
-000000,000,CC,1,JAZZ,John Medeski,A Different View
+000000,000,MC,1,JAZZ,John Medeski,A Different Time
+000000,000,MC,1,JAZZ,John Patitucci,Remeberence
 000000,000,MP,1,JAZZ,John Pizzarelli,Double Exposure
 000000,000,MC,1,BLUZ,John Primer,Knocking Around These Blues
 000000,000,MC,1,JAZZ,John Scofield,Bump
@@ -982,8 +979,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MD,1,WOMN,Joni Mitchell,hits
 680300,370,KP,1,WOMN,Joni Mitchell,Song to a Seagull
 690500,371,KP,1,WOMN,Joni Mitchell,Clouds
-700400,372,CD,1,WOMN,Joni Mitchell,Ladies of the Canyon
 700400,372,KP,1,WOMN,Joni Mitchell,Ladies of the Canyon
+700400,372,MD,1,WOMN,Joni Mitchell,Ladies of the Canyon
 710600,373,KP,1,WOMN,Joni Mitchell,Blue
 721100,351,KP,1,WOMN,Joni Mitchell,For the Roses
 721100,351,MP,0,WOMN,Joni Mitchell,For the Roses
@@ -1074,7 +1071,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,2,PROG,Kraftwerk,Remixes
 000000,000,MP,1,JAZZ,Kurt_Rosenwinkel,Angels_Around
 000000,000,MC,1,JAZZ,LAGQ,Guitar Heros
-000000,000,CC,1,JAZZ,LAPQ,Rupa Khandra
+000000,000,MC,1,JAZZ,LAPQ,Rupa Khandra
 000000,000,MC,1,JAZZ,Larry Carlton,Fire Wire
 000000,000,MC,1,JAZZ,Larry Carlton,Unplugged,+Robben Ford
 000000,315,LP,1,JAZZ,Larry Coryell,Barefoot Boy
@@ -1130,10 +1127,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Lonesome_River_Band,Carrying_the_Tradition
 000000,000,MC,1,FOLK,Longview,High_Lonesome
 000000,000,MC,1,FOLK,Longview,Longview
-000000,000,MD,2,WOMN,Loreena McKennitt,Live in Paris and Toronto
-000000,000,MD,1,WOMN,Loreena McKennitt,Mask and Mirror
-940322,000,CD,1,WOMN,Loreena McKennitt,Mask and Mirror
-980419,000,CD,1,WOMN,Loreena McKennitt,Live in Paris
+940322,000,MD,1,WOMN,Loreena McKennitt,Mask and Mirror
+980419,000,MD,2,WOMN,Loreena McKennitt,Live in Paris
 000000,000,CC,1,JAZZ,Louis Armstrong,Best of the Hot5 + Hot7
 000000,000,MC,1,JAZZ,Louis Armstrong,Essential
 000000,309,LP,1,BLUZ,Louisiana Red,Sings the Blues
@@ -1147,8 +1142,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,WOMN,Madonna,Erotic
 000000,000,MP,1,WOMN,Madonna,Immaculate Collection
 000000,000,MP,1,HARP,Maggie_Sansone,Traditions
-000000,000,CC,1,JAZZ,Mal Waldron,Impressions
-000000,000,CC,1,JAZZ,Mal Waldron,Mal 4
+000000,000,MC,1,JAZZ,Mal Waldron,Impressions
+000000,000,MC,1,JAZZ,Mal Waldron,Mal 4
 000000,000,MP,1,HARP,Malcolm Dalglish,Jogging The Memory
 000000,000,MP,1,JAZZ,Manhattan Transfer,Fifty
 000000,000,MC,1,JAZZ,Manhattan Transfer,Offbeat of Avenues
@@ -1172,7 +1167,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CC,1,JAZZ,Mark OConnor,Heroes
 000000,000,CC,1,JAZZ,Mark OConnor,Live_in_New_York
 000000,000,CC,1,JAZZ,Mark OConnor,New_Nashville_Cats
-000000,000,CC,1,JAZZ,Mark Whitfield,Seventh Avenue Stroll
+000000,000,MC,1,JAZZ,Mark Whitfield,Seventh Avenue Stroll
 000000,421,XX,1,ROCK,Marshall Tucker,Greatest Hits
 000000,000,MP,1,XMAS,Martin_Stadtfeld,A Christmas Piano
 000000,000,MP,1,WOMN,Mary Chapin Carpenter,Dirt and Stars
@@ -1187,15 +1182,13 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,McCoy Tyner,Plays John Coltrane
 000000,000,MC,1,JAZZ,McCoy Tyner,Revelations
 000000,000,MC,1,JAZZ,McCoy Tyner,Sahara
-000000,000,MP,1,JAZZ,McCoy Tyner,The Definitive
 000000,000,MC,1,JAZZ,McCoy Tyner,Trident
 000000,000,MC,1,JAZZ,McCoy Tyner,Uptown Downtown
 000000,000,MC,1,JAZZ,McCoy Tyner,Warsaw Jazz Jamboree,+Stephane Grapelli
 001024,000,MD,1,JAZZ,McCoy Tyner,Jazz Roots
-020000,000,CD,1,JAZZ,McCoy Tyner,The Definitive
-080923,000,CD,1,JAZZ,McCoy Tyner,Guitars,CD
+020000,000,MD,1,JAZZ,McCoy Tyner,The Definitive
 080923,000,DV,1,JAZZ,McCoy Tyner,Guitars,DVD
-080923,000,MP,1,JAZZ,McCoy Tyner,Guitars,CD
+080923,000,MD,1,JAZZ,McCoy Tyner,Guitars,CD
 000000,284,SL,2,BLUZ,Memphis Slim,Bad Luck and Troubles
 000000,323,SL,1,BLUZ,Memphis Slim,Blue Memphis
 000000,286,SL,1,BLUZ,Memphis Slim,South Side Reunion
@@ -1218,11 +1211,12 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CD,1,ROCK,Michael Jackson,Essential
 000000,482,MC,1,ROCK,Michael Jackson,Thriller
 000000,000,MC,1,FOLK,Michael_Martin_Murphey,Buckaroo_Blue_Grass_II
-000000,000,CC,1,JAZZ,Michel Petrucciani,Best Of
+000000,000,MC,1,JAZZ,Michel Petrucciani,Best Of
 000000,000,CC,1,JAZZ,Michel Petrucciani,Rememberance
 000000,419,KP,1,ROCK,Mick Taylor,Mick Taylor
 000000,000,CD,1,ROCK,Mickey Hart,Mystery Box
 000000,211,NX,1,ROCK,Mickey Hart,Rolling Thunder
+000000,000,MC,1,JAZZ,Microscopic_Septet,Seven_Men_in_Neckties
 000000,378,LP,1,FOLK,Mike Auldridge,Blues and Blue Grass
 000000,496,LP,1,FOLK,Mike Auldridge,Eight String Swing
 000000,000,MC,1,FOLK,Mike Cleveland,Flame Keeper
@@ -1230,15 +1224,16 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,FOLK,Mike Seeger,Southern_Banjo_Sounds
 060000,000,CD,1,JAZZ,Mike Westbrook,Off Abbey Road
 000000,000,MP,1,XMAS,Mike_Pachelli,A_Jazzy_Guitar_Christmas
-000000,000,CC,1,JAZZ,Miles Davis,Blue Haze
-000000,000,CC,1,JAZZ,Miles Davis,Cooking with the Quintet
-000000,000,CC,1,JAZZ,Miles Davis,Cool and Collected
+000000,000,MC,1,JAZZ,Miles Davis,Blue Haze
+000000,000,MC,1,JAZZ,Miles Davis,Cooking with the Quintet
+000000,000,MC,1,JAZZ,Miles Davis,Cool and Collected
 000000,000,MP,1,JAZZ,Miles Davis,Final Tour,+John_Coltrane
-000000,000,CC,2,JAZZ,Miles Davis,Kind of Blue,Legacy Edition
-000000,000,CC,1,JAZZ,Miles Davis,Sketches + Silent Way
+000000,000,MC,1,JAZZ,Miles Davis,In A Silent Way
+000000,000,MC,2,JAZZ,Miles Davis,Kind of Blue,Legacy Edition
+000000,000,MC,1,JAZZ,Miles Davis,Sketches of Spain
 000000,000,CD,1,JAZZ,Miles Davis,Super Hits
 590000,000,MD,1,JAZZ,Miles Davis,Kind of Blue
-670000,000,CC,1,JAZZ,Miles Davis,Live in Europe 1967
+670000,000,MC,1,JAZZ,Miles Davis,Live in Europe 1967
 000000,259,LP,2,BLUZ,Mississippi John Hurt,Best Of
 000000,000,CC,1,JAZZ,Modern Jazz Quartet,Blues at Carnegie Hall
 000000,000,CC,4,JAZZ,Modern Jazz Quartet,Forty
@@ -1279,8 +1274,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Nashville_Bluegrass_Band,Unleashed
 000000,000,MC,1,FOLK,Nashville_Bluegrass_Band,Waiting_for_Hard_Times_to_Go
 000000,133,XX,2,ROCK,Neil Young,Bootleg
-000000,000,CC,1,ROCK,Neil Young,Living with War
-000000,000,CC,1,ROCK,Neil Young,Living with War
+000000,000,MC,1,ROCK,Neil Young,Living with War
 680000,000,MP,1,ROCK,Neil Young,Canterbury_House_1968
 690000,059,MP,1,ROCK,Neil Young,Everybody Knows This Is Nowhere
 690000,058,XX,1,ROCK,Neil Young,Neil Young
@@ -1298,7 +1292,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,FOLK,Norman Blake,Shacktown Road
 000000,000,MC,1,FOLK,Norman Blake,Slow Train thru Georgia
 000000,000,MC,1,ROCK,Old 97s,Grand Theatre
-000000,000,MC,1,FOLK,Osborne_Brothers,Essential_Bluegrass_Album,+Mac Wiseman
+000000,000,MC,1,FOLK,Osborne_Brothers,Essential_Bluegrass,+Mac Wiseman
 000000,000,MC,1,FOLK,Osborne_Brothers,Once_More
 000000,000,MC,1,JAZZ,Oscar Peterson,A Tribute To
 000000,000,MC,1,JAZZ,Oscar Peterson,Carnegie Hall Concerts
@@ -1473,7 +1467,6 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,FOLK,Sarah Jarosz,Polaroid_Lovers
 000000,000,MC,1,FOLK,Sarah Jarosz,Song Up In Her Head
 031104,000,MD,1,WOMN,Sarah McLachlan,Afterglow
-061003,000,CD,2,WOMN,Sarah McLachlan,Mirrorball Complete
 061017,000,MD,1,WOMN,Sarah McLachlan,Wintersong
 100615,000,MD,1,WOMN,Sarah McLachlan,Laws of Illusion
 140506,000,CD,1,WOMN,Sarah McLachlan,Shine On
@@ -1514,8 +1507,8 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,2,CLAS,Shostakovich,Keith Jarrett plays Opus 87
 700000,320,LP,1,BLUZ,Shuggie Otis,Here Comes
 710000,422,LP,1,BLUZ,Shuggie Otis,Freedom Flight
-000000,000,CC,1,JAZZ,Sidney Bechet,Ken Burns Jazz
-000000,000,CC,1,JAZZ,Sidney Bechet,The Legendary
+000000,000,MC,1,JAZZ,Sidney Bechet,Ken Burns Jazz
+000000,000,MC,1,JAZZ,Sidney Bechet,The Legendary
 000000,000,MD,1,ROCK,Simon and Garfunkel,Bookends
 000000,000,MD,1,ROCK,Simon and Garfunkel,Bridge-Over-Troubled-Waters
 000000,000,MD,1,ROCK,Simon and Garfunkel,Parsley_Sage_Rosemary+Thyme
@@ -1535,17 +1528,16 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 690800,048,XX,3,ROCK,Soundtrack,Woodstock
 730000,472,XX,1,ROCK,Springsteen,Asbury Park
 730000,473,XX,1,ROCK,Springsteen,E St Shuffle
-750000,474,XX,1,ROCK,Springsteen,Born to Run
+750000,474,MC,1,ROCK,Springsteen,Born to Run
 780000,475,XX,1,ROCK,Springsteen,Darkness on the Edge of Town
 000000,000,MC,1,JAZZ,Squirrel Nut Zippers,Perennial Favorites
 000000,000,MC,1,JAZZ,Stanley Clarke,Jazz in the Garden,+Hiromi
 000000,000,MC,1,JAZZ,Stanley Clarke,S.M.V.,+Marcus Miller,+Victor Wooten
 000000,000,MP,1,JAZZ,Stanley Clarke,UP
 000000,000,MC,1,JAZZ,Stanley Clarke,With Hiromi
-000000,000,MP,1,JAZZ,Stanley Jordan,Best Of
 000000,000,CC,1,JAZZ,Stanley Jordan,Friends
 000000,000,CC,1,JAZZ,Stanley Jordan,Magic Touch
-950000,000,CD,1,JAZZ,Stanley Jordan,Best Of
+950000,000,MD,1,JAZZ,Stanley Jordan,Best Of
 000000,000,MC,1,FOLK,Steeldrivers,The Steeldrivers
 000000,000,MC,1,FOLK,Steeldrivers,The Steeldrivers
 000000,000,MP,1,ROCK,Steely Dan,Cant Buy a Thrill
@@ -1556,7 +1548,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 750000,502,MD,1,ROCK,Steely Dan,Katy Lied
 770000,504,CC,1,ROCK,Steely Dan,Aja
 770000,504,MD,1,ROCK,Steely Dan,Aja
-000000,000,CC,1,JAZZ,Stephane Grapelli,Tivoli Gardens,+Joe Pass
+000000,000,MC,1,JAZZ,Stephane Grapelli,Tivoli Gardens,+Joe Pass
 000000,000,MC,1,ROCK,Stephen Stills,Manassas Pieces,Compilation
 000000,000,CC,1,ROCK,Stephen Stills,Pieces
 700000,066,VL,1,ROCK,Stephen Stills,Steve Stills
@@ -1651,7 +1643,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,Thelonius Monk,Thelonius Himself
 000000,000,MC,1,JAZZ,Thelonius Monk,Unique
 000000,000,MP,1,JAZZ,Thelonius Monk,With Art Blakey
-570000,000,MC,2,JAZZ,Thelonius Monk,Complete 1957 Riverside Recordings,+Coltrane
+570000,000,MC,2,JAZZ,Thelonius Monk,Complete 1957 Riverside,+Coltrane
 690000,000,MC,1,JAZZ,Thelonius Monk,Paris 69
 000000,000,MC,1,ROCK,Tim_OBrien,Red_on_Blonde,Dlyan Covers
 000000,000,MP,2,JAZZ,Time Jumpers,Jumping Time
@@ -1660,7 +1652,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,BLUZ,Tinsley Ellis,Hell or High Water
 000000,000,MC,1,ROCK,Toad the Wet Sprocket,Constellation
 930000,000,MD,1,ROCK,Tom Petty,Greatest Hits
-000000,000,CC,2,JAZZ,Tomasz Stanko,Wislawa
+000000,000,MC,2,JAZZ,Tomasz Stanko,Wislawa
 000000,000,MC,1,XMAS,Tommy Emmanuel,All I Want for Christmas
 000000,000,MC,1,JAZZ,Tommy Flanagan,Lady Be Good
 000000,000,MC,1,JAZZ,Tommy Flanagan,Sea Changes
@@ -1676,7 +1668,6 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,BEAT,Traveling Wilburys,Volume 1
 000000,000,MC,1,BEAT,Traveling Wilburys,Volume 3
 000000,000,MP,2,XMAS,Tropical Steel Band,Christmas
-000000,000,CC,1,JAZZ,True North,True North
 000000,000,MC,2,CLAS,US Navy Band,Music for Chamber Winds
 000000,000,MC,1,CLAS,Valentina_Lisitsa,Live_at_the_Royal_Albert_Hall
 000000,376,XX,1,ROCK,Van Morrison,Best Of
@@ -1711,6 +1702,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MP,1,BEAT,Various,Classical-Beatles
 000000,000,CC,1,JAZZ,Various,Cole Porter Songbook
 000000,000,MC,1,DEAD,Various,Deadicated
+000000,000,MC,1,HARP,Various,Dussek_and_the_Harp
 000000,000,MC,1,CLAS,Various,Essential Ballet
 000000,439,LP,2,JAZZ,Various,Fifty Years Jazz Guitar
 000000,318,LP,1,BLUZ,Various,Gasoline
@@ -1746,8 +1738,9 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,258,LP,1,BLUZ,Various,The Blues
 000000,232,LP,2,BLUZ,Various,The Great Blues Men
 000000,000,MP,2,ROCK,Various,The Mojo Of Dr. John
+000000,000,MC,1,JAZZ,Various,True North
 000000,263,LP,1,BLUZ,Various,Underground Blues
-000000,000,CC,1,JAZZ,Various,When Jazz Meets Guitar
+000000,000,MC,1,JAZZ,Various,When Jazz Meets Guitar
 000000,171,LP,2,ROCK,Various,Woodstock 2,+Hendrix
 000000,000,CC,1,FOLK,Various,Woody Guthrie 100th Birthday
 000000,000,MC,1,FOLK,Various,Woody_Guthrie_At_100
@@ -1764,7 +1757,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,ROCK,Ventures,Best Of
 000000,000,MC,1,JAZZ,Victor Wooten,Palmystery
 000000,000,MC,1,JAZZ,Victor Wooten,Soul Circus
-000000,000,CC,1,JAZZ,Vijay Iyer,Accelerando
+000000,000,MC,1,JAZZ,Vijay Iyer,Accelerando
 000000,000,MC,1,JAZZ,Vince Guaraldi,Charlie Brown Suite
 000000,000,MC,1,CLAS,Vivaldi,Another Four Seasons
 000000,000,MC,1,CLAS,Vivaldi,Concertos and Other Works
@@ -1779,7 +1772,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,2,ROCK,Who,Greatest Hits Live
 671215,045,MC,1,ROCK,Who,Sell Out
 690519,022,MD,2,ROCK,Who,Tommy
-700511,082,CD,2,ROCK,Who,Live at Leeds
+700511,082,MD,2,ROCK,Who,Live at Leeds
 700511,082,MP,2,ROCK,Who,Live at Leeds,+Tommy
 710802,083,MP,2,ROCK,Who,Whos Next,+Bonus Disk
 000000,000,MC,1,ROCK,Widespread Panic,Dirty Side Down,DUP
