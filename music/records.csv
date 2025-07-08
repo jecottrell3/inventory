@@ -595,6 +595,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,MC,1,JAZZ,Duke Ellington,Ken_Burns_Jazz
 000000,000,MC,1,JAZZ,Duke Ellington,The_Okeh_Ellington
 000000,000,MD,1,JAZZ,Duke Ellington,Very Best Of
+000000,000,MP,1,JAZZ,Dukes_of_Dixieland,Barn_Burners
 000000,000,MC,1,ROCK,Dylan,Essential
 000000,000,M3,1,ROCK,Dylan,More Blood More Tracks
 000000,000,MC,2,ROCK,Dylan,No Direction Home
@@ -1262,6 +1263,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,CC,1,JAZZ,Modern Jazz Quartet,With Paul Desmond
 000000,000,MC,1,DEAD,Moe,The Conch
 000000,000,M3,1,FOLK,Molly Tuttle,City of Gold
+000000,000,MP,1,ROCK,Monkees,Stranger_Things_Have_Happened,=Peter Tork
 660068,000,MD,1,ROCK,Monkees,Birds+Bees+Monkees
 660068,000,MD,1,ROCK,Monkees,Headquarters
 660068,000,MD,1,ROCK,Monkees,More-of-the-Monkees
@@ -1306,6 +1308,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 700000,000,M3,2,ROCK,Neil Young,Carnegie_Hall_1970
 720000,107,MP,1,ROCK,Neil Young,Harvest
 760000,000,M3,1,ROCK,Neil Young,Hitchhiker
+000000,000,MP,1,MISC,New_Orleans_Klezmer_Allstars,Big_Kibosh
 000000,000,MC,1,CLAS,Newman+Oltman,Laments and Dances
 000000,000,M3,1,FOLK,Nickel Creek,Nickel Creek,
 000000,000,M3,1,FOLK,Nickel Creek,Why Should The Fire Die
@@ -1354,6 +1357,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,000,M3,1,BLUZ,Paul Butterfield,Butterfield Blues Band
 000000,000,CC,1,BLUZ,Paul Butterfield,With Mike Bloomfield
 000000,000,MC,1,BEAT,Paul McCartney,Amoeba Gig
+000000,000,MP,2,BEAT,Paul McCartney,Back_in_the_US_Live
 000000,000,MC,1,PROG,Paul_Winter,Prayer_for_the_Wild_Things
 000000,000,CD,1,ROCK,Paula Cole,This Fire
 000000,000,M3,2,FOLK,Paxton+Fink+Marxer,All New
@@ -1486,7 +1490,7 @@ Issued,Num,MT,N,Type,Artist,Album,Comments
 000000,145,VL,1,ROCK,Ry Cooder,Into the Purple Valley
 000000,000,CD,1,BLUZ,SRV,Greatest Hits
 000000,000,MD,1,WOMN,Sade,Best Of,Duplicate
-000000,000,CD,1,WOMN,Sade,Soldier of Love
+000000,000,MP,1,WOMN,Sade,Soldier of Love
 000000,389,LP,1,FOLK,Sam Bush,Blake Taylor Bush Vassar
 000000,000,CD,1,ROCK,Santana,Best Of
 000000,329,NX,1,ROCK,Santana,Love Devotion Surrender
